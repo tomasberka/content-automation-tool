@@ -1,0 +1,22 @@
+structure:
+  hook_duration: 3
+  context_duration: 10
+  relevance_duration: 8
+  cta_duration: 4
+  
+templates:
+  short:
+    hook: "{attention_grabber}"
+    context: "Here's what you need to know about {topic}."
+    relevance: "This matters because {reason}."
+    cta: "Follow for more PC tips."
+  medium:
+    hook: "{attention_grabber}"
+    context: "Let me break down {topic} for you. {detail}"
+    relevance: "This is important because {reason}. {impact}"
+    cta: "Save this for later. Follow for daily tech insights."
+  long:
+    hook: "{attention_grabber}"
+    context: "Today we're diving into {topic}. {detail} {technical_info}"
+    relevance: "Understanding this matters because {reason}. {impact} {implications}"
+    cta: "Drop your questions below. Subscribe for weekly deep dives."

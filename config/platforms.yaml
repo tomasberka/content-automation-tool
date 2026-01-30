@@ -1,0 +1,22 @@
+tiktok:
+  max_caption_length: 2200
+  optimal_duration: [15, 30, 60]
+  hashtag_count: 5
+  
+instagram_reels:
+  max_caption_length: 2200
+  optimal_duration: [30, 60, 90]
+  hashtag_count: 10
+
+youtube_shorts:
+  max_title_length: 100
+  max_description_length: 5000
+  optimal_duration: [30, 60]
+
+youtube_longform:
+  max_title_length: 100
+  min_duration: 480  # 8 minutes
+
+x_twitter:
+  max_tweet_length: 280
+  max_thread_length: 10

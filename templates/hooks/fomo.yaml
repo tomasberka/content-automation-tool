@@ -1,0 +1,8 @@
+patterns:
+  - "This deal ends in 24 hours."
+  - "Only 50 units left."
+  - "Price drops tomorrow."
+  - "Last chance to get {product}."
+  - "Limited time: {discount}% off."
+  - "Stock is almost gone."
+  - "Sale ends tonight."
