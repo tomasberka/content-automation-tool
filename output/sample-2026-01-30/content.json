@@ -1,0 +1,664 @@
+[
+  {
+    "news": {
+      "title": "Complete Guide: How to Optimize Your PC for Maximum FPS",
+      "summary": "Learn the best settings, tweaks, and configurations to boost your gaming performance. Includes step-by-step benchmarks and comparisons.",
+      "source": "Tom's Hardware",
+      "category": "hardware",
+      "date": "2026-01-30 00:35:25.311240",
+      "url": "https://example.com/optimize-fps-guide",
+      "pillar": "education",
+      "confidence": 0.8
+    },
+    "hooks": [
+      {
+        "text": "Is your GPU already outdated?",
+        "type": "question",
+        "source": "Complete Guide: How to Optimize Your PC for Maximum FPS"
+      },
+      {
+        "text": "Hidden feature in your GPU.",
+        "type": "curiosity",
+        "source": "Complete Guide: How to Optimize Your PC for Maximum FPS"
+      },
+      {
+        "text": "This brand just shocked everyone.",
+        "type": "shock",
+        "source": "Complete Guide: How to Optimize Your PC for Maximum FPS"
+      }
+    ],
+    "script": {
+      "sections": [
+        {
+          "name": "hook",
+          "text": "Is your GPU already outdated?",
+          "start": 0,
+          "duration": 3
+        },
+        {
+          "name": "context",
+          "text": "Let me break down Complete Guide: How to Optimize Your PC for Maximum FPS for you. Learn the best settings, tweaks, and configurations to boost your gaming performance.",
+          "start": 3,
+          "duration": 12
+        },
+        {
+          "name": "relevance",
+          "text": "This is important because this impacts your build decisions. Your performance could improve significantly.",
+          "start": 15,
+          "duration": 9
+        },
+        {
+          "name": "cta",
+          "text": "Save this for later. Follow for daily tech insights. Build smarter.",
+          "start": 25,
+          "duration": 4
+        }
+      ],
+      "duration": 30,
+      "pillar": "education",
+      "hook_type": "question"
+    },
+    "platforms": {
+      "tiktok": {
+        "platform": "tiktok",
+        "caption": "Is your GPU already outdated?\n\nLet me break down Complete Guide: How to Optimize Your PC for Maximum FPS for you. Learn the best settings, tweaks, and configurations to boost your gaming performance.",
+        "hashtags": [
+          "#GPU",
+          "#Tech",
+          "#TechNews",
+          "#BuildSmarter",
+          "#PCBuild"
+        ],
+        "duration": 30,
+        "audio_suggestion": "Upbeat tech background music",
+        "full_text": "Is your GPU already outdated?\n\nLet me break down Complete Guide: How to Optimize Your PC for Maximum FPS for you. Learn the best settings, tweaks, and configurations to boost your gaming performance.\n\n#GPU #Tech #TechNews #BuildSmarter #PCBuild"
+      },
+      "instagram_reels": {
+        "platform": "instagram_reels",
+        "caption": "Is your GPU already outdated?\n\nLet me break down Complete Guide: How to Optimize Your PC for Maximum FPS for you. Learn the best settings, tweaks, and configurations to boost your gaming performance.\n\nThis is important because this impacts your build decisions. Your performance could improve significantly.",
+        "hashtag_block": "\n\n#GamingPC #HowTo #BuildSmarter #Gaming #PCGaming #Esports #Tech #GPU #GamingSetup #GameHarder",
+        "hashtags": [
+          "#GamingPC",
+          "#HowTo",
+          "#BuildSmarter",
+          "#Gaming",
+          "#PCGaming",
+          "#Esports",
+          "#Tech",
+          "#GPU",
+          "#GamingSetup",
+          "#GameHarder"
+        ],
+        "story_text": "Is your GPU already outdated?",
+        "duration": 30,
+        "full_text": "Is your GPU already outdated?\n\nLet me break down Complete Guide: How to Optimize Your PC for Maximum FPS for you. Learn the best settings, tweaks, and configurations to boost your gaming performance.\n\nThis is important because this impacts your build decisions. Your performance could improve significantly.\n\n#GamingPC #HowTo #BuildSmarter #Gaming #PCGaming #Esports #Tech #GPU #GamingSetup #GameHarder"
+      },
+      "youtube_shorts": {
+        "platform": "youtube_shorts",
+        "title": "Complete Guide: How to Optimize Your PC for Maximum FPS",
+        "description": "Is your GPU already outdated?\n\nLet me break down Complete Guide: How to Optimize Your PC for Maximum FPS for you. Learn the best settings, tweaks, and configurations to boost your gaming performance.\n\nThis is important because this impacts your build decisions. Your performance could improve significantly.\n\nSave this for later. Follow for daily tech insights. Build smarter.\n\nSource: https://example.com/optimize-fps-guide\n\n#GamingPC #TechNews #PCGaming",
+        "tags": [
+          "gaming",
+          "pc gaming",
+          "tech news",
+          "hardware",
+          "pc hardware",
+          "computer build",
+          "gpu",
+          "cpu",
+          "tutorial",
+          "guide",
+          "how to"
+        ],
+        "duration": 30
+      },
+      "youtube_longform": {
+        "platform": "youtube_longform",
+        "title": "How to: Complete Guide: How to Optimize Your PC for Maximum FPS",
+        "description": "Is your GPU already outdated?\n\nLet me break down Complete Guide: How to Optimize Your PC for Maximum FPS for you. Learn the best settings, tweaks, and configurations to boost your gaming performance.\n\nThis is important because this impacts your build decisions. Your performance could improve significantly.\n\nSave this for later. Follow for daily tech insights. Build smarter.\n\nSource: https://example.com/optimize-fps-guide\n\n#GamingPC #TechNews #PCGaming\n\n\u23f1\ufe0f TIMESTAMPS:\n[Add chapters here]\n\n\ud83d\udd17 LINKS:\nArticle: https://example.com/optimize-fps-guide\n\n\ud83d\udcf1 FOLLOW:\nInstagram: @hellocomp\nTwitter: @hellocomp\nTikTok: @hellocomp",
+        "chapters": [
+          {
+            "time": "0:00",
+            "title": "Intro"
+          },
+          {
+            "time": "0:00",
+            "title": "Hook"
+          },
+          {
+            "time": "0:03",
+            "title": "Context"
+          },
+          {
+            "time": "0:15",
+            "title": "Relevance"
+          },
+          {
+            "time": "0:25",
+            "title": "Cta"
+          }
+        ],
+        "tags": [
+          "gaming",
+          "pc gaming",
+          "tech news",
+          "hardware",
+          "pc hardware",
+          "computer build",
+          "gpu",
+          "cpu",
+          "tutorial",
+          "guide",
+          "how to"
+        ],
+        "min_duration": 480
+      },
+      "x_twitter": {
+        "platform": "x_twitter",
+        "single_tweet": "Is your GPU already outdated? #PCGaming #Tech",
+        "thread": [
+          "1/4 Is your GPU already outdated?",
+          "2/4 Let me break down Complete Guide: How to Optimize Your PC for Maximum FPS for you. Learn the best settings, tweaks, and configurations to boost your gaming performance.",
+          "3/4 This is important because this impacts your build decisions. Your performance could improve significantly.",
+          "4/4 Save this for later. Follow for daily tech insights. Build smarter."
+        ],
+        "quote_tweet": "\"Complete Guide: How to Optimize Your PC for Maximum FPS\"\n\nvia Tom's Hardware\n\n#Gaming #Tech",
+        "max_tweet_length": 280
+      }
+    },
+    "generated_at": "2026-01-30T00:35:25.324246"
+  },
+  {
+    "news": {
+      "title": "RTX 4070 Ti Super Just Dropped to $599 - Best Deal This Year",
+      "summary": "Major price drop alert! The RTX 4070 Ti Super is now available for $599, saving you $200 off MSRP. Stock is limited across major retailers.",
+      "source": "PC Gamer",
+      "category": "hardware",
+      "date": "2026-01-30 00:35:25.311243",
+      "url": "https://example.com/rtx-4070-ti-deal",
+      "pillar": "offers",
+      "confidence": 0.8
+    },
+    "hooks": [
+      {
+        "text": "Stock is almost gone.",
+        "type": "fomo",
+        "source": "RTX 4070 Ti Super Just Dropped to $599 - Best Deal This Year"
+      },
+      {
+        "text": "This changes everything about RTX 4070 Ti Super Just Dropped to $599 - Best Deal This Year.",
+        "type": "shock",
+        "source": "RTX 4070 Ti Super Just Dropped to $599 - Best Deal This Year"
+      },
+      {
+        "text": "How does RTX 4070 compare to {competitor}?",
+        "type": "question",
+        "source": "RTX 4070 Ti Super Just Dropped to $599 - Best Deal This Year"
+      }
+    ],
+    "script": {
+      "sections": [
+        {
+          "name": "hook",
+          "text": "Stock is almost gone.",
+          "start": 0,
+          "duration": 2
+        },
+        {
+          "name": "context",
+          "text": "Here's the deal: RTX 4070 is 25% off. {details}",
+          "start": 2,
+          "duration": 12
+        },
+        {
+          "name": "relevance",
+          "text": "You save $599. That's better than last month's prices.",
+          "start": 14,
+          "duration": 9
+        },
+        {
+          "name": "cta",
+          "text": "Link in bio. This won't last. Follow for daily deals. Build smarter.",
+          "start": 24,
+          "duration": 6
+        }
+      ],
+      "duration": 30,
+      "pillar": "offers",
+      "hook_type": "fomo"
+    },
+    "platforms": {
+      "tiktok": {
+        "platform": "tiktok",
+        "caption": "Stock is almost gone.\n\nHere's the deal: RTX 4070 is 25% off. {details}",
+        "hashtags": [
+          "#TechTok",
+          "#Esports",
+          "#GPU",
+          "#Tech",
+          "#PCBuild"
+        ],
+        "duration": 30,
+        "audio_suggestion": "Exciting deal alert sound",
+        "full_text": "Stock is almost gone.\n\nHere's the deal: RTX 4070 is 25% off. {details}\n\n#TechTok #Esports #GPU #Tech #PCBuild"
+      },
+      "instagram_reels": {
+        "platform": "instagram_reels",
+        "caption": "Stock is almost gone.\n\nHere's the deal: RTX 4070 is 25% off. {details}\n\nYou save $599. That's better than last month's prices.",
+        "hashtag_block": "\n\n#GamingSetup #GamingNews #Deals #PCMasterRace #GamingCommunity #TechNews #Sale #TechTok #Hardware #GamingPC",
+        "hashtags": [
+          "#GamingSetup",
+          "#GamingNews",
+          "#Deals",
+          "#PCMasterRace",
+          "#GamingCommunity",
+          "#TechNews",
+          "#Sale",
+          "#TechTok",
+          "#Hardware",
+          "#GamingPC"
+        ],
+        "story_text": "Stock is almost gone.",
+        "duration": 30,
+        "full_text": "Stock is almost gone.\n\nHere's the deal: RTX 4070 is 25% off. {details}\n\nYou save $599. That's better than last month's prices.\n\n#GamingSetup #GamingNews #Deals #PCMasterRace #GamingCommunity #TechNews #Sale #TechTok #Hardware #GamingPC"
+      },
+      "youtube_shorts": {
+        "platform": "youtube_shorts",
+        "title": "RTX 4070 Ti Super Just Dropped to $599 - Best Deal This Year",
+        "description": "Stock is almost gone.\n\nHere's the deal: RTX 4070 is 25% off. {details}\n\nYou save $599. That's better than last month's prices.\n\nLink in bio. This won't last. Follow for daily deals. Build smarter.\n\nSource: https://example.com/rtx-4070-ti-deal\n\n#GamingPC #TechNews #PCGaming",
+        "tags": [
+          "gaming",
+          "pc gaming",
+          "tech news",
+          "hardware",
+          "pc hardware",
+          "computer build",
+          "gpu",
+          "cpu",
+          "deals",
+          "sale",
+          "discount"
+        ],
+        "duration": 30
+      },
+      "youtube_longform": {
+        "platform": "youtube_longform",
+        "title": "Deal Alert: RTX 4070 Ti Super Just Dropped to $599 - Best Deal This Year",
+        "description": "Stock is almost gone.\n\nHere's the deal: RTX 4070 is 25% off. {details}\n\nYou save $599. That's better than last month's prices.\n\nLink in bio. This won't last. Follow for daily deals. Build smarter.\n\nSource: https://example.com/rtx-4070-ti-deal\n\n#GamingPC #TechNews #PCGaming\n\n\u23f1\ufe0f TIMESTAMPS:\n[Add chapters here]\n\n\ud83d\udd17 LINKS:\nArticle: https://example.com/rtx-4070-ti-deal\n\n\ud83d\udcf1 FOLLOW:\nInstagram: @hellocomp\nTwitter: @hellocomp\nTikTok: @hellocomp",
+        "chapters": [
+          {
+            "time": "0:00",
+            "title": "Intro"
+          },
+          {
+            "time": "0:00",
+            "title": "Hook"
+          },
+          {
+            "time": "0:02",
+            "title": "Context"
+          },
+          {
+            "time": "0:14",
+            "title": "Relevance"
+          },
+          {
+            "time": "0:24",
+            "title": "Cta"
+          }
+        ],
+        "tags": [
+          "gaming",
+          "pc gaming",
+          "tech news",
+          "hardware",
+          "pc hardware",
+          "computer build",
+          "gpu",
+          "cpu",
+          "deals",
+          "sale",
+          "discount"
+        ],
+        "min_duration": 480
+      },
+      "x_twitter": {
+        "platform": "x_twitter",
+        "single_tweet": "Stock is almost gone. #PCGaming #Tech",
+        "thread": [
+          "1/4 Stock is almost gone.",
+          "2/4 Here's the deal: RTX 4070 is 25% off. {details}",
+          "3/4 You save $599. That's better than last month's prices.",
+          "4/4 Link in bio. This won't last. Follow for daily deals. Build smarter."
+        ],
+        "quote_tweet": "\"RTX 4070 Ti Super Just Dropped to $599 - Best Deal This Year\"\n\nvia PC Gamer\n\n#Gaming #Tech",
+        "max_tweet_length": 280
+      }
+    },
+    "generated_at": "2026-01-30T00:35:25.324803"
+  },
+  {
+    "news": {
+      "title": "Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues",
+      "summary": "Thousands of users report that the latest BIOS update resolves the performance problems. Reddit and forums filled with positive feedback.",
+      "source": "The Verge Tech",
+      "category": "hardware",
+      "date": "2026-01-30 00:35:25.311243",
+      "url": "https://example.com/ryzen-bios-fix",
+      "pillar": "social_proof",
+      "confidence": 0.55
+    },
+    "hooks": [
+      {
+        "text": "This changes everything.",
+        "type": "curiosity",
+        "source": "Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues"
+      },
+      {
+        "text": "Is this product worth it in 2026?",
+        "type": "question",
+        "source": "Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues"
+      },
+      {
+        "text": "My $600 this product beat a $2000 this product.",
+        "type": "shock",
+        "source": "Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues"
+      }
+    ],
+    "script": {
+      "sections": [
+        {
+          "name": "hook",
+          "text": "This changes everything.",
+          "start": 0,
+          "duration": 3
+        },
+        {
+          "name": "context",
+          "text": "The community has spoken about Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues. Users are reporting excellent results.",
+          "start": 3,
+          "duration": 9
+        },
+        {
+          "name": "relevance",
+          "text": "Real users confirm it works as promised. Thousands of users confirm this.",
+          "start": 13,
+          "duration": 12
+        },
+        {
+          "name": "cta",
+          "text": "What's your setup? Comment below and follow for more.",
+          "start": 25,
+          "duration": 4
+        }
+      ],
+      "duration": 30,
+      "pillar": "social_proof",
+      "hook_type": "curiosity"
+    },
+    "platforms": {
+      "tiktok": {
+        "platform": "tiktok",
+        "caption": "This changes everything.\n\nThe community has spoken about Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues. Users are reporting excellent results.",
+        "hashtags": [
+          "#Esports",
+          "#Hardware",
+          "#GamingNews",
+          "#PCMasterRace",
+          "#Tech"
+        ],
+        "duration": 30,
+        "audio_suggestion": "Motivational background music",
+        "full_text": "This changes everything.\n\nThe community has spoken about Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues. Users are reporting excellent results.\n\n#Esports #Hardware #GamingNews #PCMasterRace #Tech"
+      },
+      "instagram_reels": {
+        "platform": "instagram_reels",
+        "caption": "This changes everything.\n\nThe community has spoken about Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues. Users are reporting excellent results.\n\nReal users confirm it works as promised. Thousands of users confirm this.",
+        "hashtag_block": "\n\n#GamingPC #GamingCommunity #TechNews #GPU #BuildSmarter #Tech #PCGaming #Esports #GamingSetup #CPU",
+        "hashtags": [
+          "#GamingPC",
+          "#GamingCommunity",
+          "#TechNews",
+          "#GPU",
+          "#BuildSmarter",
+          "#Tech",
+          "#PCGaming",
+          "#Esports",
+          "#GamingSetup",
+          "#CPU"
+        ],
+        "story_text": "This changes everything.",
+        "duration": 30,
+        "full_text": "This changes everything.\n\nThe community has spoken about Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues. Users are reporting excellent results.\n\nReal users confirm it works as promised. Thousands of users confirm this.\n\n#GamingPC #GamingCommunity #TechNews #GPU #BuildSmarter #Tech #PCGaming #Esports #GamingSetup #CPU"
+      },
+      "youtube_shorts": {
+        "platform": "youtube_shorts",
+        "title": "Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues",
+        "description": "This changes everything.\n\nThe community has spoken about Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues. Users are reporting excellent results.\n\nReal users confirm it works as promised. Thousands of users confirm this.\n\nWhat's your setup? Comment below and follow for more.\n\nSource: https://example.com/ryzen-bios-fix\n\n#GamingPC #TechNews #PCGaming",
+        "tags": [
+          "gaming",
+          "pc gaming",
+          "tech news",
+          "hardware",
+          "pc hardware",
+          "computer build",
+          "gpu",
+          "cpu"
+        ],
+        "duration": 30
+      },
+      "youtube_longform": {
+        "platform": "youtube_longform",
+        "title": "Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues",
+        "description": "This changes everything.\n\nThe community has spoken about Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues. Users are reporting excellent results.\n\nReal users confirm it works as promised. Thousands of users confirm this.\n\nWhat's your setup? Comment below and follow for more.\n\nSource: https://example.com/ryzen-bios-fix\n\n#GamingPC #TechNews #PCGaming\n\n\u23f1\ufe0f TIMESTAMPS:\n[Add chapters here]\n\n\ud83d\udd17 LINKS:\nArticle: https://example.com/ryzen-bios-fix\n\n\ud83d\udcf1 FOLLOW:\nInstagram: @hellocomp\nTwitter: @hellocomp\nTikTok: @hellocomp",
+        "chapters": [
+          {
+            "time": "0:00",
+            "title": "Intro"
+          },
+          {
+            "time": "0:00",
+            "title": "Hook"
+          },
+          {
+            "time": "0:03",
+            "title": "Context"
+          },
+          {
+            "time": "0:13",
+            "title": "Relevance"
+          },
+          {
+            "time": "0:25",
+            "title": "Cta"
+          }
+        ],
+        "tags": [
+          "gaming",
+          "pc gaming",
+          "tech news",
+          "hardware",
+          "pc hardware",
+          "computer build",
+          "gpu",
+          "cpu"
+        ],
+        "min_duration": 480
+      },
+      "x_twitter": {
+        "platform": "x_twitter",
+        "single_tweet": "This changes everything. #PCGaming #Tech",
+        "thread": [
+          "1/4 This changes everything.",
+          "2/4 The community has spoken about Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues. Users are reporting excellent results.",
+          "3/4 Real users confirm it works as promised. Thousands of users confirm this.",
+          "4/4 What's your setup? Comment below and follow for more."
+        ],
+        "quote_tweet": "\"Community Confirms: New BIOS Update Fixes Ryzen 9000 Issues\"\n\nvia The Verge Tech\n\n#Gaming #Tech",
+        "max_tweet_length": 280
+      }
+    },
+    "generated_at": "2026-01-30T00:35:25.325373"
+  },
+  {
+    "news": {
+      "title": "Gamer Rage Quits After GPU Explodes During Stream",
+      "summary": "Viral moment as popular streamer watches in horror as their graphics card literally catches fire mid-game. Epic fail caught on camera.",
+      "source": "VideoCardz",
+      "category": "gaming",
+      "date": "2026-01-30 00:35:25.311244",
+      "url": "https://example.com/gpu-explodes-stream",
+      "pillar": "entertainment",
+      "confidence": 0.4
+    },
+    "hooks": [
+      {
+        "text": "600 PC that destroys 2000 builds.",
+        "type": "shock",
+        "source": "Gamer Rage Quits After GPU Explodes During Stream"
+      },
+      {
+        "text": "Guess the price of this setup.",
+        "type": "challenge",
+        "source": "Gamer Rage Quits After GPU Explodes During Stream"
+      },
+      {
+        "text": "Hidden feature in your GPU.",
+        "type": "curiosity",
+        "source": "Gamer Rage Quits After GPU Explodes During Stream"
+      }
+    ],
+    "script": {
+      "sections": [
+        {
+          "name": "hook",
+          "text": "600 PC that destroys 2000 builds.",
+          "start": 0,
+          "duration": 3
+        },
+        {
+          "name": "context",
+          "text": "This is peak gaming culture. something unexpected happened and the reactions are wild",
+          "start": 3,
+          "duration": 14
+        },
+        {
+          "name": "relevance",
+          "text": "We've all been there. We've all been there.",
+          "start": 18,
+          "duration": 7
+        },
+        {
+          "name": "cta",
+          "text": "Share this with your squad. Follow for daily gaming memes. Game harder.",
+          "start": 25,
+          "duration": 4
+        }
+      ],
+      "duration": 30,
+      "pillar": "entertainment",
+      "hook_type": "shock"
+    },
+    "platforms": {
+      "tiktok": {
+        "platform": "tiktok",
+        "caption": "600 PC that destroys 2000 builds.\n\nThis is peak gaming culture. something unexpected happened and the reactions are wild",
+        "hashtags": [
+          "#GPU",
+          "#TechTok",
+          "#Tech",
+          "#GamingCommunity",
+          "#TechNews"
+        ],
+        "duration": 30,
+        "audio_suggestion": "Trending gaming sound",
+        "full_text": "600 PC that destroys 2000 builds.\n\nThis is peak gaming culture. something unexpected happened and the reactions are wild\n\n#GPU #TechTok #Tech #GamingCommunity #TechNews"
+      },
+      "instagram_reels": {
+        "platform": "instagram_reels",
+        "caption": "600 PC that destroys 2000 builds.\n\nThis is peak gaming culture. something unexpected happened and the reactions are wild\n\nWe've all been there. We've all been there.",
+        "hashtag_block": "\n\n#TechTok #GamingNews #GamingPC #GamingCommunity #GameHarder #PCMasterRace #PCBuild #Esports #Gaming #Hardware",
+        "hashtags": [
+          "#TechTok",
+          "#GamingNews",
+          "#GamingPC",
+          "#GamingCommunity",
+          "#GameHarder",
+          "#PCMasterRace",
+          "#PCBuild",
+          "#Esports",
+          "#Gaming",
+          "#Hardware"
+        ],
+        "story_text": "600 PC that destroys 2000 builds.",
+        "duration": 30,
+        "full_text": "600 PC that destroys 2000 builds.\n\nThis is peak gaming culture. something unexpected happened and the reactions are wild\n\nWe've all been there. We've all been there.\n\n#TechTok #GamingNews #GamingPC #GamingCommunity #GameHarder #PCMasterRace #PCBuild #Esports #Gaming #Hardware"
+      },
+      "youtube_shorts": {
+        "platform": "youtube_shorts",
+        "title": "Gamer Rage Quits After GPU Explodes During Stream",
+        "description": "600 PC that destroys 2000 builds.\n\nThis is peak gaming culture. something unexpected happened and the reactions are wild\n\nWe've all been there. We've all been there.\n\nShare this with your squad. Follow for daily gaming memes. Game harder.\n\nSource: https://example.com/gpu-explodes-stream\n\n#GamingPC #TechNews #PCGaming",
+        "tags": [
+          "gaming",
+          "pc gaming",
+          "tech news",
+          "hardware",
+          "gaming news",
+          "game reviews",
+          "gaming setup"
+        ],
+        "duration": 30
+      },
+      "youtube_longform": {
+        "platform": "youtube_longform",
+        "title": "Gamer Rage Quits After GPU Explodes During Stream",
+        "description": "600 PC that destroys 2000 builds.\n\nThis is peak gaming culture. something unexpected happened and the reactions are wild\n\nWe've all been there. We've all been there.\n\nShare this with your squad. Follow for daily gaming memes. Game harder.\n\nSource: https://example.com/gpu-explodes-stream\n\n#GamingPC #TechNews #PCGaming\n\n\u23f1\ufe0f TIMESTAMPS:\n[Add chapters here]\n\n\ud83d\udd17 LINKS:\nArticle: https://example.com/gpu-explodes-stream\n\n\ud83d\udcf1 FOLLOW:\nInstagram: @hellocomp\nTwitter: @hellocomp\nTikTok: @hellocomp",
+        "chapters": [
+          {
+            "time": "0:00",
+            "title": "Intro"
+          },
+          {
+            "time": "0:00",
+            "title": "Hook"
+          },
+          {
+            "time": "0:03",
+            "title": "Context"
+          },
+          {
+            "time": "0:18",
+            "title": "Relevance"
+          },
+          {
+            "time": "0:25",
+            "title": "Cta"
+          }
+        ],
+        "tags": [
+          "gaming",
+          "pc gaming",
+          "tech news",
+          "hardware",
+          "gaming news",
+          "game reviews",
+          "gaming setup"
+        ],
+        "min_duration": 480
+      },
+      "x_twitter": {
+        "platform": "x_twitter",
+        "single_tweet": "600 PC that destroys 2000 builds. #PCGaming #Tech",
+        "thread": [
+          "1/4 600 PC that destroys 2000 builds.",
+          "2/4 This is peak gaming culture. something unexpected happened and the reactions are wild",
+          "3/4 We've all been there. We've all been there.",
+          "4/4 Share this with your squad. Follow for daily gaming memes. Game harder."
+        ],
+        "quote_tweet": "\"Gamer Rage Quits After GPU Explodes During Stream\"\n\nvia VideoCardz\n\n#Gaming #Tech",
+        "max_tweet_length": 280
+      }
+    },
+    "generated_at": "2026-01-30T00:35:25.325875"
+  }
+]
