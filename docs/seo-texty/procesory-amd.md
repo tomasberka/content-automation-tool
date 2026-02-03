@@ -2,7 +2,7 @@
 
 **Title:** Procesory AMD Ryzen 5, 7, 9 | Výkonné CPU | HelloComp
 
-**Meta description:** Výkonné procesory AMD Ryzen 5, 7, 9 a Threadripper pro gaming a workstation. Skvělý poměr cena/výkon. Hotové PC sestavy s AMD CPU připravené k použití.
+**Meta description:** Procesory AMD Ryzen 5, 7, 9 a Threadripper pro gaming a workstation. Skvělý poměr cena/výkon. Hotové PC sestavy s AMD CPU k použití.
 
 ## Procesory AMD Ryzen – Výkon a efektivita v jednom
 

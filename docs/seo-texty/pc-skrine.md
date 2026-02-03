@@ -2,7 +2,7 @@
 
 **Title:** PC skříně a case | Gaming skříň | ATX, Mid Tower | HelloComp
 
-**Meta description:** Kvalitní PC skříně a case pro gaming a workstation. Mid Tower, Full Tower, kompaktní varianty. Hotové sestavy v perfektně vybraných skříních.
+**Meta description:** Kvalitní PC skříně a case pro gaming a workstation. Mid Tower, Full Tower, kompaktní. Hotové sestavy v perfektně vybraných skříních.
 
 ## PC skříně – Domov pro vaše komponenty
 

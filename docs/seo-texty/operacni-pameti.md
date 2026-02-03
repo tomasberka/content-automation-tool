@@ -2,7 +2,7 @@
 
 **Title:** Operační paměti RAM DDR4, DDR5 | Gaming RAM | HelloComp
 
-**Meta description:** Kvalitní operační paměti RAM DDR4 a DDR5 do PC. Od 16GB po 64GB pro gaming a profesionální použití. Hotové sestavy s optimální RAM konfigurací.
+**Meta description:** Kvalitní operační paměti RAM DDR4 a DDR5 do PC. Od 16GB po 64GB pro gaming a profesionální použití. Hotové sestavy s optimální RAM.
 
 ## Operační paměti RAM – Klíč k plynulému výkonu
 

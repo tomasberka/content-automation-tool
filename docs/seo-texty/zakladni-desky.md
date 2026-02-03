@@ -2,7 +2,7 @@
 
 **Title:** Základní desky Intel, AMD | Motherboard | Gaming | HelloComp
 
-**Meta description:** Kvalitní základní desky pro Intel a AMD procesory. B760, Z790, B650, X670 pro gaming a workstation. Hotové sestavy s kompatibilními motherboardy.
+**Meta description:** Kvalitní základní desky pro Intel a AMD procesory. B760, Z790, B650, X670 pro gaming a workstation. Hotové sestavy s kompatibilními MB.
 
 ## Základní desky – Páteř vašeho počítače
 

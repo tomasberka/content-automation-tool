@@ -2,7 +2,7 @@
 
 **Title:** Chladiče CPU a PC ventilátory | AIO vodní chlazení | HelloComp
 
-**Meta description:** Výkonné chladiče CPU a ventilátory pro PC. Tower chladiče, AIO vodní chlazení 240mm, 360mm. Hotové sestavy s optimálním chlazením připravené k použití.
+**Meta description:** Výkonné chladiče CPU a ventilátory pro PC. Tower chladiče, AIO vodní chlazení. Hotové sestavy s optimálním chlazením připravené k použití.
 
 ## Chladiče a ventilátory – Udržte komponenty v chladu
 

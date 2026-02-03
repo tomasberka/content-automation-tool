@@ -2,7 +2,7 @@
 
 **Title:** Grafické karty NVIDIA | Nejvýkonnější GPU | HelloComp
 
-**Meta description:** Objevte grafické karty NVIDIA GeForce RTX 4090, 4080, 4070 a nové RTX 5090, 5080. Špičkový výkon pro gaming a tvorbu. Hotové sestavy s okamžitým nasazením.
+**Meta description:** Grafické karty NVIDIA GeForce RTX 4090, 4080, 4070 a nové RTX 5090, 5080. Špičkový výkon pro gaming. Hotové sestavy s okamžitým nasazením.
 
 ## Grafické karty NVIDIA GeForce – Špičkový výkon pro náročné hráče
 

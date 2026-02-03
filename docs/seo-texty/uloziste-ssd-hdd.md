@@ -2,7 +2,7 @@
 
 **Title:** SSD a HDD disky | NVMe M.2 SSD | Interní disky | HelloComp
 
-**Meta description:** Rychlé SSD disky NVMe M.2 a HDD pro PC. Od 500GB po 4TB pro hry a data. Hotové sestavy s optimálním úložištěm připravené k okamžitému použití.
+**Meta description:** Rychlé SSD disky NVMe M.2 a HDD pro PC. Od 500GB po 4TB pro hry a data. Hotové sestavy s optimálním úložištěm připravené k použití.
 
 ## Interní disky SSD a HDD – Rychlost a kapacita pro vaše data
 

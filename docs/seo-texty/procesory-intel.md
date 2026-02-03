@@ -2,7 +2,7 @@
 
 **Title:** Procesory Intel Core i5, i7, i9 | Výkonné CPU | HelloComp
 
-**Meta description:** Výkonné procesory Intel Core i5, i7 a i9 pro gaming a práci. Nejnovější generace s vynikajícím výkonem. Hotové PC sestavy s Intel CPU připravené k použití.
+**Meta description:** Procesory Intel Core i5, i7 a i9 pro gaming a práci. Nejnovější generace s vynikajícím výkonem. Hotové PC sestavy připravené k použití.
 
 ## Procesory Intel Core – Osvědčený výkon pro každého
 

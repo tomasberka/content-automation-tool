@@ -2,7 +2,7 @@
 
 **Title:** Grafické karty AMD Radeon | RX 7900 XTX, 7800 XT | HelloComp
 
-**Meta description:** Výkonné grafické karty AMD Radeon RX 7900, 7800, 7700. Skvělý poměr cena/výkon pro gaming. Hotové PC sestavy s AMD GPU připravené k okamžitému použití.
+**Meta description:** Grafické karty AMD Radeon RX 7900, 7800, 7700. Skvělý poměr cena/výkon pro gaming. Hotové PC sestavy s AMD GPU připravené k použití.
 
 ## Grafické karty AMD Radeon – Výkon a konkurenceschopná cena
 

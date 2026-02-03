@@ -2,7 +2,7 @@
 
 **Title:** PC zdroje a napájecí zdroje | ATX PSU | Gaming | HelloComp
 
-**Meta description:** Kvalitní PC zdroje a napájecí zdroje ATX. Od 550W po 1000W+ pro gaming a workstation. Modulární zdroje 80+ Gold a Platinum. Hotové sestavy s optimálním PSU.
+**Meta description:** Kvalitní PC zdroje ATX. Od 550W po 1000W+ pro gaming a workstation. Modulární zdroje 80+ Gold a Platinum. Hotové sestavy s optimálním PSU.
 
 ## PC zdroje – Spolehlivé napájení pro váš počítač
 
