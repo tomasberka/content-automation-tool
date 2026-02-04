@@ -5,7 +5,7 @@
 <h3>Ideálna voľba pre rôzne typy hráčov</h3>
 <ul>
 <li><strong>Začínajúci hráči:</strong> cenovo dostupné PC na hry, ktoré bez problémov zvládnu tituly ako CS2, LoL alebo Valorant vo full HD.</li>
-<li><strong>Pokročilí hráči:</strong> vyvážené PC gaming zostavy s výkonnejším <a href="/jak-si-vybrat-grafickou-kartu/">GPU</a> pre hranie vo vysokom rozlíšení.</li>
+<li><strong>Pokročilí hráči:</strong> vyvážené PC gaming zostavy s výkonnejším <a href="/ako-si-vybrat-graficku-kartu/">GPU</a> pre hranie vo vysokom rozlíšení.</li>
 <li><strong>Hardcore hráči a tvorcovia obsahu:</strong> prémiové herné setupy so špičkovými komponentmi pre plynulé hranie vo 4K, streamovanie i prácu s grafikou alebo spracovanie videí.</li>
 </ul>
 <h3>Overená kompatibilita a moderné technológie</h3>
@@ -38,5 +38,5 @@
 <li>účinné chladenie v kvalitných skriniach optimalizovaných pre PC gaming.</li>
 </ul>
 <h2>Vyberte si svoj herný počítač</h2>
-<p>Preskúmajte širokú ponuku <strong>herných počítačov</strong>, zostavte si vlastný herný PC setup a využite možnosť upgradu podľa svojich potrieb. S pomocou FPS kalkulačky ľahko zistíte, ako si vybrané gaming PC poradí vo vašich obľúbených hrách. Nie ste si stále istí? Prečítajte si naše rady a tipy <a href="/jak-si-vybrat-herni-pc/"><strong>ako vybrať herný počítač</strong></a>. Poradíme ako si vybrať medzi AMD a Intel, ukážeme si rozdiely v našich radoch Gamer a odpovieme aj na vaše najčastejšie otázky.</p>
+<p>Preskúmajte širokú ponuku <strong>herných počítačov</strong>, zostavte si vlastný herný PC setup a využite možnosť upgradu podľa svojich potrieb. S pomocou FPS kalkulačky ľahko zistíte, ako si vybrané gaming PC poradí vo vašich obľúbených hrách. Nie ste si stále istí? Prečítajte si naše rady a tipy <a href="/ako-si-vybrat-herny-pc/"><strong>ako vybrať herný počítač</strong></a>. Poradíme ako si vybrať medzi AMD a Intel, ukážeme si rozdiely v našich radoch Gamer a odpovieme aj na vaše najčastejšie otázky.</p>
 <p>U nás nájdete riešenie pre začiatočníkov, pokročilých hráčov i profíkov, ktorí chcú to najlepšie.</p>
