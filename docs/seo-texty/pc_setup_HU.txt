@@ -5,7 +5,7 @@
 <h3>Mire figyeljen a választáskor</h3>
 <ul>
 <li><strong>Processzor</strong> – az egész számítógép agya. Irodához elegendőek a takarékos modellek, játékhoz és videóvágáshoz válasszon teljesítményesebb <a href="/hu/intel-processzorok/">Intel Core processzorokat</a> vagy <a href="/hu/amd-processzorok/">AMD Ryzen</a>-t.</li>
-<li><strong>Videókártya</strong> – kulcsfontosságú a <a href="/hu/jatek-pc-k--gaming/">játék PC-khez</a> és grafikai munkához. Az irodai konfigurációk beépített grafikával is beérik.</li>
+<li><strong>Videókártya</strong> – kulcsfontosságú a <a href="/hu/jatekszamitogepek--gaming/">játék PC-khez</a> és grafikai munkához. Az irodai konfigurációk beépített grafikával is beérik.</li>
 <li><strong>Operatív memória (RAM)</strong> – több memória simább multitaskingot jelent. Átlagos használathoz elegendő 8–16 GB, igényesebb feladatokhoz 32 GB vagy több javasolt.</li>
 <li><strong>Tárhely</strong> – az <a href="/hu/belso-meghajtok/">SSD lemez</a> ma már standard a gyors rendszer- és alkalmazásindításhoz. Nagyobb kapacitáshoz kombinálható hagyományos HDD-vel.</li>
 </ul>
@@ -43,7 +43,7 @@
 <h2>Kinek ideálisak számítógépeink</h2>
 <p>A HelloComp <strong>új számítógépe</strong> kiváló választás:</p>
 <ul>
-<li><strong>játékosoknak</strong>, akik nagy teljesítményű <a href="/hu/jatek-pc-k--gaming/">játék PC-t</a> keresnek frissítési lehetőséggel,</li>
+<li><strong>játékosoknak</strong>, akik nagy teljesítményű <a href="/hu/jatekszamitogepek--gaming/">játék PC-t</a> keresnek frissítési lehetőséggel,</li>
 <li><strong>cégeknek és vállalkozóknak</strong>, akiknek megbízható irodai konfigurációkra van szükségük,</li>
 <li><strong>kreatívoknak és szakembereknek</strong>, akik videóvágáshoz, grafikához vagy 3D-hez igényelnek teljesítményt,</li>
 <li><strong>háztartásoknak</strong>, akik megbízható és csendes <strong>fix számítógépet</strong> keresnek mindennapi használatra,</li>
