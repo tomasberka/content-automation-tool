@@ -1,0 +1,62 @@
+<p>Hledáte <strong>nový počítač</strong> nebo hotovou <strong>PC sestavu</strong>? V nabídce HelloComp najdete <strong>počítačové sestavy</strong> na hry, kancelář i domácnost. Každý <strong>desktop PC</strong> je odborně sestaven, otestován a expedován připravený k okamžitému zapojení. K dispozici jsou různé <strong>stolní počítače a PC sestavy</strong> podle účelu – od <strong>osobních počítačů</strong> na web a multimédia, přes <strong>pevné počítače</strong> do kanceláře, až po výkonné <strong>PC computer</strong> sestavy na hry a profesionální pracovní stanice.</p>
+<p>Chcete <strong>počítač koupit</strong> s jistotou správné volby? Jste na správném místě.</p>
+<h2>Jak vybrat správný počítač</h2>
+<p>Výběr <strong>nového počítače</strong> závisí především na tom, k čemu ho budete používat. Jiné nároky má hráč, jiné kancelářský pracovník a jiné grafik nebo střihač videa. Než začnete procházet nabídku, zamyslete se nad svými potřebami – rozhodne to o tom, jaká <strong>počítačová sestava</strong> bude pro vás ideální.</p>
+<h3>Na co se zaměřit při výběru</h3>
+<ul>
+<li><strong>Procesor</strong> – mozek celého počítače. Pro kancelář stačí úsporné modely, pro hry a střih videa volte výkonnější <a href="/procesory-intel/">procesory Intel Core</a> nebo <a href="/procesory-amd/">AMD Ryzen</a>.</li>
+<li><strong>Grafická karta</strong> – klíčová pro <a href="/herni-pocitace--gaming/">herní PC</a> a práci s grafikou. Kancelářské sestavy si vystačí s integrovanou grafikou.</li>
+<li><strong>Operační paměť (RAM)</strong> – více paměti znamená plynulejší multitasking. Pro běžné použití stačí 8–16 GB, pro náročnější úlohy doporučujeme 32 GB a více.</li>
+<li><strong>Úložiště</strong> – <a href="/interni-disky/">SSD disk</a> je dnes standardem pro rychlý start systému i aplikací. Pro větší kapacitu lze kombinovat s klasickým HDD.</li>
+</ul>
+<p>Správná kombinace těchto <a href="/pc-komponenty/">PC komponent</a> rozhoduje o tom, zda vám <strong>počítač</strong> bude spolehlivě sloužit roky. Zajímá vás také <strong>počítač cena</strong>? V každé kategorii najdete sestavy s ideálním poměrem cena/výkon.</p>
+<h2>Co zvládnou jednotlivé typy počítačů</h2>
+<p>Každá <strong>počítačová sestava</strong> je navržena pro konkrétní typ využití. Orientační přehled vám pomůže rychle se zorientovat v nabídce a vybrat správný <strong>PC počítač</strong> pro vaše potřeby.</p>
+<h3>Herní počítače</h3>
+<p><strong>Herní PC počítač</strong> s dedikovanou <a href="/graficke-karty-do-pc/">grafickou kartou</a> je základ pro plynulé hraní moderních her. V nabídce najdete sestavy od základních e-sportových strojů až po high-end <strong>herní děla</strong> pro 4K gaming. U každého herního počítače je k dispozici <strong>FPS kalkulačka</strong>, díky které si ověříte, kolik snímků za sekundu poběží vaše oblíbená hra.</p>
+<h3>Kancelářské počítače</h3>
+<p><strong>Stolní počítač sestava</strong> s SSD a tichým chodem je ideální volbou pro práci s dokumenty, e-maily, tabulkami a videokonference. Kancelářské <strong>PC sestavy</strong> jsou optimalizovány na nízkou spotřebu a dlouhou životnost.</p>
+<h3>Pracovní stanice pro střih a grafiku</h3>
+<p>Pro náročnou práci s videem, 3D grafikou nebo CAD aplikacemi nabízíme <strong>pracovní stanice</strong> s výkonným procesorem, dostatkem <a href="/operacni-pameti/">operační paměti</a> a profesionální grafikou. Tyto <strong>comp</strong> sestavy zvládnou i nejnáročnější projekty.</p>
+<h3>Počítače pro domácnost</h3>
+<p><strong>Domácí stolní počítač</strong> nebo kompaktní <strong>Mini PC</strong> je skvělou volbou pro prohlížení webu, sledování filmů, komunikaci s rodinou a základní kancelářskou práci. Nenáročné, tiché a úsporné.</p>
+<h2>Typické konfigurace a komponenty</h2>
+<p>V nabídce HelloComp najdete <strong>doporučené PC sestavy</strong> pro různé typy uživatelů. Každá <strong>PC sestava</strong> je navržena s důrazem na ideální poměr cena/výkon pro daný účel.</p>
+<p><strong>Doporučené konfigurace PC sestav</strong></p>
+<ul>
+<li><strong>Kancelář</strong> → Procesor: Intel Core i3 / Ryzen 3 → RAM: 8–16 GB → Grafika: Integrovaná → Úložiště: 256–512 GB SSD</li>
+<li><strong>Domácnost</strong> → Procesor: Intel Core i5 / Ryzen 5 → RAM: 16 GB → Grafika: Integrovaná → Úložiště: 512 GB SSD</li>
+<li><strong>Hry (základ)</strong> → Procesor: Intel Core i5 / Ryzen 5 → RAM: 16 GB → Grafika: Dedikovaná → Úložiště: 512 GB – 1 TB SSD</li>
+<li><strong>Hry (výkon)</strong> → Procesor: Intel Core i7 / Ryzen 7 → RAM: 32 GB → Grafika: Dedikovaná high-end → Úložiště: 1–2 TB SSD</li>
+<li><strong>Střih, grafika</strong> → Procesor: Intel Core i7/i9 / Ryzen 9 → RAM: 32–64 GB → Grafika: Profesionální → Úložiště: 2 TB+ SSD</li>
+</ul>
+<p>Správná kombinace <a href="/pc-komponenty/">PC komponent</a> zajistí, že vaše <strong>pc počítač</strong> bude odpovídat vašim požadavkům a nebude zbytečně přeplácená ani poddimenzovaná.</p>
+<h2>Možnosti upgradu a konfigurace na míru</h2>
+<p>Každou <strong>PC sestavu</strong> v nabídce HelloComp můžeme upravit podle vašich individuálních potřeb. Pokud potřebujete více výkonu, větší úložiště nebo specifickou konfiguraci, umíme:</p>
+<ul>
+<li>navýšit <a href="/operacni-pameti/">operační paměť</a> (RAM),</li>
+<li>přidat větší nebo rychlejší <a href="/interni-disky/">SSD či HDD</a>,</li>
+<li>vyměnit procesor za výkonnější model,</li>
+<li>u vybraných sestav upgradovat grafickou kartu.</li>
+</ul>
+<p>Díky tomu získáte <strong>osobní počítač</strong> přesně na míru vašim potřebám – ať už jde o <a href="/kancelarske-pocitace/">stolní PC do kanceláře</a>, <strong>herní počítačovou sestavu</strong> nebo pracovní stanici pro kreativce. Možnost budoucího rozšíření je samozřejmostí – vaše <strong>počítače</strong> mohou růst spolu s vašimi nároky.</p>
+<h2>Pro koho jsou naše počítače ideální</h2>
+<p><strong>Nový počítač</strong> od HelloComp je skvělou volbou pro:</p>
+<ul>
+<li><strong>hráče</strong> hledající výkonné <a href="/herni-pocitace--gaming/">herní PC</a> s možností upgradu,</li>
+<li><strong>firmy a podnikatele</strong> potřebující spolehlivé kancelářské sestavy,</li>
+<li><strong>kreativce a profesionály</strong> vyžadující výkon pro střih videa, grafiku nebo 3D,</li>
+<li><strong>domácnosti</strong> hledající spolehlivý a tichý <strong>pevný počítač</strong> na každodenní použití,</li>
+<li><strong>studenty</strong> potřebující univerzální a cenově dostupnou <strong>počítačovou sestavu</strong>.</li>
+</ul>
+<p>U nás nejde jen o prodej krabic. Každý <strong>stolní počítač</strong> a <strong>PC sestava</strong> prochází pečlivým procesem:</p>
+<ul>
+<li><strong>Sestaveno v ČR</strong> – každá sestava je ručně sestavena zkušenými techniky.</li>
+<li><strong>Otestováno před expedicí</strong> – provádíme zátěžové testy pro stabilitu a spolehlivost.</li>
+<li><strong>Tichý provoz</strong> – vybíráme komponenty s důrazem na kvalitní chlazení a nízkou hlučnost.</li>
+<li><strong>Záruka 24 měsíců</strong> – standardní záruka pro soukromé osoby i firmy s českým servisem.</li>
+<li><strong>Splátky</strong> – můžete používat hned a platit postupně díky dostupnému splátkovému financování.</li>
+</ul>
+<h2>Vyberte si svůj nový stolní počítač</h2>
+<p>Prozkoumejte nabídku <strong>stolních počítačů a PC sestav</strong> a najděte řešení přesně pro vaše potřeby. Využijte možnost konfigurace na míru a u herních modelů si ověřte výkon pomocí <strong>FPS kalkulačky</strong>.</p>
+<p><strong>Doporučené PC sestavy</strong> od HelloComp jsou připravené k okamžitému použití – stačí zapojit a pracovat nebo hrát. Chcete <strong>koupit počítač</strong> a nevíte, kde začít? Prohlédněte si jednotlivé kategorie nebo nám napište – rádi poradíme do 24 hodin. U nás najdete <strong>stolní PC</strong> řešení pro každé využití, od základních <strong>comp</strong> sestav až po výkonné <strong>desktop PC</strong> a <a href="/pracovni-stanice--workstation-pc/">pracovní stanice</a> sestavy pro náročné uživatele.</p>
