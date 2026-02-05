@@ -1,0 +1,22 @@
+rss_feeds:
+  - name: "Tom's Hardware"
+    url: "https://www.tomshardware.com/feeds/all"
+    category: "hardware"
+  - name: "PC Gamer"
+    url: "https://www.pcgamer.com/rss/"
+    category: "gaming"
+  - name: "The Verge Tech"
+    url: "https://www.theverge.com/rss/index.xml"
+    category: "tech"
+  - name: "VideoCardz"
+    url: "https://videocardz.com/feed"
+    category: "hardware"
+  - name: "Ars Technica Gaming"
+    url: "https://feeds.arstechnica.com/arstechnica/gaming"
+    category: "gaming"
+  - name: "PC Gamesn"
+    url: "https://www.pcgamesn.com/feed"
+    category: "gaming"
+
+refresh_interval: 3600  # seconds
+max_articles_per_source: 10

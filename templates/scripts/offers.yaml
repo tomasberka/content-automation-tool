@@ -1,0 +1,22 @@
+structure:
+  hook_duration: 2
+  context_duration: 10
+  relevance_duration: 8
+  cta_duration: 5
+  
+templates:
+  short:
+    hook: "{attention_grabber}"
+    context: "{product} is {discount}% off right now."
+    relevance: "Save ${amount} today."
+    cta: "Link in bio. Don't miss out."
+  medium:
+    hook: "{attention_grabber}"
+    context: "Here's the deal: {product} is {discount}% off. {details}"
+    relevance: "You save ${amount}. {comparison}"
+    cta: "Link in bio. This won't last. Follow for daily deals."
+  long:
+    hook: "{attention_grabber}"
+    context: "Let's break down this deal on {product}. {details} {specs} {normal_price}"
+    relevance: "At {discount}% off, you save ${amount}. {comparison} {value_proposition}"
+    cta: "Full details and link in description. Subscribe so you never miss a deal."

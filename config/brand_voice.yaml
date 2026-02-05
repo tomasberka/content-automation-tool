@@ -1,0 +1,14 @@
+brand_name: "HelloComp"
+tone:
+  - professional
+  - factual
+  - enthusiast-friendly
+  - trustworthy
+avoid:
+  - clickbait exaggeration
+  - false claims
+  - offensive language
+signature_phrases:
+  - "Build smarter."
+  - "Game harder."
+  - "Your setup, elevated."
