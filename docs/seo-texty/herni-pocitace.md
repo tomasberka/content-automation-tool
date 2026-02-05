@@ -4,141 +4,95 @@
 
 **Meta description:** Herní počítače ⚡ Gaming PC sestavy s AMD a Intel procesory, RTX grafikami. FPS kalkulačka, testování, upgrade na míru. Ideální poměr cena/výkon od HelloComp.
 
-## Herní počítače – výkonné gaming PC sestavy pro každého hráče
+<p>Hledáte <strong>herní počítač</strong> nebo <strong>gaming PC sestavu</strong>? V nabídce HelloComp najdete <strong>herní PC sestavy</strong> pro každý rozpočet a herní styl. Každý <strong>gaming počítač</strong> je odborně sestaven, otestován a expedován připravený k okamžitému zapojení. K dispozici jsou různé <strong>herní sestavy a gaming PC</strong> podle výkonu – od základních <strong>gaming sestav</strong> pro esport a Full HD, přes výkonné <strong>herní počítače</strong> na 1440p, až po špičkové <strong>4K gaming PC</strong> sestavy s ray tracingem. Chcete <strong>herní PC koupit</strong> s jistotou správné volby? Jste na správném místě.</p>
 
-Herní počítač je základ každého seriózního gamingu. Moderní gaming PC musí zvládat AAA tituly v maximálních detailech, poskytovat vysoké snímkové frekvence pro konkurenční výhodu a zároveň vydržet několik let bez nutnosti upgradu. HelloComp nabízí hotové herní sestavy i možnost individuálního přizpůsobení – vždy s důrazem na výkon, stabilitu a ideální poměr cena/výkon.
+<h2>Jak vybrat správný herní počítač</h2>
 
-## Jak vybrat správný herní počítač
+<p>Výběr <strong>gaming PC</strong> závisí především na tom, v jakém rozlíšení chcete hrát a jaké hry preferujete. Jiné nároky má hráč esportových titulů, jiné nadšenec do AAA single-player her a jiné streamer. Než začnete procházet nabídku <strong>herních počítačů</strong>, zamyslete se nad svými potřebami – rozhodne to o tom, jaká <strong>herní PC sestava</strong> bude pro vás ideální.</p>
 
-Výběr gaming PC závisí na několika klíčových faktorech:
+<h3>Na co se zaměřit při výběru gaming PC</h3>
 
-**Podle rozlišení a výkonu:**
-- **Full HD gaming (1080p)** – pro 60-144 FPS v moderních hrách
-  - Procesor: Intel i5-13400F / AMD Ryzen 5 7600
-  - GPU: RTX 4060 8GB / RX 7600 8GB
-  - RAM: 16GB DDR4/DDR5
-  - Cena: od 25 000 Kč
-- **WQHD gaming (1440p)** – pro vysoké detaily a 100+ FPS
-  - Procesor: Intel i7-14700KF / AMD Ryzen 7 7800X3D
-  - GPU: RTX 4070 12GB / RX 7800 XT 16GB
-  - RAM: 32GB DDR5
-  - Cena: od 45 000 Kč
-- **4K Ultra gaming** – maximální detaily, ray tracing, 60+ FPS
-  - Procesor: Intel i9-14900K / AMD Ryzen 9 7950X
-  - GPU: RTX 4080 16GB / RTX 4090 24GB
-  - RAM: 32-64GB DDR5
-  - Cena: od 75 000 Kč
+<ul>
+<li><strong>Rozlíšení a FPS</strong> – pro Full HD (1080p) stačí RTX 4060, pro WQHD (1440p) volte RTX 4070+, pro 4K gaming RTX 4080/4090.</li>
+<li><strong>Procesor</strong> – mozek <strong>herního počítače</strong>. Pro gaming volte výkonnější <a href="/procesory-intel/">procesory Intel Core i5/i7</a> nebo <a href="/procesory-amd/">AMD Ryzen 5/7</a>.</li>
+<li><strong>Grafická karta</strong> – klíčová pro <strong>herní výkon</strong>. Moderní <a href="/graficke-karty-nvidia/">NVIDIA RTX</a> nebo <a href="/graficke-karty-amd/">AMD Radeon RX</a> karty nabízejí ray tracing a DLSS/FSR technologie.</li>
+<li><strong>Operační paměť (RAM)</strong> – pro <strong>gaming PC</strong> doporučujeme minimálně 16 GB DDR4/DDR5, pro streaming a multitasking 32 GB.</li>
+<li><strong>Úložiště</strong> – <a href="/uloziste-ssd-hdd/">rychlý NVMe SSD</a> je dnes standardem pro rychlý start her a kratší loading times. Kapacitu volte dle rozsahu vaší knihovny her (500 GB – 2 TB).</li>
+</ul>
 
-**Podle herního stylu:**
-- **Esport a competitive gaming** – CS2, Valorant, League of Legends
-  - Priorita: vysoké FPS (240-360 Hz), rychlá odezva
-  - GPU: RTX 4060 Ti / RX 7700 XT
-  - Monitor: 1080p 240Hz+
-- **AAA single-player hry** – Cyberpunk 2077, Starfield, Red Dead Redemption
-  - Priorita: grafická kvalita, ray tracing, stabilní výkon
-  - GPU: RTX 4070 Super+ pro ray tracing
-- **Streaming a tvorba obsahu** – hraní + streamování současně
-  - Priorita: vícejádrový procesor, dostatek RAM
-  - CPU: 8+ jader (i7/Ryzen 7+)
-  - RAM: minimálně 32GB
+<p>Správná kombinace těchto <a href="/pc-komponenty/">PC komponent</a> rozhoduje o tom, zda vám <strong>herní počítač</strong> bude spolehlivě sloužit roky. Zajímá vás také <strong>herní PC cena</strong>? V každé kategorii najdete <strong>gaming sestavy</strong> s ideálním poměrem cena/výkon.</p>
 
-**Budoucí rozšiřitelnost:**
-- Kvalitní základní deska s rezervou slotů
-- Dostatečně výkonný zdroj (750W+ pro high-end)
-- Prostorná skříň s dobrým airflow
-- M.2 NVMe SSD sloty pro rychlé úložiště
+<h2>Co zvládnou jednotlivé typy herních počítačů</h2>
 
-## Co zvládne herní PC – výkon v konkrétních hrách
+<p>Každá <strong>herní PC sestava</strong> je navržena pro konkrétní typ her a rozlíšení. Orientační přehled vám pomůže rychle se zorientovat v nabídce a vybrat správný <strong>gaming počítač</strong> pro vaše potřeby.</p>
 
-Každá HelloComp sestava je testována v reálných herních scénářích:
+<h3>Gaming PC pro Full HD (1080p)</h3>
 
-### Gaming PC s RTX 4060 (Full HD)
-- **Cyberpunk 2077** – 70 FPS (High), 45 FPS s ray tracingem (Medium)
-- **Fortnite** – 180+ FPS (Competitive settings)
-- **CS2** – 240+ FPS (High settings)
-- **The Witcher 3** – 90 FPS (Ultra settings)
-- **Valorant** – 300+ FPS
+<p><strong>Herní počítač Full HD</strong> s dedikovanou <a href="/graficke-karty-do-pc/">grafickou kartou</a> RTX 4060 nebo RX 7600 zvládne moderní hry v 60-144 FPS. Ideální pro <strong>esportové tituly</strong> jako CS2, Valorant, League of Legends, Fortnite. U každého <strong>herního PC</strong> je k dispozici <strong>FPS kalkulačka</strong>, díky které si ověříte, kolik snímků za sekundu poběží vaše oblíbená hra. Cena <strong>gaming PC Full HD</strong> od 25 000 Kč.</p>
 
-### Gaming PC s RTX 4070 (WQHD)
-- **Cyberpunk 2077** – 80 FPS (Ultra), 65 FPS s ray tracingem + DLSS
-- **Red Dead Redemption 2** – 85 FPS (High-Ultra mix)
-- **Call of Duty: Modern Warfare III** – 120+ FPS (High)
-- **Alan Wake 2** – 70 FPS s DLSS 3 (High + RT)
-- **Starfield** – 80+ FPS (Ultra)
+<h3>Gaming PC pro WQHD (1440p)</h3>
 
-### Gaming PC s RTX 4080/4090 (4K)
-- **Cyberpunk 2077** – 60+ FPS (Ultra + Ray Tracing Overdrive s DLSS)
-- **Microsoft Flight Simulator** – 55 FPS (Ultra 4K)
-- **Hogwarts Legacy** – 75 FPS (Ultra ray tracing)
-- **Resident Evil 4 Remake** – 100+ FPS (Max settings)
+<p><strong>Herní sestava 1440p</strong> s RTX 4070 nebo RX 7800 XT poskytuje ideální kompromis mezi výkonem a cenou. Zvládne AAA tituly v maximálních detailech s 80-120 FPS, ray tracing v náročných hrách s DLSS/FSR. Doporučený <strong>gaming počítač</strong> pro náročné hráče. Cena od 45 000 Kč.</p>
 
-**FPS kalkulačka HelloComp** – na našem webu si můžete přesně spočítat výkon v konkrétních hrách podle zvolené konfigurace.
+<h3>Gaming PC pro 4K Ultra</h3>
 
-## Typické herní konfigurace od HelloComp
+<p>Špičkový <strong>herní počítač 4K</strong> s RTX 4080 nebo RTX 4090 je základ pro maximální zážitek v ultra rozlíšení. Ray tracing, DLSS 3 Frame Generation, 60+ FPS v nejnáročnějších hrách. Tyto <strong>gaming PC sestavy</strong> zvládnou i profesionální úlohy jako streaming, editaci videa nebo 3D rendering. Cena od 75 000 Kč.</p>
 
-HelloComp nabízí osvědčené sestavy pro různé rozpočty:
+<h2>Typické konfigurace a komponenty</h2>
 
-| Kategorie | Procesor | GPU | RAM | Úložiště | Zdroj | Cena od |
-|-----------|----------|-----|-----|----------|-------|---------|
-| **Entry Gaming** | Intel i5-13400F | RTX 4060 8GB | 16GB DDR4 | 500GB NVMe | 650W 80+ | 25 000 Kč |
-| **Sweet Spot 1440p** | AMD Ryzen 7 7700X | RTX 4070 12GB | 32GB DDR5 | 1TB NVMe | 750W 80+ Gold | 45 000 Kč |
-| **High-End 4K** | Intel i7-14700K | RTX 4080 16GB | 32GB DDR5 | 2TB NVMe | 850W 80+ Gold | 75 000 Kč |
-| **Enthusiast Ultra** | AMD Ryzen 9 7950X3D | RTX 4090 24GB | 64GB DDR5 | 2TB Gen4 NVMe | 1000W 80+ Platinum | 130 000 Kč |
+<p>V nabídce HelloComp najdete <strong>doporučené herní PC sestavy</strong> pro různé typy hráčů. Každá <strong>gaming sestava</strong> je navržena s důrazem na ideální poměr cena/výkon pro daný účel.</p>
 
-**Každá sestava obsahuje:**
-- Kvalitní chlazení (tower nebo AIO vodní)
-- Moderní skříň s dobrým airflow
-- RGB osvětlení (volitelné)
-- Předinstalovaný Windows 11
-- Otestováno před odesláním
+<p><strong>Doporučené konfigurace herních PC sestav</strong></p>
 
-### Individuální upgrade možnosti
+<ul>
+<li><strong>Entry Gaming 1080p</strong> → Procesor: Intel Core i5-13400F / Ryzen 5 7600 → RAM: 16 GB DDR4 → Grafika: RTX 4060 8GB → Úložiště: 500 GB NVMe SSD → Zdroj: 650W 80+ → Cena: od 25 000 Kč</li>
+<li><strong>Sweet Spot 1440p</strong> → Procesor: Intel Core i7-14700K / Ryzen 7 7700X → RAM: 32 GB DDR5 → Grafika: RTX 4070 12GB → Úložiště: 1 TB NVMe SSD → Zdroj: 750W 80+ Gold → Cena: od 45 000 Kč</li>
+<li><strong>High-End 4K</strong> → Procesor: Intel Core i7-14700K / Ryzen 9 7900X → RAM: 32 GB DDR5 → Grafika: RTX 4080 16GB → Úložiště: 2 TB NVMe SSD → Zdroj: 850W 80+ Gold → Cena: od 75 000 Kč</li>
+<li><strong>Enthusiast Ultra</strong> → Procesor: Intel Core i9-14900K / Ryzen 9 7950X3D → RAM: 64 GB DDR5 → Grafika: RTX 4090 24GB → Úložiště: 2 TB Gen4 NVMe → Zdroj: 1000W 80+ Platinum → Cena: od 130 000 Kč</li>
+</ul>
 
-Každou HelloComp sestavu lze přizpůsobit:
-- **Výměna GPU** – podle rozpočtu a požadovaného výkonu
-- **Přidání úložiště** – další SSD nebo HDD disky
-- **Lepší chlazení** – AIO vodní chladiče pro nižší teploty
-- **RGB customizace** – ventilátory, pásky, synchronizace
-- **Tichý provoz** – Be Quiet komponenty
-- **Prémiová skříň** – Lian Li, Fractal Design, Corsair
+<p>Správná kombinace <a href="/pc-komponenty/">PC komponent</a> zajistí, že váš <strong>herní počítač</strong> bude odpovídat vašim požadavkům a nebude zbytečně přeplácený ani poddimenzovaný. Každá <strong>gaming PC sestava</strong> obsahuje kvalitní <a href="/chladice-ventilatory/">chlazení</a>, moderní <a href="/pc-skrine/">PC skříň</a> s dobrým airflow a spolehlivý <a href="/pc-zdroje/">napájecí zdroj</a>.</p>
 
-## Pro koho jsou herní počítače HelloComp ideální
+<h2>Možnosti upgradu a konfigurace na míru</h2>
 
-### Začínající hráči
-Chcete se pustit do PC gamingu, ale nevíte si rady s výběrem komponent? HelloComp sestavy jsou hotové, otestované a připravené k použití. Stačí rozbalit, zapojit a hrát.
+<p>Každou <strong>herní PC sestavu</strong> v nabídce HelloComp můžeme upravit podle vašich individuálních potřeb. Pokud potřebujete více výkonu, větší úložiště nebo specifickou konfiguraci <strong>gaming počítače</strong>, umíme:</p>
 
-### Pokročilí gamers
-Znáte požadavky vašich oblíbených her a chcete přesně ten hardware, který potřebujete. Využijte FPS kalkulačku a individuální upgrade pro sestavení ideálního stroje.
+<ul>
+<li>navýšit <a href="/operacni-pameti/">operační paměť</a> (RAM) na 32 GB nebo 64 GB,</li>
+<li>přidat větší nebo rychlejší <a href="/uloziste-ssd-hdd/">NVMe SSD či HDD</a>,</li>
+<li>vyměnit procesor za výkonnější model Intel nebo AMD,</li>
+<li>upgradovat grafickou kartu na vyšší model RTX nebo Radeon,</li>
+<li>přidat RGB osvětlení a prémiové komponenty.</li>
+</ul>
 
-### Competitive hráči
-Každý snímek navíc znamená konkurenční výhodu. HelloComp Gaming PC s Intel procesory a NVIDIA GPU poskytují stabilně vysoké FPS v esportových titulech.
+<p>Díky tomu získáte <strong>herní počítač na míru</strong> přesně pro vaše oblíbené hry a herní styl. Možnost budoucího rozšíření je samozřejmostí – vaše <strong>gaming PC sestavy</strong> mohou růst spolu s vašimi nároky a novými hrami.</p>
 
-### Streamers a content creators
-Potřebujete výkon nejen na hraní, ale i na streamování nebo editaci videí. Multithreading procesory AMD Ryzen a NVIDIA enkodéry zvládnou multitasking bez problémů.
+<h2>Pro koho jsou herní počítače HelloComp ideální</h2>
 
-### Upgrade z konzole
-Přecházíte z PS5 nebo Xbox na PC? Získáte vyšší FPS, lepší grafiku, modding komunitu a univerzální platformu pro práci i zábavu.
+<p><strong>Gaming PC</strong> od HelloComp je skvělou volbou pro:</p>
 
-## Proč sestavit gaming PC s HelloComp
+<ul>
+<li><strong>začínající hráče</strong> hledající hotovou <strong>herní PC sestavu</strong> připravenou k okamžitému použití,</li>
+<li><strong>competitive gamers</strong> potřebující vysoké FPS a stabilní výkon v esportových titulech,</li>
+<li><strong>AAA nadšence</strong> vyžadující výkon pro náročné single-player hry s ray tracingem,</li>
+<li><strong>streamery</strong> potřebující <strong>gaming počítač</strong> schopný zvládnout hraní i streamování současně,</li>
+<li><strong>content creators</strong> hledající výkonnou <strong>herní sestavu</strong> pro editaci videí a grafiku,</li>
+<li><strong>upgrade z konzole</strong> – hráče přecházející z PS5 nebo Xbox na PC platformu.</li>
+</ul>
 
-HelloComp není jen e-shop s komponenty – je to komplexní služba:
+<p>U nás nejde jen o prodej komponent. Každý <strong>herní počítač</strong> a <strong>gaming PC sestava</strong> prochází pečlivým procesem:</p>
 
-✅ **Odborně sestavené konfigurace** – každý PC je sestavován a testován zkušenými techniky. Kontrolujeme stabilitu, teploty a výkon ještě před odesláním.
+<ul>
+<li><strong>Sestaveno v ČR</strong> – každá <strong>herní PC sestava</strong> je ručně sestavena zkušenými techniky.</li>
+<li><strong>Otestováno před expedicí</strong> – provádíme zátěžové testy stability, teplot a herního výkonu.</li>
+<li><strong>FPS kalkulačka</strong> – u každého <strong>gaming PC</strong> si ověříte reálný výkon v konkrétních hrách.</li>
+<li><strong>Tichý provoz</strong> – vybíráme komponenty s důrazem na kvalitní chlazení a nízkou hlučnost.</li>
+<li><strong>Záruka 24 měsíců</strong> – standardní záruka na všechny <strong>herní počítače</strong> s českým servisem.</li>
+<li><strong>Upgrade cesta</strong> – každá <strong>gaming sestava</strong> je připravena na budoucí vylepšení.</li>
+</ul>
 
-✅ **FPS kalkulačka** – zadejte hru a nastavení grafiky, vypočítáme přesný očekávaný výkon vybrané konfigurace. Žádné překvapení po nákupu.
+<h2>Vyberte si svůj nový herní počítač</h2>
 
-✅ **Možnost individuálního upgradu** – líbí se vám základ sestavy, ale chcete lepší GPU nebo více úložiště? Přizpůsobíme každou konfiguraci vašim přáním.
+<p>Prozkoumejte nabídku <strong>herních počítačů a gaming PC sestav</strong> a najděte řešení přesně pro váš herní styl a rozpočet. Využijte možnost konfigurace na míru a u všech modelů si ověřte výkon pomocí <strong>FPS kalkulačky</strong>.</p>
 
-✅ **Reálné testování** – neuvádíme teoretické hodnoty, ale skutečný výkon naměřený v hrách. Víte přesně, co kupujete.
-
-✅ **Ideální poměr cena/výkon** – vybíráme komponenty podle osvědčených kombinací, bez předražených "gamer" verzí. Maximum výkonu za každou korunu.
-
-✅ **Záruka a podpora** – po nákupu vás nenecháme napospas. Technická podpora, záruka na všechny komponenty a pomoc při nastavení.
-
-✅ **Upgrade cesta** – sestavujeme PC s ohledem na budoucnost. Kvalitní zdroj, základní deska s rezervou a prostorná skříň vám usnadní pozdější vylepšení.
-
-## Začněte s HelloComp Gaming PC ještě dnes
-
-Prohlédněte si naši nabídku [hotových herních sestav](https://hellocomp.cz/herni-pc), vyzkoušejte [FPS kalkulačku](https://hellocomp.cz/fps-kalkulator) pro zjištění výkonu nebo si [sestavte gaming PC na míru](https://hellocomp.cz/pc-na-miru) podle svých představ.
-
-Nevíte si rady s výběrem? Kontaktujte náš tým – rádi vám poradíme s konfigurací podle vašeho rozpočtu a herních preferencí. Herní počítač od HelloComp znamená jistotu výkonu, kvality a podpory na které se můžete spolehnout.
+<p><strong>Doporučené gaming PC sestavy</strong> od HelloComp jsou připravené k okamžitému použití – stačí zapojit a hrát. Chcete <strong>koupit herní počítač</strong> a nevíte, kde začít? Prohlédněte si jednotlivé kategorie nebo nám napište – rádi poradíme do 24 hodin. U nás najdete <strong>herní PC</strong> řešení pro každý typ gamingu, od základních <strong>gaming sestav</strong> pro esport až po výkonné <strong>4K gaming počítače</strong> pro náročné nadšence.</p>
