@@ -1,0 +1,85 @@
+# SEO Content Structure Configuration
+# This file defines the structure and validation rules for HelloComp SEO category content
+
+# Required sections that must be present in generated content
+required_sections:
+  - title
+  - meta_description
+  - h1
+  - introduction
+  - h2_sections
+
+# Section specifications
+sections:
+  title:
+    description: "Page title for SEO"
+    max_length: 60
+    min_length: 30
+    example: "Grafické karty NVIDIA – RTX 4090, 4080, 5090 | HelloComp"
+    
+  meta_description:
+    description: "Meta description for search results"
+    max_length: 160
+    min_length: 140
+    example: "Grafické karty NVIDIA GeForce RTX ⚡ Výkonné GPU pro gaming, 3D a AI."
+    
+  h1:
+    description: "Main heading (H1) of the page"
+    max_length: 100
+    min_length: 20
+    example: "Grafické karty NVIDIA GeForce – od RTX 4070 po špičkovou RTX 5090"
+    
+  introduction:
+    description: "Introductory paragraph"
+    word_count_min: 50
+    word_count_max: 80
+    example: "Grafické karty NVIDIA představují zlatý standard..."
+    
+  h2_sections:
+    description: "Main content sections with H2 headings"
+    min_count: 3
+    typical_sections:
+      - "Jak vybrat správnou [kategorie]"
+      - "Co zvládne [kategorie] – výkon a možnosti"
+      - "Typické konfigurace a varianty"
+      - "Pro koho je [kategorie] ideální"
+      - "Nakupujte s jistotou u HelloComp" # CTA section
+
+# Content guidelines
+content_guidelines:
+  total_word_count:
+    min: 600
+    max: 900
+    ideal: 750
+  
+  formatting:
+    - "Use bullet points for lists"
+    - "Include tables for comparisons"
+    - "Use numbered lists for step-by-step guides"
+    - "Bold important keywords"
+    - "Maintain consistent structure"
+  
+  hellocomp_values:
+    - "Hotové PC sestavy"
+    - "Možnost individuálního upgradu"
+    - "FPS kalkulačka u počítačů"
+    - "Odborně sestavené, otestované, připravené k použití"
+    - "Ideální poměr cena / výkon"
+  
+  internal_linking:
+    enabled: true
+    examples:
+      - "[herních PC s RTX grafikou](https://hellocomp.cz/herni-pc)"
+      - "[výkonných pracovních stanic](https://hellocomp.cz/pracovni-stanice)"
+      - "[gaming PC na míru](https://hellocomp.cz/pc-na-miru)"
+
+# Output formats supported
+output_formats:
+  - html
+  - markdown
+
+# Validation levels
+validation:
+  strict: true  # Enforce all rules strictly
+  warn_on_missing: true  # Warn when optional sections are missing
+  error_on_required: true  # Error when required sections are missing
