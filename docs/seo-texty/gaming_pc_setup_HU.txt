@@ -1,11 +1,11 @@
 <p><strong>Játék PC-k és gaming PC-k zökkenőmentes játékhoz</strong> – A csúcsminőségű gaming desktop minden <a href="/hu/">PC</a> setup alapja, akár e-sportra, igényes AAA címekre, vagy csak univerzális játékszámítógépet keres a mindennapi szórakozáshoz. A HelloComp kínálatában olyan játék PC konfigurációkat talál, amelyek kiváló ár/érték arányt kínálnak.</p>
-<p>A legtöbb modellnél elérhető a <strong>frissítés</strong> is – több <a href="/hu/operativ-memoria/">RAM</a>, gyorsabb <a href="/hu/processzorok/">processzor</a> vagy nagyobb <a href="/hu/tarhelyek--hdd--ssd--memoriakartya/">tárhely</a>. Minden konfigurációt így saját elképzelései szerint testreszabhat.</p>
+<p>A legtöbb modellnél elérhető a <strong>frissítés</strong> is – több <a href="/hu/memoriak--ram/">RAM</a>, gyorsabb <a href="/hu/processzorok/">processzor</a> vagy nagyobb <a href="/hu/tarolok--hdd--ssd--memoriakartyak/">tárhely</a>. Minden konfigurációt így saját elképzelései szerint testreszabhat.</p>
 <h2>Játék PC konfigurációk maximális teljesítményhez</h2>
-<p>A modern <strong>játék asztali számítógép</strong> erős processzor, nagy teljesítményű <a href="/hu/grafikus-kartyak/">grafikus kártya</a> és gyors <a href="/hu/belso-meghajtok/">SSD</a> kombinációjára épül. A HelloComp kínál alapvető <strong>game PC</strong>-ket kezdőknek, professzionális <strong>PC setupokat</strong>, valamint rendkívül erős <strong>játék gépeket</strong> a legigényesebb címekhez, streameléshez és grafikai munkához.</p>
+<p>A modern <strong>játék asztali számítógép</strong> erős processzor, nagy teljesítményű <a href="/hu/videokartyak-pc-hez/">grafikus kártya</a> és gyors <a href="/hu/belso-meghajtok/">SSD</a> kombinációjára épül. A HelloComp kínál alapvető <strong>game PC</strong>-ket kezdőknek, professzionális <strong>PC setupokat</strong>, valamint rendkívül erős <strong>játék gépeket</strong> a legigényesebb címekhez, streameléshez és grafikai munkához.</p>
 <h3>Ideális választás különböző típusú játékosoknak</h3>
 <ul>
 <li><strong>Kezdő játékosok:</strong> kedvező árú játék PC-k, amelyek problémamentesen futtatják az olyan címeket, mint a CS2, LoL vagy Valorant full HD-ben.</li>
-<li><strong>Haladó játékosok:</strong> kiegyensúlyozott PC gaming konfigurációk erősebb <a href="/hogyan-valasszon-grafikus-kartyat/">GPU</a>-val magas felbontású játékhoz.</li>
+<li><strong>Haladó játékosok:</strong> kiegyensúlyozott PC gaming konfigurációk erősebb <a href="/hu/hogyan-valasszunk-videokartyat/">GPU</a>-val magas felbontású játékhoz.</li>
 <li><strong>Hardcore játékosok és tartalomkészítők:</strong> prémium játék setupok csúcskategóriás alkatrészekkel zökkenőmentes 4K játékhoz, streameléshez és grafikai munkához vagy videószerkesztéshez.</li>
 </ul>
 <h3>Ellenőrzött kompatibilitás és modern technológiák</h3>
@@ -38,5 +38,5 @@
 <li>hatékony hűtést minőségi házakban, PC gaminghez optimalizálva.</li>
 </ul>
 <h2>Válassza ki játékszámítógépét</h2>
-<p>Fedezze fel a <strong>játékszámítógépek</strong> széles választékát, állítsa össze saját játék PC setupját és használja ki a frissítési lehetőséget igényei szerint. Az FPS kalkulátor segítségével könnyen megtudhatja, hogyan teljesít a kiválasztott gaming PC kedvenc játékaiban. Még mindig nem biztos benne? Olvassa el tanácsainkat és tippjeinket <a href="/hogyan-valasszon-jatek-szamitogepet/"><strong>hogyan válasszon játékszámítógépet</strong></a>. Segítünk választani az AMD és Intel között, megmutatjuk a különbségeket Gamer sorozatainkban, és válaszolunk a leggyakoribb kérdésekre is.</p>
+<p>Fedezze fel a <strong>játékszámítógépek</strong> széles választékát, állítsa össze saját játék PC setupját és használja ki a frissítési lehetőséget igényei szerint. Az FPS kalkulátor segítségével könnyen megtudhatja, hogyan teljesít a kiválasztott gaming PC kedvenc játékaiban. Még mindig nem biztos benne? Olvassa el tanácsainkat és tippjeinket <a href="/hu/jatekra-valo-pc-valasztas/"><strong>hogyan válasszon játékszámítógépet</strong></a>. Segítünk választani az AMD és Intel között, megmutatjuk a különbségeket Gamer sorozatainkban, és válaszolunk a leggyakoribb kérdésekre is.</p>
 <p>Nálunk talál megoldást kezdőknek, haladó játékosoknak és profiknak, akik a legjobbat akarják.</p>
