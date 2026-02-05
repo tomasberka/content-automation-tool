@@ -1,7 +1,7 @@
-<p><strong>Játék PC-k és gaming PC-k zökkenőmentes játékhoz</strong> – A csúcsminőségű gaming desktop minden <a href="/">PC</a> setup alapja, akár e-sportra, igényes AAA címekre, vagy csak univerzális játékszámítógépet keres a mindennapi szórakozáshoz. A HelloComp kínálatában olyan játék PC konfigurációkat talál, amelyek kiváló ár/érték arányt kínálnak.</p>
-<p>A legtöbb modellnél elérhető a <strong>frissítés</strong> is – több <a href="/operacni-pameti/">RAM</a>, gyorsabb <a href="/procesory/">processzor</a> vagy nagyobb <a href="/uloziste--hdd--ssd--pametove-karty/">tárhely</a>. Minden konfigurációt így saját elképzelései szerint testreszabhat.</p>
+<p><strong>Játék PC-k és gaming PC-k zökkenőmentes játékhoz</strong> – A csúcsminőségű gaming desktop minden <a href="/hu/">PC</a> setup alapja, akár e-sportra, igényes AAA címekre, vagy csak univerzális játékszámítógépet keres a mindennapi szórakozáshoz. A HelloComp kínálatában olyan játék PC konfigurációkat talál, amelyek kiváló ár/érték arányt kínálnak.</p>
+<p>A legtöbb modellnél elérhető a <strong>frissítés</strong> is – több <a href="/hu/operativ-memoria/">RAM</a>, gyorsabb <a href="/hu/processzorok/">processzor</a> vagy nagyobb <a href="/hu/tarhelyek--hdd--ssd--memoriakartya/">tárhely</a>. Minden konfigurációt így saját elképzelései szerint testreszabhat.</p>
 <h2>Játék PC konfigurációk maximális teljesítményhez</h2>
-<p>A modern <strong>játék asztali számítógép</strong> erős processzor, nagy teljesítményű <a href="/graficke-karty-do-pc/">grafikus kártya</a> és gyors <a href="/interni-disky/">SSD</a> kombinációjára épül. A HelloComp kínál alapvető <strong>game PC</strong>-ket kezdőknek, professzionális <strong>PC setupokat</strong>, valamint rendkívül erős <strong>játék gépeket</strong> a legigényesebb címekhez, streameléshez és grafikai munkához.</p>
+<p>A modern <strong>játék asztali számítógép</strong> erős processzor, nagy teljesítményű <a href="/hu/grafikus-kartyak/">grafikus kártya</a> és gyors <a href="/hu/belso-meghajtok/">SSD</a> kombinációjára épül. A HelloComp kínál alapvető <strong>game PC</strong>-ket kezdőknek, professzionális <strong>PC setupokat</strong>, valamint rendkívül erős <strong>játék gépeket</strong> a legigényesebb címekhez, streameléshez és grafikai munkához.</p>
 <h3>Ideális választás különböző típusú játékosoknak</h3>
 <ul>
 <li><strong>Kezdő játékosok:</strong> kedvező árú játék PC-k, amelyek problémamentesen futtatják az olyan címeket, mint a CS2, LoL vagy Valorant full HD-ben.</li>
@@ -11,14 +11,14 @@
 <h3>Ellenőrzött kompatibilitás és modern technológiák</h3>
 <p>Minden <strong>játék asztali számítógép</strong> a kínálatban gondosan összeállított és tesztelt. Megtalálhatók bennük:</p>
 <ul>
-<li><a href="/graficke-karty-nvidia/">NVIDIA grafikus kártyák</a> GeForce / AMD Radeon,</li>
+<li><a href="/hu/nvidia-grafikus-kartyak/">NVIDIA grafikus kártyák</a> GeForce / AMD Radeon,</li>
 <li>modern Intel Core vagy AMD Ryzen processzorok,</li>
 <li>gyors DDR4/DDR5 RAM modulok,</li>
 <li>NVMe SSD az azonnali játéktöltéshez.</li>
 </ul>
 <p>Így jönnek létre stabil <strong>játék PC konfigurációk</strong>, amelyek hosszú távú megbízhatóságot és kiváló teljesítményt nyújtanak. Minden játékgépet a tesztek, összehasonlítások és több éves tapasztalataink alapján készítünk az adott árkategóriában ideális ár/teljesítmény arányért.</p>
 <h2>Játék PC setup: Stabil játékkörnyezet alapja</h2>
-<p>A teljes <strong>játék PC setup</strong> nemcsak magát a játékszámítógépet tartalmazza, hanem a megfelelő <a href="/pc-prislusenstvi/">pc kiegészítőket</a> is. A HelloComp széles választékot kínál <a href="/monitory/">monitorokból</a>, <a href="/klavesnice/">billentyűzetekből</a>, <a href="/mysi/">egerekből</a>, <a href="/bezdratova-sluchatka/">headsetekből</a> és modern PC setuphoz szükséges kiegészítőkből.</p>
+<p>A teljes <strong>játék PC setup</strong> nemcsak magát a játékszámítógépet tartalmazza, hanem a megfelelő <a href="/hu/pc-kiegeszitok/">pc kiegészítőket</a> is. A HelloComp széles választékot kínál <a href="/hu/monitorek/">monitorokból</a>, <a href="/hu/billentyuzetek/">billentyűzetekből</a>, <a href="/hu/egerek/">egerekből</a>, <a href="/hu/vezetek-nelkuli-fejhallgatok/">headsetekből</a> és modern PC setuphoz szükséges kiegészítőkből.</p>
 <h3>Teljesítményoptimalizálás az FPS kalkulátornak köszönhetően</h3>
 <p>A HelloComp nagy előnye az <strong>FPS kalkulátor</strong>, amely minden játék konfiguráció mellett elérhető. Ennek segítségével megtudhatja, hány képkocka/másodperc értéket érhet el egy adott játékban a kiválasztott számítógépen. Ez ideális eszköz a játék PC ár/teljesítmény összehasonlításához és az egyes játék konfigurációk közötti döntéshez. Segít abban is, hogy kiderítse, megéri-e egy jobb processzor vagy grafikus kártya frissítése.</p>
 <h2>HelloComp játék PC konfigurációk professzionális frissítési lehetőséggel</h2>
@@ -31,7 +31,7 @@
 </ul>
 <p>Így pontosan az Ön játék setupjához és jövőbeli igényeihez szabott <strong>asztali játék PC-t</strong> kap.</p>
 <h3>Felkészült magas igényekre</h3>
-<p>A <strong>játék PC szettek</strong> HelloComp úgy vannak megtervezve, hogy problémamentesen futassák a legújabb címeket is. A nagy teljesítményű <a href="/pc-komponenty/">alkatrészeknek</a> köszönhetően biztosítják:</p>
+<p>A <strong>játék PC szettek</strong> HelloComp úgy vannak megtervezve, hogy problémamentesen futassák a legújabb címeket is. A nagy teljesítményű <a href="/hu/pc-alkatreszek/">alkatrészeknek</a> köszönhetően biztosítják:</p>
 <ul>
 <li>zökkenőmentes játékot 1440p és 4K felbontásban,</li>
 <li>stabil teljesítményt igényes AAA játékokban,</li>
