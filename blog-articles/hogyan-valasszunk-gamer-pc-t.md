@@ -119,7 +119,7 @@ Amikor eldönti, **hogyan válasszon gamer számítógépet**, kerülje el ezeke
 
 **Hogyan válasszon PC-t**, ha nincs tapasztalata az építésben? A kész gaming összeállítás előnyei:
 
-* **Garantált kompatibilitas** – minden komponens ellenőrzött és egymáshoz hangolt
+* **Garantált kompatibilitás** – minden komponens ellenőrzött és egymáshoz hangolt
 * **Szakmai összeszerelés** – tapasztalt technikusok által összeállítva
 * **Tesztelés** – minden számítógép terheléses teszteken megy át szállítás előtt
 * **Garancia** – egységes garancia az egész összeállításra közép-európai szervizzel

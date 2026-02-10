@@ -29,7 +29,7 @@ Než začnete prechádzať ponuku, odpovedzte si na niekoľko kľúčových otá
 
 ### 1. Aké hry chcete hrať?
 
-Rôzne hry mají rôzne nároky. E-športové tituly (CS2, Valorant, League of Legends) bežia plynule aj na slabšom hardvéri. Moderné AAA hry (Cyberpunk, Alan Wake 2, GTA VI) vyžadujú výrazne viac výkonu. Zamyslite sa, **aký počítač na hry** skutočne potrebujete.
+Rôzne hry majú rôzne nároky. E-športové tituly (CS2, Valorant, League of Legends) bežia plynule aj na slabšom hardvéri. Moderné AAA hry (Cyberpunk, Alan Wake 2, GTA VI) vyžadujú výrazne viac výkonu. Zamyslite sa, **aký počítač na hry** skutočne potrebujete.
 
 ### 2. V akom rozlíšení chcete hrať?
 
@@ -166,7 +166,7 @@ Preskúmajte našu kompletnú ponuku <a href="https://www.hellocomp.cz/herni-poc
 
 ## FAQ: Často kladené otázky
 
-### Ako dlouho vydrží herný počítač?
+### Ako dlho vydrží herný počítač?
 
 Kvalitný herný PC vydrží bežne 5-7 rokov. Počas času môžete vykonávať upgrady (pridať RAM, nový SSD, vymeniť GPU), čo predĺži životnosť a udrží výkon na požadovanej úrovni.
 
