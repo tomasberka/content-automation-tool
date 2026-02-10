@@ -53,25 +53,25 @@ Amikor eldönti, **hogyan válasszon PC-t**, koncentráljon négy kulcsfontossá
 
 ### Videókártya (GPU)
 
-A <a href="https://www.hellocomp.cz/graficke-karty-do-pc/">videókártya</a> a legfontosabb komponens játékhoz. Meghatározza, milyen felbontásban és milyen részletességgel játszik. A választásnál figyeljen a következőkre:
+A <a href="https://www.hellocomp.hu/graficke-karty-do-pc/">videókártya</a> a legfontosabb komponens játékhoz. Meghatározza, milyen felbontásban és milyen részletességgel játszik. A választásnál figyeljen a következőkre:
 
 * **Teljesítmény a célzott felbontásban** – más GPU elég Full HD-hez, más 4K-hoz
 * **VRAM mérete** – a modern játékok egyre több videomemóriát igényelnek
 * **Modern technológiák támogatása** – Ray Tracing, DLSS (NVIDIA) vagy FSR (AMD)
 
-Az <a href="https://www.hellocomp.cz/graficke-karty-nvidia/">NVIDIA GeForce</a> és az <a href="https://www.hellocomp.cz/graficke-karty-amd/">AMD Radeon</a> a két fő választás. Mindkét márka minőségi termékeket kínál különböző árkategóriákban.
+Az <a href="https://www.hellocomp.hu/graficke-karty-nvidia/">NVIDIA GeForce</a> és az <a href="https://www.hellocomp.hu/graficke-karty-amd/">AMD Radeon</a> a két fő választás. Mindkét márka minőségi termékeket kínál különböző árkategóriákban.
 
 ### Processzor (CPU)
 
-A <a href="https://www.hellocomp.cz/procesory/">processzor</a> a számítógép agya. Játékhoz fontos az egyszálas teljesítmény és a magok száma. Alapszabály:
+A <a href="https://www.hellocomp.hu/procesory/">processzor</a> a számítógép agya. Játékhoz fontos az egyszálas teljesítmény és a magok száma. Alapszabály:
 
-* **E-sport és Full HD** – elég az <a href="https://www.hellocomp.cz/procesory-intel-core-i5/">Intel Core i5</a> vagy <a href="https://www.hellocomp.cz/procesory-amd-ryzen-5/">AMD Ryzen 5</a>
-* **1440p és streaming** – <a href="https://www.hellocomp.cz/procesory-intel-core-i7/">Intel Core i7</a> vagy <a href="https://www.hellocomp.cz/procesory-amd-ryzen-7/">AMD Ryzen 7</a>
-* **4K és professzionális munka** – <a href="https://www.hellocomp.cz/procesory-intel-core-i9/">Intel Core i9</a> vagy <a href="https://www.hellocomp.cz/procesory-amd-ryzen-9/">AMD Ryzen 9</a>
+* **E-sport és Full HD** – elég az <a href="https://www.hellocomp.hu/procesory-intel-core-i5/">Intel Core i5</a> vagy <a href="https://www.hellocomp.hu/procesory-amd-ryzen-5/">AMD Ryzen 5</a>
+* **1440p és streaming** – <a href="https://www.hellocomp.hu/procesory-intel-core-i7/">Intel Core i7</a> vagy <a href="https://www.hellocomp.hu/procesory-amd-ryzen-7/">AMD Ryzen 7</a>
+* **4K és professzionális munka** – <a href="https://www.hellocomp.hu/procesory-intel-core-i9/">Intel Core i9</a> vagy <a href="https://www.hellocomp.hu/procesory-amd-ryzen-9/">AMD Ryzen 9</a>
 
 ### Operatív memória (RAM)
 
-Az <a href="https://www.hellocomp.cz/operacni-pameti/">operatív memória</a> befolyásolja a zökkenőmentességet multitasking során. Játékhoz a következők érvényesek:
+Az <a href="https://www.hellocomp.hu/operacni-pameti/">operatív memória</a> befolyásolja a zökkenőmentességet multitasking során. Játékhoz a következők érvényesek:
 
 * **16 GB** – minimum modern játékokhoz
 * **32 GB** – ideális igényesebb játékosoknak, streamereknek és tartalomkészítőknek
@@ -81,7 +81,7 @@ A DDR5 magasabb teljesítményt kínál, a DDR4 jobb ár/érték arányt. A mem�
 
 ### Tárhely (SSD)
 
-Az <a href="https://www.hellocomp.cz/interni-disky/">SSD lemez</a> ma már standard. Gyors rendszerindítást és játékbetöltést biztosít. A modern játékok több tíz vagy több száz GB-ot foglalnak, ezért válasszon:
+Az <a href="https://www.hellocomp.hu/interni-disky/">SSD lemez</a> ma már standard. Gyors rendszerindítást és játékbetöltést biztosít. A modern játékok több tíz vagy több száz GB-ot foglalnak, ezért válasszon:
 
 * **512 GB** – abszolút minimum
 * **1 TB** – ésszerű alap
@@ -158,7 +158,7 @@ Gaming PC sorozataink úgy vannak kialakítva, hogy megfeleljenek a különböz�
 
 ## Válassza ki a legjobb gamer PC-t
 
-Fedezze fel teljes <a href="https://www.hellocomp.cz/herni-pocitace/">gaming számítógép</a> kínálatunkat és találjon megoldást pontosan az Ön játékstílusához és költségvetéséhez. Használja ki az egyedi konfigurálás lehetőségét és minden modellnél ellenőrizze a teljesítményt az **FPS kalkulátorral**.
+Fedezze fel teljes <a href="https://www.hellocomp.hu/herni-pocitace/">gaming számítógép</a> kínálatunkat és találjon megoldást pontosan az Ön játékstílusához és költségvetéséhez. Használja ki az egyedi konfigurálás lehetőségét és minden modellnél ellenőrizze a teljesítményt az **FPS kalkulátorral**.
 
 A HelloComp **ajánlott gaming PC összeállításai** azonnal használatra készek – csak csatlakoztassa és játsszon. **Gaming számítógépet szeretne vásárolni** és nem tudja, hol kezdje? Lépjen velünk kapcsolatba – szívesen tanácsot adunk 24 órán belül. Nálunk **gaming PC** megoldást talál minden játéktípushoz.
 
