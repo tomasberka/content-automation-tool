@@ -1,0 +1,22 @@
+structure:
+  hook_duration: 3
+  context_duration: 8
+  relevance_duration: 10
+  cta_duration: 4
+  
+templates:
+  short:
+    hook: "{attention_grabber}"
+    context: "Users are reporting {social_proof}."
+    relevance: "This proves {validation}."
+    cta: "Share your experience below."
+  medium:
+    hook: "{attention_grabber}"
+    context: "The community has spoken about {topic}. {user_feedback}"
+    relevance: "Real users confirm {validation}. {statistics}"
+    cta: "What's your setup? Comment below and follow for more."
+  long:
+    hook: "{attention_grabber}"
+    context: "Let's look at what real users are saying about {topic}. {user_feedback} {examples}"
+    relevance: "This social proof matters because {validation}. {statistics} {trends}"
+    cta: "Join the discussion. What's been your experience? Subscribe for weekly roundups."

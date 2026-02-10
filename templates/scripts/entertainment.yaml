@@ -1,0 +1,22 @@
+structure:
+  hook_duration: 3
+  context_duration: 12
+  relevance_duration: 6
+  cta_duration: 4
+  
+templates:
+  short:
+    hook: "{attention_grabber}"
+    context: "Check this out: {entertaining_moment}."
+    relevance: "Pure {emotion}."
+    cta: "Tag someone who needs to see this."
+  medium:
+    hook: "{attention_grabber}"
+    context: "This is peak gaming culture. {entertaining_moment} {reaction}"
+    relevance: "We've all been there. {relatable_aspect}"
+    cta: "Share this with your squad. Follow for daily gaming memes."
+  long:
+    hook: "{attention_grabber}"
+    context: "Let's react to {topic}. {entertaining_moment} {details} {commentary}"
+    relevance: "This is why we game. {relatable_aspect} {community_connection}"
+    cta: "What do you think? Comment below and subscribe for more reactions."

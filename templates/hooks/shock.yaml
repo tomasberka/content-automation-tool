@@ -1,0 +1,8 @@
+patterns:
+  - "{brand} doesn't want you to see this."
+  - "Your {product} just became obsolete."
+  - "This changes everything about {topic}."
+  - "{low_price} PC that destroys {high_price} builds."
+  - "My ${low_price} {product} beat a ${high_price} {product}."
+  - "This {product} broke the internet."
+  - "{brand} just shocked everyone."
