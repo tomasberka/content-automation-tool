@@ -35,7 +35,7 @@ Zanedbaná údržba má reálné dopady:
 
 ### Vyšší teploty a throttling
 
-Prach blokuje ventilátory a zanáší heatsinks. CPU a GPU se přehřívají a aktivují **thermal throttling** – automaticky snižují výkon, aby nesnížily teploty. Výsledek? **Padající FPS** v náročných hrách a pomalejší odezva systému.
+Prach blokuje ventilátory a zanáší heatsinks. CPU a GPU se přehřívají a aktivují **thermal throttling** – automaticky snižují výkon, aby snížily teploty. Výsledek? **Padající FPS** v náročných hrách a pomalejší odezva systému.
 
 ### Kratší životnost komponentů
 
