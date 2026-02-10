@@ -343,8 +343,8 @@ I když cloud gaming je zajímavá technologie, na [HelloComp.cz](https://helloc
 
 ### Naše herní PC pro každý rozpočet
 
-- **[Do 20 000 Kč](https://hellocomp.cz/herni-pocitace-do-20000)** – Skvělé pro e-sport a starší hry
-- **[Do 40 000 Kč](https://hellocomp.cz/herni-pocitace-do-40000)** – 1440p gaming s vysokými detaily
+- **Do 20 000 Kč** – Skvělé pro e-sport a starší hry
+- **Do 40 000 Kč** – 1440p gaming s vysokými detaily
 - **[Premium sestavy](https://hellocomp.cz/herni-pocitace)** – 4K/144Hz, ray tracing, maximum
 
 ### Kombinace obojího
