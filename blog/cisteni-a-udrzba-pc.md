@@ -25,7 +25,7 @@
 **Prach je tichý zabiják výkonu. Každý den se usazuje na tvých komponentech, zhoršuje chlazení, zvyšuje teploty a snižuje životnost hardwaru. Pravidelné čištění PC od prachu není jen kosmetická záležitost – je to klíčová údržba, která ti zajistí stabilní výkon, nižší teploty a delší životnost celé sestavy. V tomto návodu ti ukážeme, jak správně vyčistit počítač, vyměnit teplovodivou pastu a udržet své <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">herní PC</a> v top kondici.**
 
 **Prompt pro AI obrázek (21:9 formát):**
-"Maintenance scene in 21:9 format, HelloComp robot mascot carefully cleaning a gaming PC with compressed air, visible dust particles being blown away from GPU fans and heatsinks, professional tech workshop lighting, detailed components visible, instructional technical style, clean modern aesthetic"
+"Maintenance scene in 21:9 format, skilled technician humanoid character carefully cleaning a gaming PC with compressed air, visible dust particles being blown away from GPU fans and heatsinks, professional tech workshop lighting, detailed components visible, instructional technical style, clean modern aesthetic"
 
 ---
 
@@ -350,4 +350,4 @@ Pamatuj na klíčové body:
 ✓ **Přepastování grafické karty** jen mimo záruku a s opatrností
 ✓ **Výměna teplovodivé pasty notebook** jen pokud máš zkušenosti
 
-Pokud hledáš nové <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">herní PC</a>, na [HelloComp.cz](https://www.hellocomp.cz) nabízíme sestavy s kvalitním chlazením, kde je údržba snadná. Naše konfigurace jsou optimalizované pro perfektní airflow a snadný přístup ke komponentům. S FPS kalkulačkou víš přesně, co očekávat, a Robot HelloComp ti poradí s výběrem! 🤖💨
+Pokud hledáš nové <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">herní PC</a>, na [HelloComp.cz](https://www.hellocomp.cz) nabízíme sestavy s kvalitním chlazením, kde je údržba snadná. Naše konfigurace jsou optimalizované pro perfektní airflow a snadný přístup ke komponentům. S FPS kalkulačkou víš přesně, co očekávat, a náš tým HelloComp ti poradí s výběrem! 💻💨
