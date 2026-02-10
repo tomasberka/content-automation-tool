@@ -408,7 +408,7 @@ Svět her na počítač je neuvěřitelně rozmanitý. Od strategických her na 
 - Horse Riding Tales
 - My Horse and Me
 
-**Hardware:** Většina běží na slabším PC, [herní PC do 20 000](https://hellocomp.cz/herni-pocitace-do-20000) stačí
+**Hardware:** Většina běží na slabším PC, herní PC do 20 000 stačí
 
 ## Multiplayer a kooperativní hry
 

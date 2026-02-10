@@ -39,7 +39,7 @@ Různé hry mají různé nároky. E-sportové tituly (CS2, Valorant, League of 
 
 ### 3. Jaký je váš rozpočet?
 
-Rozpočet určuje, **jaký herní počítač** si můžete dovolit. Dobrou zprávou je, že i s omezeným budgetem lze pořídit kvalitní herní PC. V HelloComp najdete sestavy od základních <a href="https://www.hellocomp.cz/herni-pocitace-do-15000/">herních PC do 15 000 Kč</a> až po <a href="https://www.hellocomp.cz/herni-pocitace-do-60000/">high-end stroje do 60 000 Kč</a>.
+Rozpočet určuje, **jaký herní počítač** si můžete dovolit. Dobrou zprávou je, že i s omezeným budgetem lze pořídit kvalitní herní PC. V HelloComp najdete sestavy od základních herních PC do 15 000 Kč až po high-end stroje do 60 000 Kč.
 
 ### 4. Plánujete i jiné využití?
 

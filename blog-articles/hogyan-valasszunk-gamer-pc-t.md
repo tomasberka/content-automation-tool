@@ -39,7 +39,7 @@ A különböző játékoknak különböző igényeik vannak. Az e-sport címek (
 
 ### 3. Mekkora a költségvetése?
 
-A költségvetés határozza meg, **milyen gamer számítógépet** engedhet meg magának. A jó hír, hogy korlátozott költségvetéssel is lehet minőségi gaming PC-t szerezni. A HelloComp kínálatában találhat alapvető <a href="https://www.hellocomp.cz/herni-pocitace-do-15000/">gaming PC-ket 150 000 Ft-ig</a> és <a href="https://www.hellocomp.cz/herni-pocitace-do-60000/">high-end gépeket 600 000 Ft-ig</a>.
+A költségvetés határozza meg, **milyen gamer számítógépet** engedhet meg magának. A jó hír, hogy korlátozott költségvetéssel is lehet minőségi gaming PC-t szerezni. A HelloComp kínálatában találhat alapvető gaming PC-ket 150 000 Ft-ig és high-end gépeket 600 000 Ft-ig.
 
 ### 4. Tervez más felhasználást is?
 
