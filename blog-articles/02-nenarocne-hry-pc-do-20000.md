@@ -172,7 +172,7 @@ Pro některé **nejlepší staré hry na pc** existují HD textury, módy a vyle
 
 ## Závěr
 
-**Nenáročné hry na pc** a **staré hry na pc** nabízejí nekonečnou zábavu bez nutnosti drahat investice. S herním počítačem do 20 000 Kč od HelloComp získáte spolehlivou sestavu, která zvládne tisíce titulů.
+**Nenáročné hry na pc** a **staré hry na pc** nabízejí nekonečnou zábavu bez nutnosti drahé investice. S herním počítačem do 20 000 Kč od HelloComp získáte spolehlivou sestavu, která zvládne tisíce titulů.
 
 Ať už milujete **staré hry na pc střílečky** jako Counter-Strike, **staré strategické hry na pc** jako Age of Empires, nebo hledáte **staré hry na pc pro děti**, správný hardware je základ dobrého zážitku.
 
