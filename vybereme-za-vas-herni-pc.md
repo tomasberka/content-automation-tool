@@ -1,14 +1,27 @@
-# Vybereme za vás herní PC | Poradíme s výběrem herního počítače
+## SEO Checklist ✅
 
-## Meta informace
-**TITLE:** Vybereme za vás herní PC | Poradíme s výběrem | HelloComp
-**META description:** Nevíte si rady s výběrem herního PC? Vybereme za vás ideální herní počítač podle her, rozpočtu a potřeb. Odborné poradenství zdarma.
+- [x] ~~vybereme za vás herní pc~~
+- [x] ~~pomoc s výběrem herního pc~~
+- [x] ~~poradíme s herním počítačem~~
+- [x] ~~odborné poradenství herní pc~~
+- [x] ~~jak vybrat herní počítač~~
+- [x] ~~výběr herního pc~~
+- [x] ~~jaký herní pc koupit~~
+- [x] ~~pomoc s výběrem pc~~
+- [x] ~~konzultace herní sestava~~
+- [x] ~~nejlepší herní pc doporučení~~
+
+---
+
+**Title:** Vybereme za vás herní PC | Poradíme s výběrem | HelloComp
+
+**Meta description:** Nevíte si rady s výběrem herního PC? Vybereme za vás ideální herní počítač podle her, rozpočtu a potřeb. Odborné poradenství zdarma do 24 hodin.
 
 ---
 
 # Vybereme za vás herní PC – odborné poradenství zdarma
 
-Ztratili jste se v nabídce **herních počítačů**? Nevíte, která sestava je pro vás ta pravá? **Vybereme za vás herní PC** přesně podle vašich potřeb, oblíbených her a rozpočtu. Naši odborníci mají zkušenosti s tisíci zákazníky a pomohou vám najít ideální řešení během 24 hodin.
+Ztratili jste se v nabídce **herních počítačů**? Nevíte, která sestava je pro vás ta pravá? **Vybereme za vás herní PC** přesně podle vašich potřeb, oblíbených her a rozpočtu. Naši odborníci mají zkušenosti s tisíci zákazníky a pomohou vám najít ideální řešení během 24 hodin. Služba je kompletně zdarma a nezávazná – platíte pouze v případě, že se rozhodnete koupit doporučenou sestavu.
 
 ---
 
@@ -57,20 +70,7 @@ Během **24 hodin** vám pošleme:
 
 ## Pro koho je služba určena?
 
-### Začínající hráči
-Nevíte, co je grafická karta a procesor? Nevadí. Vysvětlíme vám vše srozumitelně a vybereme přesně to, co potřebujete.
-
-### Rodiče kupující dárek
-Chcete koupit herní PC jako dárek pro syna nebo dceru? Pomůžeme vám vybrat správnou sestavu, která vydrží několik let.
-
-### Hráči přecházející z konzole
-Zvažujete přechod z PlayStation nebo Xbox na PC? Poradíme, co vše obnáší a jaký výkon můžete očekávat.
-
-### Pokročilí hráči hledající upgrade
-Máte starý počítač a chcete upgrade? Poradíme, zda má smysl upgrade nebo je lepší pořídit novou sestavu.
-
-### Streameři a tvůrci obsahu
-Potřebujete počítač nejen na hraní, ale i na streamování a tvorbu obsahu? Navrhneme vyvážený systém pro obojí.
+Služba je ideální pro **začínající hráče**, kteří nerozumí technickým specifikacím, **rodiče kupující dárek** pro děti, **hráče přecházející z konzole** na PC, **pokročilé hráče hledající upgrade** i **streamery a tvůrce obsahu** potřebující vyvážený systém.
 
 ---
 
@@ -138,38 +138,11 @@ Ano, máme kamennou prodejnu, kde si můžete sestavy prohlédnout osobně a kon
 
 ---
 
-## Kontaktujte nás
-
-### 📧 E-mail
-**info@hellocomp.cz**  
-Napište nám své požadavky a do 24 hodin obdržíte odpověď.
-
-### 📞 Telefon
-**+420 XXX XXX XXX**  
-Volejte v pracovní dny 9:00 - 17:00.
-
-### 💬 Online chat
-Dostupný přímo na našem webu v pracovní době.
-
-### 🏢 Kamenná prodejna
-**Adresa:** [Zde doplnit adresu]  
-**Otevírací doba:** Po-Pá 9:00 - 17:00
-
----
-
 ## Začněte hned teď
 
-Nevíte, který herní PC je pro vás ten pravý? Nechte to na nás! Vyplňte krátký dotazník nebo nás kontaktujte a my vám do 24 hodin doporučíme ideální řešení.
+Nevíte, který herní PC je pro vás ten pravý? Nechte to na nás! <a href="https://www.hellocomp.cz/kontakt/">Kontaktujte nás</a> a my vám do 24 hodin doporučíme ideální řešení.
 
-**👉 <a href="https://www.hellocomp.cz/kontakt/">Kontaktujte nás</a>**
-
-Nebo si prohlédněte naši kompletní nabídku:
-
-* <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">Všechny herní počítače</a>
-* <a href="https://www.hellocomp.cz/herni-pc-s-intel/">Intel herní počítače</a>
-* <a href="https://www.hellocomp.cz/herni-pc-s-amd/">AMD herní počítače</a>
-* <a href="https://www.hellocomp.cz/graficke-karty-do-pc/">Grafické karty</a>
-* <a href="https://www.hellocomp.cz/procesory/">Procesory</a>
+Nebo si prohlédněte naši kompletní nabídku <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">herních počítačů</a>, <a href="https://www.hellocomp.cz/herni-pc-s-intel/">Intel herních PC</a>, <a href="https://www.hellocomp.cz/herni-pc-s-amd/">AMD herních PC</a> a dalších komponentů.
 
 Vyberte si **nejlepší herní počítač** pro své potřeby s jistotou, že dostáváte maximální výkon za své peníze. HelloComp robot maskot vám pomůže najít ideální řešení!
 
