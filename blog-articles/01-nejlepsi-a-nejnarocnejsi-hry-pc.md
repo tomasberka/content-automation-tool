@@ -118,6 +118,10 @@ Co když máte specifické požadavky? Žádný problém! Na HelloComp si může
 
 Díky možnosti individuální konfigurace získáte přesně to, co potřebujete pro **nejlepší hry na pc**.
 
+**💡 Nevíte, jaký výkon potřebujete?** Využijte naši službu <a href="https://www.hellocomp.cz/vybereme-za-vas-herni-pc/">**Vybereme za vás herní PC**</a> – odborníci vám doporučí ideální sestavu podle vašich oblíbených her a rozpočtu. Služba je zdarma!
+
+---
+
 ## Závěr
 
 Rok 2026 je skvělý čas pro PC gaming. Ať už hledáte **nejlepší hry na počítač** pro single-player zážitky, **nejlepší online hry na pc** pro hraní s přáteli, nebo **nejlepší závodní hry na pc** pro adrenalinové zážitky, výběr je obrovský.
