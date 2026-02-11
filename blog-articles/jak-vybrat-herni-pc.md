@@ -19,7 +19,9 @@
 
 # Jak vybrat herní PC
 
-Nevíte, **jak vybrat herní PC**, které bude odpovídat vašim potřebám a rozpočtu? Nejste sami. **Výběr PC** může být matoucí – desítky modelů, stovky kombinací komponent a nekonečné diskuze na fórech. V tomto průvodci vám ukážeme, **jak vybrat počítač** i **jak vybrat stolní počítač** na hry krok za krokem, na co se zaměřit a jakým chybám se vyhnout. Ať už hledáte **nejlepší herní PC** pro 4K gaming nebo **nejlevnější herní PC** pro e-sport, tento návod vám pomůže.
+Nevíte, **jak vybrat herní PC**, které bude odpovídat vašim potřebám a rozpočtu? Nejste sami. **Výběr PC** může být matoucí – desítky modelů, stovky kombinací komponent a nekonečné diskuze na fórech. 
+
+V tomto průvodci vám ukážeme, **jak vybrat počítač** nebo **jak vybrat stolní počítač** na hry krok za krokem, na co se zaměřit a jakým chybám se vyhnout. Ať už hledáte **nejlepší herní PC** pro 4K gaming nebo **nejlevnější herní PC** pro e-sport, tento návod vám pomůže.
 
 ---
 
@@ -39,7 +41,7 @@ Různé hry mají různé nároky. E-sportové tituly (CS2, Valorant, League of 
 
 ### 3. Jaký je váš rozpočet?
 
-Rozpočet určuje, **jaký herní počítač** si můžete dovolit. Dobrou zprávou je, že i s omezeným budgetem lze pořídit kvalitní herní PC. Pokud hledáte **nejlevnější herní PC**, máte možnost začít s rozumnou sestavou už od 15 000 Kč. V HelloComp najdete sestavy od základních herních PC do 15 000 Kč až po high-end stroje do 60 000 Kč.
+Rozpočet určuje, **jaký herní počítač** si můžete dovolit. Dobrou zprávou je, že i s omezeným budgetem lze pořídit kvalitní herní PC. Pokud hledáte **nejlevnější herní PC**, máte možnost začít s rozumnou sestavou už od 15 000 Kč. V HelloComp najdete sestavy napříč všemi cenovými kategoriemi až po high-end stroje do 60 000 Kč.
 
 ### 4. Plánujete i jiné využití?
 
