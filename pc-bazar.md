@@ -21,6 +21,8 @@
 
 PC Bazar nabízí širokou nabídku repasovaných a použitých počítačů za skvělé ceny. Každý počítač prošel důkladnou kontrolou a je plně funkční, což zaručuje kvalitu a spolehlivost. Ideální volba pro zákazníky, kteří hledají cenově dostupné a kvalitní technologie. 
 
+Máte sestavu k prodeji? Využijte naši možnost výkupu počítačů i počítačových komponent. Nabídneme vám férové nacenění dopředu před zasláním elektroniky.
+
 **Najdete zde také naše bazarové herní PC.**  To může být chytrá cesta k výkonnému hernímu počítači za zlomek ceny nového. V nabídce HelloComp najdete **herní bazarové počítače**, které prošly důkladnou kontrolou, testováním a jsou připravené k okamžitému použití. Na rozdíl od běžných inzerátů získáte u nás **ověřenou sestavu se zárukou** a jistotou, že vše funguje přesně tak, jak má. Hledáte **levné herní PC** bez rizika? Jste na správném místě.
 
 ---
@@ -145,6 +147,4 @@ Na rozdíl od nákupu od neznámého prodejce získáte u HelloComp jistotu – 
 
 Prozkoumejte nabídku **herních PC bazar** a najděte sestavu přesně podle svých potřeb a rozpočtu. Využijte **FPS kalkulačku** pro ověření výkonu v konkrétních hrách a možnost **upgradu** pro vyladění sestavy na míru.
 
-Každý **herní počítač bazar** od HelloComp je důkladně otestovaný, vyčištěný a připravený k okamžitému použití. Se zárukou a českým servisem máte jistotu, že váš nákup je bezpečný. Hledáte **levné herní PC bazar** bez kompromisů na kvalitě? V HelloComp ho najdete.
-
-Máte sestavu k prodeji? Využijte naši možnost [**výkupu počítačů**](https://www.hellocomp.cz/vykup-elektroniky-a-it/) i počítačových komponent. Nabídneme vám férové nacenění dopředu před zasláním elektroniky.  
+Každý **herní počítač bazar** od HelloComp je důkladně otestovaný, vyčištěný a připravený k okamžitému použití. Se zárukou a českým servisem máte jistotu, že váš nákup je bezpečný. Hledáte **levné herní PC bazar** bez kompromisů na kvalitě? V HelloComp ho najdete.  
