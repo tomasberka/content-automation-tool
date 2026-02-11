@@ -19,7 +19,7 @@
 
 # Jak vybrat herní PC
 
-Nevíte, **jak vybrat herní PC**, které bude odpovídat vašim potřebám a rozpočtu? Nejste sami. Výběr herního počítače může být matoucí – desítky modelů, stovky kombinací komponent a nekonečné diskuze na fórech. V tomto průvodci vám ukážeme, **jak si vybrat počítač** na hry krok za krokem, na co se zaměřit a jakým chybám se vyhnout. Ať už hledáte **nejlepší herní PC** pro 4K gaming nebo rozumnou sestavu pro e-sport, tento návod vám pomůže.
+Nevíte, **jak vybrat herní PC**, které bude odpovídat vašim potřebám a rozpočtu? Nejste sami. **Výběr PC** může být matoucí – desítky modelů, stovky kombinací komponent a nekonečné diskuze na fórech. V tomto průvodci vám ukážeme, **jak vybrat počítač** i **jak vybrat stolní počítač** na hry krok za krokem, na co se zaměřit a jakým chybám se vyhnout. Ať už hledáte **nejlepší herní PC** pro 4K gaming nebo **nejlevnější herní PC** pro e-sport, tento návod vám pomůže.
 
 ---
 
@@ -39,11 +39,11 @@ Různé hry mají různé nároky. E-sportové tituly (CS2, Valorant, League of 
 
 ### 3. Jaký je váš rozpočet?
 
-Rozpočet určuje, **jaký herní počítač** si můžete dovolit. Dobrou zprávou je, že i s omezeným budgetem lze pořídit kvalitní herní PC. V HelloComp najdete sestavy od základních herních PC do 15 000 Kč až po high-end stroje do 60 000 Kč.
+Rozpočet určuje, **jaký herní počítač** si můžete dovolit. Dobrou zprávou je, že i s omezeným budgetem lze pořídit kvalitní herní PC. Pokud hledáte **nejlevnější herní PC**, máte možnost začít s rozumnou sestavou už od 15 000 Kč. V HelloComp najdete sestavy od základních herních PC do 15 000 Kč až po high-end stroje do 60 000 Kč.
 
 ### 4. Plánujete i jiné využití?
 
-Streamování, střih videa, práce s grafikou – to vše ovlivňuje, **jak vybrat PC sestavu**. Pro multitasking potřebujete více RAM a silnější procesor.
+Streamování, střih videa, práce s grafikou – to vše ovlivňuje, **jak vybrat PC sestavu**. Pokud uvažujete, **jak vybrat počítač pro domácnost**, kde bude sloužit nejen pro hraní, ale i pro práci, online výuku nebo zábavu celé rodiny, potřebujete univerzálnější konfiguraci. Pro multitasking potřebujete více RAM a silnější procesor.
 
 ---
 
@@ -156,9 +156,9 @@ Naše řady herních PC jsou navrženy tak, aby vyhovovaly různým úrovním hr
 
 ---
 
-## Vyberte si nejlepší herní PC
+## Vyberte si nejlepší herní počítač
 
-Prozkoumejte naši kompletní nabídku <a href="https://www.hellocomp.cz/herni-pocitace/">herních počítačů</a> a najděte řešení přesně pro váš herní styl a rozpočet. Využijte možnost konfigurace na míru a u všech modelů si ověřte výkon pomocí **FPS kalkulačky**.
+Prozkoumejte naši kompletní nabídku <a href="https://www.hellocomp.cz/herni-pocitace/">herních počítačů</a> a najděte řešení přesně pro váš herní styl a rozpočet. Využijte možnost konfigurace na míru a u všech modelů si ověřte výkon pomocí **FPS kalkulačky**. Hledáte-li **nejlepší herní počítač** pro své potřeby, naše specializované řady vám garantují optimální výkon v každé cenové kategorii.
 
 **Doporučené herní PC sestavy** od HelloComp jsou připravené k okamžitému použití – stačí zapojit a hrát. Chcete **koupit herní počítač** a nevíte, kde začít? Kontaktujte nás – rádi poradíme do 24 hodin. U nás najdete **herní PC** řešení pro každý typ gamingu.
 
