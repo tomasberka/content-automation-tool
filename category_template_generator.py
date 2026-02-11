@@ -216,64 +216,6 @@ class ContentParser:
                 ))
         
         return parsed
-        """
-        Extrahuje obsah z HTML
-        
-        Args:
-            content: HTML text kategorie
-            
-        Returns:
-            CategoryContent objekt
-        """
-        parsed = CategoryContent(raw_content=content)
-        
-        # Základní HTML parsing
-        title_match = re.search(r'<title>(.+?)</title>', content, re.IGNORECASE)
-        if title_match:
-            parsed.title = title_match.group(1).strip()
-        
-        meta_match = re.search(r'<meta\s+name=["\']description["\']\s+content=["\'](.+?)["\']', 
-                              content, re.IGNORECASE)
-        if meta_match:
-            parsed.meta_description = meta_match.group(1).strip()
-        
-        h1_match = re.search(r'<h1[^>]*>(.+?)</h1>', content, re.IGNORECASE | re.DOTALL)
-        if h1_match:
-            parsed.h1 = re.sub(r'<[^>]+>', '', h1_match.group(1)).strip()
-            
-            # Úvodní text je obsah mezi H1 a prvním H2
-            h1_end = h1_match.end()
-            first_h2_match = re.search(r'<h2[^>]*>', content[h1_end:], re.IGNORECASE)
-            if first_h2_match:
-                intro_html = content[h1_end:h1_end + first_h2_match.start()].strip()
-                # Zachovat celý HTML včetně tagů pro úvodní text
-                parsed.introduction = intro_html
-        
-        # H2 sekce s obsahem
-        h2_pattern = re.compile(r'<h2[^>]*>(.+?)</h2>', re.IGNORECASE | re.DOTALL)
-        h2_matches = list(h2_pattern.finditer(content))
-        
-        for i, match in enumerate(h2_matches):
-            heading = re.sub(r'<[^>]+>', '', match.group(1)).strip()
-            
-            # Extrahovat obsah mezi tímto H2 a dalším H2 (nebo koncem)
-            start = match.end()
-            if i + 1 < len(h2_matches):
-                end = h2_matches[i + 1].start()
-            else:
-                # Pokusit se najít konec article nebo body tagu
-                body_end = re.search(r'</article>|</body>', content[start:], re.IGNORECASE)
-                end = start + body_end.start() if body_end else len(content)
-            
-            section_content = content[start:end].strip()
-            
-            parsed.h2_sections.append(ContentSection(
-                type='h2',
-                heading=heading,
-                content=section_content
-            ))
-        
-        return parsed
 
 
 class ContentValidator:
@@ -450,6 +392,18 @@ class ContentValidator:
 class ContentFormatter:
     """Formátování obsahu do různých výstupních formátů"""
     
+    # Strukturální HTML tagy používané pro detekci HTML obsahu
+    STRUCTURAL_HTML_TAGS = [
+        '<p>', '<p ', '</p>', 
+        '<ul>', '<ul ', '</ul>', 
+        '<ol>', '<ol ', '</ol>', 
+        '<li>', '<li ', '</li>', 
+        '<h2>', '<h2 ', '</h2>', 
+        '<h3>', '<h3 ', '</h3>',
+        '<div>', '<div ', '</div>', 
+        '<section>', '<section ', '</section>'
+    ]
+    
     @staticmethod
     def to_html(content: CategoryContent) -> str:
         """
@@ -585,12 +539,14 @@ class ContentFormatter:
         (bold, italic, odkazy)
         """
         # Bold **text** nebo __text__ -> <strong>text</strong>
+        # Musí být před italic, aby se nezpracovaly jednotlivé * z **
         text = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
         text = re.sub(r'__(.+?)__', r'<strong>\1</strong>', text)
         
         # Italic *text* nebo _text_ -> <em>text</em>
-        text = re.sub(r'\*(.+?)\*', r'<em>\1</em>', text)
-        text = re.sub(r'_(.+?)_', r'<em>\1</em>', text)
+        # Nepoužívat na již zpracované <strong> tagy
+        text = re.sub(r'(?<!\*)\*([^*]+?)\*(?!\*)', r'<em>\1</em>', text)
+        text = re.sub(r'(?<!_)_([^_]+?)_(?!_)', r'<em>\1</em>', text)
         
         # Odkazy [text](url) -> <a href="url">text</a>
         text = re.sub(r'\[([^\]]+)\]\(([^\)]+)\)', r'<a href="\2">\1</a>', text)
@@ -600,21 +556,13 @@ class ContentFormatter:
     @staticmethod
     def _has_structural_html(content: str) -> bool:
         """Zkontroluje, zda obsah obsahuje strukturované HTML tagy"""
-        structural_html_tags = ['<p>', '<p ', '</p>', '<ul>', '<ul ', '</ul>', '<ol>', '<ol ', '</ol>', 
-                               '<li>', '<li ', '</li>', '<h2>', '<h2 ', '</h2>', '<h3>', '<h3 ', '</h3>',
-                               '<div>', '<div ', '</div>', '<section>', '<section ', '</section>']
-        return any(tag in content.lower() for tag in structural_html_tags)
+        return any(tag in content.lower() for tag in ContentFormatter.STRUCTURAL_HTML_TAGS)
     
     @staticmethod
     def _format_html_content(content: str) -> str:
         """Formátuje Markdown-like obsah do HTML"""
         # Zkontrolovat, zda obsah již obsahuje strukturované HTML tagy
-        # (nejen <a> nebo jednoduché inline tagy, ale strukturální tagy jako <p>, <ul>, <h2>, etc.)
-        structural_html_tags = ['<p>', '<p ', '</p>', '<ul>', '<ul ', '</ul>', '<ol>', '<ol ', '</ol>', 
-                               '<li>', '<li ', '</li>', '<h2>', '<h2 ', '</h2>', '<h3>', '<h3 ', '</h3>',
-                               '<div>', '<div ', '</div>', '<section>', '<section ', '</section>']
-        
-        has_structural_html = any(tag in content.lower() for tag in structural_html_tags)
+        has_structural_html = ContentFormatter._has_structural_html(content)
         
         # Pokud obsah už má strukturované HTML, vrátit ho beze změny
         if has_structural_html:
@@ -982,7 +930,14 @@ Příklady použití:
         print(f"❌ Chyba: Soubor '{args.input}' neexistuje")
         return
     
-    output_format = OutputFormat.HTML if args.format == 'html' else (OutputFormat.HTML_FRAGMENT if args.format == 'html_fragment' else OutputFormat.MARKDOWN)
+    # Určit výstupní formát
+    if args.format == 'html':
+        output_format = OutputFormat.HTML
+    elif args.format == 'html_fragment':
+        output_format = OutputFormat.HTML_FRAGMENT
+    else:
+        output_format = OutputFormat.MARKDOWN
+        
     content, validation_results = generator.process_file(
         args.input,
         args.output,
