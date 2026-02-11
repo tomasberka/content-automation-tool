@@ -19,9 +19,9 @@
 
 # Jak vybrat herní PC
 
-Nevíte, **jak vybrat herní PC**, které bude odpovídat vašim potřebám a rozpočtu? Nejste sami. **Výběr PC** může být matoucí – desítky modelů, stovky kombinací komponent a nekonečné diskuze na fórech. 
+Nevíte, **jak vybrat herní PC**, které bude odpovídat vašim potřebám a rozpočtu? Nejste sami. **Výběr pc** může být matoucí – desítky modelů, stovky kombinací komponent a nekonečné diskuze na fórech. 
 
-V tomto průvodci vám ukážeme, **jak vybrat počítač** nebo **jak vybrat stolní počítač** na hry krok za krokem, na co se zaměřit a jakým chybám se vyhnout. Ať už hledáte **nejlepší herní PC** pro 4K gaming nebo **nejlevnější herní PC** pro e-sport, tento návod vám pomůže.
+V tomto průvodci vám ukážeme, **jak vybrat počítač** na hry, ať už řešíte **jak vybrat stolní počítač** pro domácnost nebo výkonný herní stroj, krok za krokem. Ukážeme vám, na co se zaměřit a jakým chybám se vyhnout. Ať už hledáte **nejlepší herní PC** pro 4K gaming nebo **nejlevnější herní PC** pro e-sport, tento návod vám pomůže.
 
 ---
 
