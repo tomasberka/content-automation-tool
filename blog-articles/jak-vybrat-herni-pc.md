@@ -19,7 +19,9 @@
 
 # Jak vybrat herní PC
 
-Nevíte, **jak vybrat herní PC**, které bude odpovídat vašim potřebám a rozpočtu? Nejste sami. Výběr herního počítače může být matoucí – desítky modelů, stovky kombinací komponent a nekonečné diskuze na fórech. V tomto průvodci vám ukážeme, **jak si vybrat počítač** na hry krok za krokem, na co se zaměřit a jakým chybám se vyhnout. Ať už hledáte **nejlepší herní PC** pro 4K gaming nebo rozumnou sestavu pro e-sport, tento návod vám pomůže.
+Nevíte, **jak vybrat herní PC**, které bude odpovídat vašim potřebám a rozpočtu? Nejste sami. **Výběr pc** může být matoucí – desítky modelů, stovky kombinací komponent a nekonečné diskuze na fórech. 
+
+V tomto průvodci vám ukážeme, **jak vybrat počítač** na hry, ať už řešíte **jak vybrat stolní počítač** pro domácnost nebo výkonný herní stroj, krok za krokem. Ukážeme vám, na co se zaměřit a jakým chybám se vyhnout. Ať už hledáte **nejlepší herní PC** pro 4K gaming nebo **nejlevnější herní PC** pro e-sport, tento návod vám pomůže.
 
 ---
 
@@ -39,11 +41,11 @@ Různé hry mají různé nároky. E-sportové tituly (CS2, Valorant, League of 
 
 ### 3. Jaký je váš rozpočet?
 
-Rozpočet určuje, **jaký herní počítač** si můžete dovolit. Dobrou zprávou je, že i s omezeným budgetem lze pořídit kvalitní herní PC. V HelloComp najdete sestavy od základních herních PC do 15 000 Kč až po high-end stroje do 60 000 Kč.
+Rozpočet určuje, **jaký herní počítač** si můžete dovolit. Dobrou zprávou je, že i s omezeným budgetem lze pořídit kvalitní herní PC. Pokud hledáte **nejlevnější herní PC**, máte možnost začít s rozumnou sestavou už od 15 000 Kč. V HelloComp najdete sestavy napříč všemi cenovými kategoriemi až po high-end stroje do 60 000 Kč.
 
 ### 4. Plánujete i jiné využití?
 
-Streamování, střih videa, práce s grafikou – to vše ovlivňuje, **jak vybrat PC sestavu**. Pro multitasking potřebujete více RAM a silnější procesor.
+Streamování, střih videa, práce s grafikou – to vše ovlivňuje, **jak vybrat PC sestavu**. Pokud uvažujete, **jak vybrat počítač pro domácnost**, kde bude sloužit nejen pro hraní, ale i pro práci, online výuku nebo zábavu celé rodiny, potřebujete univerzálnější konfiguraci. Pro multitasking potřebujete více RAM a silnější procesor.
 
 ---
 
@@ -88,6 +90,15 @@ DDR5 nabízí vyšší výkon, DDR4 lepší poměr cena/výkon. Typ paměti (DDR
 * **2 TB+** – pro rozsáhlou knihovnu her
 
 NVMe SSD je rychlejší než SATA SSD a cenový rozdíl je minimální.
+
+### Další důležité komponenty
+
+Kromě hlavních komponent nezapomeňte na:
+
+* <a href="https://www.hellocomp.cz/zakladni-desky/">Základní desku</a> – propojuje všechny části počítače
+* <a href="https://www.hellocomp.cz/pc-zdroje/">PC zdroj</a> – zajišťuje stabilní napájení všech komponent
+* <a href="https://www.hellocomp.cz/chladice/">Chladiče</a> – udržují teploty pod kontrolou
+* <a href="https://www.hellocomp.cz/pc-skrine--case/">PC skříň</a> – zajišťuje dobrý průtok vzduchu
 
 ---
 
@@ -156,9 +167,9 @@ Naše řady herních PC jsou navrženy tak, aby vyhovovaly různým úrovním hr
 
 ---
 
-## Vyberte si nejlepší herní PC
+## Vyberte si nejlepší herní počítač
 
-Prozkoumejte naši kompletní nabídku <a href="https://www.hellocomp.cz/herni-pocitace/">herních počítačů</a> a najděte řešení přesně pro váš herní styl a rozpočet. Využijte možnost konfigurace na míru a u všech modelů si ověřte výkon pomocí **FPS kalkulačky**.
+Prozkoumejte naši kompletní nabídku <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">herních počítačů</a> a najděte řešení přesně pro váš herní styl a rozpočet. Využijte možnost konfigurace na míru a u všech modelů si ověřte výkon pomocí **FPS kalkulačky**. Hledáte-li **nejlepší herní počítač** pro své potřeby, naše specializované řady vám garantují optimální výkon v každé cenové kategorii.
 
 **Doporučené herní PC sestavy** od HelloComp jsou připravené k okamžitému použití – stačí zapojit a hrát. Chcete **koupit herní počítač** a nevíte, kde začít? Kontaktujte nás – rádi poradíme do 24 hodin. U nás najdete **herní PC** řešení pro každý typ gamingu.
 
@@ -172,7 +183,7 @@ Kvalitní herní PC vydrží běžně 5-7 let. V průběhu doby můžete provád
 
 ### Herní počítač nebo herní notebook? Na čom hrát hry?
 
-Herní desktop PC nabízí lepší cenu/výkon, snadnější upgrade a lepší chlazení. Herní notebook je ideální pro přenosnost. Pokud neplánujete často cestovat, desktop je lepší volba.
+Herní desktop PC nabízí lepší cenu/výkon, snadnější upgrade a lepší chlazení. <a href="https://www.hellocomp.cz/herni-notebooky--gaming/">Herní notebook</a> je ideální pro přenosnost. Pokud neplánujete často cestovat, desktop je lepší volba.
 
 ### Jak zjistit jestli herní PC rozjede konkrétní hru?
 
@@ -188,7 +199,7 @@ Záleží na vašich požadavcích. Pro e-sport a Full HD stačí 15-20 000 Kč.
 
 ### Dostanu počítač už složený?
 
-Ano! Všechny naše herní počítače dodáváme kompletně sestavené, otestované a připravené k okamžitému zapojení. Stačí připojit monitor, klávesnici, myš a můžete začít hrát.
+Ano! Všechny naše herní počítače dodáváme kompletně sestavené, otestované a připravené k okamžitému zapojení. K hraní už stačí jen připojit <a href="https://www.hellocomp.cz/pc-prislusenstvi/">herní příslušenství</a> – <a href="https://www.hellocomp.cz/monitory/">monitor</a>, <a href="https://www.hellocomp.cz/klavesnice/">klávesnici</a> a <a href="https://www.hellocomp.cz/mysi/">myš</a>.
 
 ### Nejsem si jistý, jaký počítač vybrat. Co mám dělat?
 
