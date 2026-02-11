@@ -21,7 +21,7 @@
 
 Neviete, **ako vybrať herný PC**, ktorý bude zodpovedať vašim potrebám a rozpočtu? Nie ste sami. Výber herného počítača môže byť mätúci – desiatky modelov, stovky kombinácií komponentov a nekonečné diskusie na fórach. V tomto sprievodcovi vám ukážeme, **ako si vybrať počítač** na hry krok za krokom, na čo sa zamerať a akým chybám sa vyhnúť. Či už hľadáte **najlepšie herné PC** pre 4K gaming alebo rozumnú zostavu pre e-sport, tento návod vám pomôže.
 
-**💡 Tip:** Neviete si rady s výberom? Využite našu službu <a href="https://www.hellocomp.cz/vybereme-za-vas-herni-pc/">**Vyberieme za vás herný PC**</a> – naši odborníci vám do 24 hodín odporučia ideálnu zostavu presne podľa vašich potrieb a rozpočtu. Služba je **zadarmo** a nezáväzná!
+**💡 Tip:** Neviete si rady s výberom? Využite našu službu <a href="https://www.hellocomp.cz/sk/vybereme-za-vas-herni-pc/">**Vyberieme za vás herný PC**</a> – naši odborníci vám do 24 hodín odporučia ideálnu zostavu presne podľa vašich potrieb a rozpočtu. Služba je **zadarmo** a nezáväzná!
 
 ---
 

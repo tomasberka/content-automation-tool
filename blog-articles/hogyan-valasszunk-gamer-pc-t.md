@@ -21,7 +21,7 @@
 
 Nem tudja, **hogyan válasszon gamer PC-t**, amely megfelel az igényeinek és költségvetésének? Nincs egyedül. A gaming számítógép kiválasztása zavaró lehet – több tucat modell, több száz komponens kombináció és végtelen fórum viták. Ebben az útmutatóban lépésről lépésre megmutatjuk, **hogyan válasszon számítógépet** játékokhoz, mire figyeljen és milyen hibákat kerüljön el. Akár a **legjobb gamer PC-t** keresi 4K gaminghez, akár egy ésszerű összeállítást e-sporthoz, ez az útmutató segít.
 
-**💡 Tipp:** Nem tudja, mit válasszon? Használja a <a href="https://www.hellocomp.cz/vybereme-za-vas-herni-pc/">**Mi választunk Önnek gamer PC-t**</a> szolgáltatásunkat – szakértőink 24 órán belül ajánlanak egy ideális konfigurációt pontosan az Ön igényei és költségvetése szerint. A szolgáltatás **ingyenes** és nem kötelező!
+**💡 Tipp:** Nem tudja, mit válasszon? Használja a <a href="https://www.hellocomp.cz/hu/valasztunk-onek-gamer-pc-t/">**Mi választunk Önnek gamer PC-t**</a> szolgáltatásunkat – szakértőink 24 órán belül ajánlanak egy ideális konfigurációt pontosan az Ön igényei és költségvetése szerint. A szolgáltatás **ingyenes** és nem kötelező!
 
 ---
 
