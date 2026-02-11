@@ -579,6 +579,25 @@ class ContentFormatter:
                    .replace("'", '&#39;'))
     
     @staticmethod
+    def _convert_inline_markdown(text: str) -> str:
+        """
+        Převede inline Markdown formátování na HTML
+        (bold, italic, odkazy)
+        """
+        # Bold **text** nebo __text__ -> <strong>text</strong>
+        text = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
+        text = re.sub(r'__(.+?)__', r'<strong>\1</strong>', text)
+        
+        # Italic *text* nebo _text_ -> <em>text</em>
+        text = re.sub(r'\*(.+?)\*', r'<em>\1</em>', text)
+        text = re.sub(r'_(.+?)_', r'<em>\1</em>', text)
+        
+        # Odkazy [text](url) -> <a href="url">text</a>
+        text = re.sub(r'\[([^\]]+)\]\(([^\)]+)\)', r'<a href="\2">\1</a>', text)
+        
+        return text
+    
+    @staticmethod
     def _has_structural_html(content: str) -> bool:
         """Zkontroluje, zda obsah obsahuje strukturované HTML tagy"""
         structural_html_tags = ['<p>', '<p ', '</p>', '<ul>', '<ul ', '</ul>', '<ol>', '<ol ', '</ol>', 
@@ -605,49 +624,38 @@ class ContentFormatter:
         lines = content.split('\n')
         html_lines = []
         in_list = False
-        current_paragraph = []
         
         for line in lines:
             stripped = line.strip()
             
+            # Prázdný řádek - ignorovat, ale uzavřít seznam pokud je otevřený
+            if not stripped:
+                if in_list:
+                    html_lines.append('</ul>')
+                    in_list = False
+                continue
+            
             # Odrážkové seznamy
             if stripped.startswith('- ') or stripped.startswith('* '):
-                # Uzavřít předchozí odstavec
-                if current_paragraph:
-                    html_lines.append(f'<p>{" ".join(current_paragraph)}</p>')
-                    current_paragraph = []
-                    
                 if not in_list:
                     html_lines.append('<ul>')
                     in_list = True
-                html_lines.append(f'    <li>{stripped[2:]}</li>')
+                # Převést inline markdown ve výčtu
+                list_item_text = ContentFormatter._convert_inline_markdown(stripped[2:])
+                html_lines.append(f'    <li>{list_item_text}</li>')
             else:
                 if in_list:
                     html_lines.append('</ul>')
                     in_list = False
-                    
-                if stripped:
-                    # Pokud je to prázdný řádek nebo nová sekce, uzavřít odstavec
-                    if not stripped or (current_paragraph and stripped.startswith('#')):
-                        if current_paragraph:
-                            html_lines.append(f'<p>{" ".join(current_paragraph)}</p>')
-                            current_paragraph = []
-                    
-                    # Přidat řádek do aktuálního odstavce
-                    if stripped and not stripped.startswith('#'):
-                        current_paragraph.append(stripped)
-                elif current_paragraph:
-                    # Prázdný řádek - uzavřít odstavec
-                    html_lines.append(f'<p>{" ".join(current_paragraph)}</p>')
-                    current_paragraph = []
+                
+                # Běžný řádek textu - převést na HTML s inline formátováním
+                if not stripped.startswith('#'):
+                    line_html = ContentFormatter._convert_inline_markdown(stripped)
+                    html_lines.append(f'<p>{line_html}</p>')
         
         # Uzavřít seznam pokud zůstal otevřený
         if in_list:
             html_lines.append('</ul>')
-        
-        # Uzavřít poslední odstavec pokud zůstal otevřený
-        if current_paragraph:
-            html_lines.append(f'<p>{" ".join(current_paragraph)}</p>')
         
         return '\n'.join(html_lines)
 
