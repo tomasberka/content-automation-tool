@@ -60,7 +60,7 @@ Moderní **PC skříně** nabízejí bezšroubkové montáže, odnímatelné pan
 
 ### Akustické vlastnosti
 
-**Počítačové skříně** s tlumenými panely a kvalitními gumovými držáky výrazně snižují provozní hlučnost. To oceníte zejména u [pracovních stanic](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/) nebo [kancelářských PC](https://www.hellocomp.cz/kancelarskе-pocitace/).
+**Počítačové skříně** s tlumenými panely a kvalitními gumovými držáky výrazně snižují provozní hlučnost. To oceníte zejména u [pracovních stanic](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/) nebo [kancelářských PC](https://www.hellocomp.cz/kancelarske-pocitace/).
 
 ---
 
@@ -107,7 +107,7 @@ V nabídce HelloComp najdete **PC skříně** pro všechny typy sestav – od ko
 
 ### Pro domácí a kancelářské PC
 
-Solidní **střední tower** s tichým provozem a neutrálním designem je skvělou volbou pro [kancelářské počítače](https://www.hellocomp.cz/kancelarskе-pocitace/) nebo domácí sestavy, kde jde především o funkčnost.
+Solidní **střední tower** s tichým provozem a neutrálním designem je skvělou volbou pro [kancelářské počítače](https://www.hellocomp.cz/kancelarske-pocitace/) nebo domácí sestavy, kde jde především o funkčnost.
 
 ### Pro workstation a profesionální použití
 
@@ -133,7 +133,7 @@ V HelloComp nabízíme pečlivě vybranou nabídku **počítačových skříní*
 
 ### Kompletní PC sestavy připravené k použití
 
-Pokud nechcete stavět PC sami, podívejte se na naše hotové [herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/), [kancelářské PC](https://www.hellocomp.cz/kancelarskе-pocitace/) nebo [pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/). Každá sestava je odborně sestavena, otestována a osazena v kvalitní **PC skříni**.
+Pokud nechcete stavět PC sami, podívejte se na naše hotové [herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/), [kancelářské PC](https://www.hellocomp.cz/kancelarske-pocitace/) nebo [pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/). Každá sestava je odborně sestavena, otestována a osazena v kvalitní **PC skříni**.
 
 ---
 
