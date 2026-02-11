@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name_cz": "Grafické karty do PC",
+      "name_sk": "Grafické karty do PC",
+      "name_hu": "Videókártyák PC-hez",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/graficke-karty-do-pc/",
+        "sk": "https://www.hellocomp.cz/sk/graficke-karty-do-pc/",
+        "hu": "https://www.hellocomp.cz/hu/videokartyak-pc-hez/"
+      }
+    },
+    {
+      "id": 2,
+      "name_cz": "Grafické karty NVIDIA",
+      "name_sk": "Grafické karty NVIDIA",
+      "name_hu": "NVIDIA grafikus kártyák",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/graficke-karty-nvidia/",
+        "sk": "https://www.hellocomp.cz/sk/graficke-karty-nvidia/",
+        "hu": "https://www.hellocomp.cz/hu/nvidia-grafikus-kartyak/"
+      }
+    },
+    {
+      "id": 3,
+      "name_cz": "Grafické karty AMD",
+      "name_sk": "Grafické karty AMD",
+      "name_hu": "AMD grafikus kártyák",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/graficke-karty-amd/",
+        "sk": "https://www.hellocomp.cz/sk/graficke-karty-amd/",
+        "hu": "https://www.hellocomp.cz/hu/amd-grafikus-kartyak/"
+      }
+    },
+    {
+      "id": 4,
+      "name_cz": "Procesory",
+      "name_sk": "Procesory",
+      "name_hu": "Processzorok",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/procesory/",
+        "sk": "https://www.hellocomp.cz/sk/procesory/",
+        "hu": "https://www.hellocomp.cz/hu/processzorok/"
+      }
+    },
+    {
+      "id": 5,
+      "name_cz": "Procesory Intel Core i5",
+      "name_sk": "Procesory Intel Core i5",
+      "name_hu": "Intel Core i5 processzorok",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/procesory-intel-core-i5/",
+        "sk": "https://www.hellocomp.cz/sk/procesory-intel-core-i5/",
+        "hu": "https://www.hellocomp.cz/hu/intel-core-i5-processzorok/"
+      }
+    },
+    {
+      "id": 6,
+      "name_cz": "Procesory Intel Core i7",
+      "name_sk": "Procesory Intel Core i7",
+      "name_hu": "Intel Core i7 processzorok",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/procesory-intel-core-i7/",
+        "sk": "https://www.hellocomp.cz/sk/procesory-intel-core-i7/",
+        "hu": "https://www.hellocomp.cz/hu/intel-core-i7-processzorok/"
+      }
+    },
+    {
+      "id": 7,
+      "name_cz": "Procesory Intel Core i9",
+      "name_sk": "Procesory Intel Core i9",
+      "name_hu": "Intel Core i9 processzorok",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/procesory-intel-core-i9/",
+        "sk": "https://www.hellocomp.cz/sk/procesory-intel-core-i9/",
+        "hu": "https://www.hellocomp.cz/hu/intel-core-i9-processzorok/"
+      }
+    },
+    {
+      "id": 8,
+      "name_cz": "Procesory AMD Ryzen 5",
+      "name_sk": "Procesory AMD Ryzen 5",
+      "name_hu": "AMD Ryzen 5 processzorok",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/procesory-amd-ryzen-5/",
+        "sk": "https://www.hellocomp.cz/sk/procesory-amd-ryzen-5/",
+        "hu": "https://www.hellocomp.cz/hu/amd-ryzen-5-processzorok/"
+      }
+    },
+    {
+      "id": 9,
+      "name_cz": "Procesory AMD Ryzen 7",
+      "name_sk": "Procesory AMD Ryzen 7",
+      "name_hu": "AMD Ryzen 7 processzorok",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/procesory-amd-ryzen-7/",
+        "sk": "https://www.hellocomp.cz/sk/procesory-amd-ryzen-7/",
+        "hu": "https://www.hellocomp.cz/hu/amd-ryzen-7-processzorok/"
+      }
+    },
+    {
+      "id": 10,
+      "name_cz": "Procesory AMD Ryzen 9",
+      "name_sk": "Procesory AMD Ryzen 9",
+      "name_hu": "AMD Ryzen 9 processzorok",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/procesory-amd-ryzen-9/",
+        "sk": "https://www.hellocomp.cz/sk/procesory-amd-ryzen-9/",
+        "hu": "https://www.hellocomp.cz/hu/amd-ryzen-9-processzorok/"
+      }
+    },
+    {
+      "id": 11,
+      "name_cz": "Operační paměti",
+      "name_sk": "Operačné pamäte",
+      "name_hu": "Memóriák (RAM)",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/operacni-pameti/",
+        "sk": "https://www.hellocomp.cz/sk/operacne-pamate/",
+        "hu": "https://www.hellocomp.cz/hu/memoriak--ram/"
+      }
+    },
+    {
+      "id": 12,
+      "name_cz": "Interní disky",
+      "name_sk": "Interné disky",
+      "name_hu": "Belső meghajtók",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/interni-disky/",
+        "sk": "https://www.hellocomp.cz/sk/interne-disky/",
+        "hu": "https://www.hellocomp.cz/hu/belso-meghajtok/"
+      }
+    },
+    {
+      "id": 13,
+      "name_cz": "Herní počítače (Gaming)",
+      "name_sk": "Herné počítače (Gaming)",
+      "name_hu": "Játékszámítógépek (Gaming)",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/herni-pocitace--gaming/",
+        "sk": "https://www.hellocomp.cz/sk/herne-pocitace--gaming/",
+        "hu": "https://www.hellocomp.cz/hu/jatekszamitogepek--gaming/"
+      }
+    },
+    {
+      "id": 14,
+      "name_cz": "Intel herní počítače",
+      "name_sk": "Intel herné počítače",
+      "name_hu": "Intel-es gamer PC",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/herni-pc-s-intel/",
+        "sk": "https://www.hellocomp.cz/sk/herne-pc-s-intel/",
+        "hu": "https://www.hellocomp.cz/hu/intel-es-gamer-pc/"
+      }
+    },
+    {
+      "id": 15,
+      "name_cz": "AMD herní počítače",
+      "name_sk": "AMD herné počítače",
+      "name_hu": "AMD-s gamer PC",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/herni-pc-s-amd/",
+        "sk": "https://www.hellocomp.cz/sk/herne-pc-s-amd/",
+        "hu": "https://www.hellocomp.cz/hu/amd-s-gamer-pc/"
+      }
+    }
+  ]
+}
