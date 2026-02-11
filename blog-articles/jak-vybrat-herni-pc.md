@@ -93,7 +93,12 @@ NVMe SSD je rychlejší než SATA SSD a cenový rozdíl je minimální.
 
 ### Další důležité komponenty
 
-Kromě hlavních komponent nezapomeňte na <a href="https://www.hellocomp.cz/zakladni-desky/">základní desku</a>, která propojuje všechny části, kvalitní <a href="https://www.hellocomp.cz/pc-zdroje/">PC zdroj</a> pro stabilní napájení a účinné <a href="https://www.hellocomp.cz/chladice/">chlazení</a>, které udrží teploty pod kontrolou. <a href="https://www.hellocomp.cz/pc-skrine--case/">PC skříň</a> by měla zajišťovat dobrý průtok vzduchu.
+Kromě hlavních komponent nezapomeňte na:
+
+* <a href="https://www.hellocomp.cz/zakladni-desky/">Základní desku</a> – propojuje všechny části počítače
+* <a href="https://www.hellocomp.cz/pc-zdroje/">PC zdroj</a> – zajišťuje stabilní napájení všech komponent
+* <a href="https://www.hellocomp.cz/chladice/">Chlazení</a> – udržuje teploty pod kontrolou
+* <a href="https://www.hellocomp.cz/pc-skrine--case/">PC skříň</a> – zajišťuje dobrý průtok vzduchu
 
 ---
 
@@ -194,7 +199,7 @@ Záleží na vašich požadavcích. Pro e-sport a Full HD stačí 15-20 000 Kč.
 
 ### Dostanu počítač už složený?
 
-Ano! Všechny naše herní počítače dodáváme kompletně sestavené, otestované a připravené k okamžitému zapojení. Stačí připojit <a href="https://www.hellocomp.cz/monitory/">monitor</a>, <a href="https://www.hellocomp.cz/klavesnice/">klávesnici</a>, <a href="https://www.hellocomp.cz/mysi/">myš</a> a můžete začít hrát.
+Ano! Všechny naše herní počítače dodáváme kompletně sestavené, otestované a připravené k okamžitému zapojení. K hraní už stačí jen připojit <a href="https://www.hellocomp.cz/pc-prislusenstvi/">herní příslušenství</a> – <a href="https://www.hellocomp.cz/monitory/">monitor</a>, <a href="https://www.hellocomp.cz/klavesnice/">klávesnici</a> a <a href="https://www.hellocomp.cz/mysi/">myš</a>.
 
 ### Nejsem si jistý, jaký počítač vybrat. Co mám dělat?
 
