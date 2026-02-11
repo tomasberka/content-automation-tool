@@ -165,6 +165,16 @@ This document contains URLs for all product category pages on HelloComp.cz e-sho
 
 ---
 
+## 16. PC skříně
+
+**PC Cases**
+
+- 🇨🇿 **Czech:** https://www.hellocomp.cz/pc-skrine--case/
+- 🇸🇰 **Slovak:** https://www.hellocomp.cz/sk/pc-skrine--case/
+- 🇭🇺 **Hungarian:** https://www.hellocomp.cz/hu/pc-hazak--case/
+
+---
+
 ## Usage
 
 ### For Content Writers
@@ -196,6 +206,6 @@ Use the `category-urls.json` file for programmatic access to category URLs. The 
 
 ---
 
-**Total Categories:** 15  
+**Total Categories:** 16  
 **Supported Languages:** Czech (CZ), Slovak (SK), Hungarian (HU)  
 **Domain:** www.hellocomp.cz

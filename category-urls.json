@@ -164,6 +164,17 @@
         "sk": "https://www.hellocomp.cz/sk/herne-pc-s-amd/",
         "hu": "https://www.hellocomp.cz/hu/amd-s-gamer-pc/"
       }
+    },
+    {
+      "id": 16,
+      "name_cz": "PC skříně",
+      "name_sk": "PC skrine",
+      "name_hu": "PC házak",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/pc-skrine--case/",
+        "sk": "https://www.hellocomp.cz/sk/pc-skrine--case/",
+        "hu": "https://www.hellocomp.cz/hu/pc-hazak--case/"
+      }
     }
   ]
 }
