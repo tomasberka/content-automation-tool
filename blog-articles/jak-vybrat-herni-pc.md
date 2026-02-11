@@ -1,15 +1,15 @@
 # Jak vybrat herní PC | Průvodce výběrem herního počítače
 
 ## Kontrolní seznam klíčových slov
-- [ ] jak vybrat herní pc
-- [ ] jak vybrat herní počítač
-- [ ] nejlepší herní pc
-- [ ] jak vybrat pc
-- [ ] jaký herní počítač
-- [ ] výběr počítače podle parametrů
-- [ ] jaký počítač na hry
-- [ ] jak vybrat pc sestavu
-- [ ] jak si vybrat počítač
+- [x] jak vybrat herní pc
+- [x] jak vybrat herní počítač
+- [x] nejlepší herní pc
+- [x] jak vybrat pc
+- [x] jaký herní počítač
+- [x] výběr počítače podle parametrů
+- [x] jaký počítač na hry
+- [x] jak vybrat pc sestavu
+- [x] jak si vybrat počítač
 
 ## Meta informace
 **Meta title:** Jak vybrat herní PC | Průvodce výběrem herního počítače
@@ -97,8 +97,8 @@ Kromě hlavních komponent nezapomeňte na:
 
 * <a href="https://www.hellocomp.cz/zakladni-desky/">Základní desku</a> – propojuje všechny části počítače
 * <a href="https://www.hellocomp.cz/pc-zdroje/">PC zdroj</a> – zajišťuje stabilní napájení všech komponent
-* <a href="https://www.hellocomp.cz/chladice/">Chladiče</a> – udržují teploty pod kontrolou
-* <a href="https://www.hellocomp.cz/pc-skrine--case/">PC skříň</a> – zajišťuje dobrý průtok vzduchu
+* <a href="https://www.hellocomp.cz/chladice-ventilatory/">Chladiče</a> – udržují teploty pod kontrolou
+* <a href="https://www.hellocomp.cz/pc-skrine/">PC skříň</a> – zajišťuje dobrý průtok vzduchu
 
 ---
 
