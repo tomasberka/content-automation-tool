@@ -17,6 +17,14 @@
 
 **Meta Description:** Profesionální pracovní stanice pro CAD, 3D, střih videa a náročné aplikace. Pracovní počítače s certifikovanými komponenty a zárukou.
 
+**Title (SK):** Pracovné stanice | Výkonné pracovné počítače pre profesionálov
+
+**Meta Description (SK):** Profesionálne pracovné stanice pre CAD, 3D, strih videa a náročné aplikácie. Pracovné počítače s certifikovanými komponentmi a zárukou.
+
+**Title (HU):** Munkaállomások | Nagy teljesítményű munkaállomások szakembereknek
+
+**Meta Description (HU):** Professzionális munkaállomások CAD, 3D, videóvágás és igényes alkalmazások számára. Munkaállomások tanúsított alkatrészekkel és garanciával.
+
 ---
 
 # Pracovní stanice
