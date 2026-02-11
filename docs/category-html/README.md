@@ -6,11 +6,10 @@ This directory contains ready-to-use HTML category descriptions for the HelloCom
 
 These HTML files are designed to be directly inserted into Shoptet category pages. They include:
 
-- **Complete CSS styling** - Embedded styles for consistent presentation
-- **Responsive design** - Mobile-optimized layouts (breakpoint at 768px)
-- **Expandable content** - "Read more" functionality to keep pages clean
+- **Plain semantic HTML** - Clean markup without embedded CSS (styling handled by Shoptet theme)
 - **SEO-optimized** - Internal links, proper heading structure, and keyword-rich content
 - **Shoptet-ready** - No external dependencies, direct copy-paste integration
+- **Well-structured content** - Organized with H2 and H3 headings, paragraphs, and lists
 
 ## File Structure
 
@@ -18,8 +17,7 @@ These HTML files are designed to be directly inserted into Shoptet category page
 **Category:** Gaming Computers (Herní počítače)
 
 Complete category description with:
-- Introduction paragraph with CTA link
-- Expandable content section (hidden by default)
+- Introduction paragraphs about gaming computers and upgrade options
 - Multiple H2 and H3 sections covering:
   - Gaming PC builds for maximum performance
   - Different player types (beginners, advanced, hardcore)
@@ -28,7 +26,7 @@ Complete category description with:
   - FPS calculator information
   - Upgrade options
 - Internal links to related HelloComp categories
-- Responsive CSS for mobile devices
+- Clean semantic HTML structure
 
 ## Usage
 
@@ -42,38 +40,34 @@ Complete category description with:
 
 ### Key Features:
 
-**CSS Styling:**
-- `.category-content` - Main container class
-- H2 headings with blue underline border
-- H3 headings with gray underline
-- Proper link styling with hover effects
-- Responsive adjustments for mobile devices
+**Content Structure:**
+- Semantic HTML with proper heading hierarchy (H2, H3)
+- Paragraphs with `<p>` tags
+- Unordered lists with `<ul>` and `<li>` tags
+- Internal links with `<a>` tags and proper href attributes
+- Bold text with `<strong>` tags for emphasis
 
-**Interactive Elements:**
-- `#readMore` - Link to expand hidden content
-- `#hiddenContent` - Hidden content section
-- `#hideDescription` - Link to collapse content back
+**Note:** Styling is handled by the Shoptet theme CSS. The HTML provides clean semantic markup that will inherit the site's design.
 
-**Note:** The expand/collapse functionality requires JavaScript to be implemented on the Shoptet side. The IDs are provided for easy integration.
+## Content Guidelines
 
-## Style Guide
+All category HTML files follow these content principles:
 
-All category HTML files follow these design principles:
-
-- **Color Scheme:**
-  - Primary text: #2c3e50 (dark blue-gray)
-  - Links: #2980b9 (blue)
-  - Borders: #2980b9 (blue for H2), #ccc (gray for H3)
+- **Semantic Structure:**
+  - H2 for main section headings
+  - H3 for subsection headings
+  - Proper use of paragraphs, lists, and emphasis
   
-- **Typography:**
-  - Base font-size: 1em
-  - Line-height: 1.6 (1.5 on mobile)
-  - H2: 1.5em (1.3em on mobile)
-  - H3: 1.2em (1.1em on mobile)
+- **SEO Best Practices:**
+  - Keyword-rich content naturally integrated
+  - Internal linking to related categories
+  - Clear heading hierarchy
+  - Content length: 600-900 words
 
-- **Spacing:**
-  - Generous margins and padding for readability
-  - Clear visual hierarchy with consistent spacing
+- **Writing Style:**
+  - Professional and informative tone
+  - Focus on product features and benefits
+  - Clear calls to action
 
 ## Internal Linking Strategy
 
@@ -88,21 +82,20 @@ This creates a strong internal link structure for SEO and user navigation.
 ## Maintenance
 
 When adding new category HTML files:
-1. Follow the established structure and styling
-2. Use the `.category-content` container class
-3. Maintain responsive design patterns
-4. Include relevant internal links
-5. Keep content between 600-900 words
+1. Follow the established semantic HTML structure
+2. Use proper heading hierarchy (H2, H3)
+3. Include relevant internal links to related categories
+4. Keep content between 600-900 words
+5. Use `<strong>` for emphasis on key terms
 6. Update this README with new file information
 
 ## Technical Specifications
 
-- **Format:** HTML with embedded CSS
+- **Format:** Plain semantic HTML
 - **Platform:** Shoptet e-commerce
-- **Compatibility:** Modern browsers (Chrome, Firefox, Safari, Edge)
-- **Responsive breakpoint:** 768px
+- **Styling:** Handled by Shoptet theme CSS
 - **External dependencies:** None
-- **JavaScript required:** Optional (for expand/collapse functionality)
+- **JavaScript required:** None
 
 ---
 
