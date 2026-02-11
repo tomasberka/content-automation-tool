@@ -123,7 +123,7 @@ Pokud máš zkušenosti a chuť riskovat ztrátu záruky:
 
 ### Proč to svěřit servisu?
 
-❌ **Riziko ztráty záruky** – Většina výrobců GPU ztrácí záruku po rozebráním
+❌ **Riziko ztráty záruky** – Většina výrobců GPU ztrácí záruku po rozebrání
 ❌ **Složitá demontáž** – 6-10 šroubů, thermal pady na VRAM a VRM
 ❌ **Riziko poškození** – Jeden chybný krok = mrtvá grafika
 
@@ -194,7 +194,7 @@ Pokud výkon stále není ideální, možná je čas na upgrade. Na <a href="htt
 ## Preventivní opatření – Jak udržet PC čisté déle
 
 ### Vzduchové filtry
-Kontroluj a čisti magnetické prachu filtry **měsíčně** – Zabráníš většině prachu dostat se dovnitř.
+Kontroluj a čisti magnetické prachové filtry **měsíčně** – Zabráníš většině prachu dostat se dovnitř.
 
 ### Pozitivní přetlak
 Nastav ventilátory tak, aby přívod byl silnější než výfuk. Pozitivní tlak vytlačí prach ven.
