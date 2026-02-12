@@ -164,6 +164,17 @@
         "sk": "https://www.hellocomp.cz/sk/herne-pc-s-amd/",
         "hu": "https://www.hellocomp.cz/hu/amd-s-gamer-pc/"
       }
+    },
+    {
+      "id": 16,
+      "name_cz": "Vybereme za vás herní PC",
+      "name_sk": "Vyberieme za vás herný PC",
+      "name_hu": "Mi választunk Önnek gamer PC-t",
+      "urls": {
+        "cz": "https://www.hellocomp.cz/vybereme-za-vas-herni-pc/",
+        "sk": "https://www.hellocomp.cz/sk/vybereme-za-vas-herni-pc/",
+        "hu": "https://www.hellocomp.cz/hu/valasztunk-onek-gamer-pc-t/"
+      }
     }
   ]
 }

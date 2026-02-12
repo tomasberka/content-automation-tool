@@ -144,6 +144,10 @@ Jedna z výhod koupi herního PC do 20 000 Kč od HelloComp je jasná upgrade ce
 
 Díky kvalitní základní sestavě investujete chytře a postupně.
 
+**💡 Nevíte, který počítač vybrat?** Naše služba <a href="https://www.hellocomp.cz/vybereme-za-vas-herni-pc/">**Vybereme za vás herní PC**</a> vám pomůže najít ideální sestavu podle vašich oblíbených her a rozpočtu. Zdarma, do 24 hodin!
+
+---
+
 ## Tipy pro hraní starších her na moderním PC
 
 Když hrajete **starší hry na pc** na novém hardwaru, můžete narazit na pár problémů:

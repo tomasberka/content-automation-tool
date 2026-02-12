@@ -23,6 +23,8 @@ Nevíte, **jak vybrat herní PC**, které bude odpovídat vašim potřebám a ro
 
 V tomto průvodci vám ukážeme, **jak vybrat počítač** na hry, ať už řešíte **jak vybrat stolní počítač** pro domácnost nebo výkonný herní stroj, krok za krokem. Ukážeme vám, na co se zaměřit a jakým chybám se vyhnout. Ať už hledáte **nejlepší herní PC** pro 4K gaming nebo **nejlevnější herní PC** pro e-sport, tento návod vám pomůže.
 
+**💡 Tip:** Nevíte si rady s výběrem? Využijte naši službu <a href="https://www.hellocomp.cz/vybereme-za-vas-herni-pc/">**Vybereme za vás herní PC**</a> – naši odborníci vám do 24 hodin doporučí ideální sestavu přesně podle vašich potřeb a rozpočtu. Služba je **zdarma** a nezávazná!
+
 ---
 
 ## Jak vybrat herní počítač: Základní otázky
@@ -111,6 +113,8 @@ Kromě hlavních komponent nezapomeňte na:
 * **Do 30 000 Kč:** Full HD / 1440p, moderní hry na vysoké detaily.
 * **Do 40 000 Kč:** 1440p, AAA hry na ultra detaily a streaming.
 * **Do 60 000 Kč:** 4K, vše na maximum a profesionální využití.
+
+**💡 Stále si nejste jistí?** Naše služba <a href="https://www.hellocomp.cz/vybereme-za-vas-herni-pc/">**Vybereme za vás herní PC**</a> vám pomůže najít ideální konfiguraci podle vašich oblíbených her a rozpočtu. Odborné poradenství zdarma, odpověď do 24 hodin!
 
 ---
 
@@ -203,7 +207,7 @@ Ano! Všechny naše herní počítače dodáváme kompletně sestavené, otestov
 
 ### Nejsem si jistý, jaký počítač vybrat. Co mám dělat?
 
-Kontaktujte nás prostřednictvím e-mailu nebo telefonu. Náš tým vám pomůže najít ideální konfiguraci podle vašich potřeb, rozpočtu a oblíbených her. Rádi odpovíme na všechny vaše otázky a poradíme vám s výběrem.
+Využijte naši službu <a href="https://www.hellocomp.cz/vybereme-za-vas-herni-pc/">**Vybereme za vás herní PC**</a>! Během 24 hodin vám naši odborníci doporučí ideální sestavu podle vašich potřeb, rozpočtu a oblíbených her. Služba je zdarma a nezávazná. Alternativně nás můžete kontaktovat prostřednictvím e-mailu nebo telefonu – rádi odpovíme na všechny vaše otázky.
 
 ---
 
