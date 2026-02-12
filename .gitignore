@@ -40,6 +40,9 @@ htmlcov/
 *.tmp
 *.log
 
+# Generated HTML files
+*.html
+
 # OS
 .DS_Store
 Thumbs.db
