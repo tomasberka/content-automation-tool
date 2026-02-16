@@ -39,7 +39,7 @@ Různé hry mají různé nároky. E-sportové tituly (CS2, Valorant, League of 
 
 ### 3. Jaký je váš rozpočet?
 
-Rozpočet určuje, **jaký herní počítač** si můžete dovolit. Dobrou zprávou je, že i s omezeným budgetem lze pořídit kvalitní herní PC. V HelloComp najdete sestavy od základních herních PC do 15 000 Kč až po high-end stroje do 60 000 Kč.
+Rozpočet určuje, **jaký herní počítač** si můžete dovolit. Dobrou zprávou je, že i s omezeným rozpočtem lze pořídit kvalitní herní PC. V HelloComp najdete sestavy od základních herních PC do 15 000 Kč až po high-end stroje do 60 000 Kč.
 
 ### 4. Plánujete i jiné využití?
 
@@ -180,7 +180,7 @@ U každého našeho herního PC najdete **FPS kalkulačku**, která vám ukáže
 
 ### Proč koupit hotovou sestavu místo stavění vlastní?
 
-Hotová sestava vám ušetří čas, zaistí kompatibilitu komponentů, získáte jednotnou záruku na celý systém a středoevropskou technickou podporu. Navíc jsou sestavy profesionálně sestavené, otestované a okamžitě připravené na použití.
+Hotová sestava vám ušetří čas, zajistí kompatibilitu komponentů, získáte jednotnou záruku na celý systém a středoevropskou technickou podporu. Navíc jsou sestavy profesionálně sestavené, otestované a okamžitě připravené na použití.
 
 ### Kolik musím do herního počítače investovat?
 
