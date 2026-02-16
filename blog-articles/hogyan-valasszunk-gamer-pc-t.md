@@ -1,200 +1,200 @@
-# Hogyan válasszunk gamer PC-t | Gaming számítógép vásárlási útmutató
+# Jak vybrat herní PC | Průvodce nákupem herního počítače
 
-## Kulcsszavak ellenőrző listája
-- [ ] hogyan válasszunk gamer pc-t
-- [ ] legjobb gamer pc
-- [ ] gamer számítógép választás
-- [ ] gaming pc vásárlási útmutató
-- [ ] melyik gamer számítógépet válasszam
-- [ ] számítógép játékokhoz
-- [ ] gaming pc összeállítás
-- [ ] milyen gamer pc kell
-- [ ] pc választás paraméterek alapján
+## Kontrolní seznam klíčových slov
+- [ ] jak vybrat herní pc
+- [ ] nejlepší herní pc
+- [ ] výběr herního počítače
+- [ ] průvodce nákupem herního pc
+- [ ] který herní počítač vybrat
+- [ ] počítač na hry
+- [ ] sestava herního pc
+- [ ] jaký herní pc potřebuji
+- [ ] výběr pc podle parametrů
 
-## Meta információk
-**Meta title:** Hogyan válasszunk gamer PC-t | Gaming számítógép útmutató
-**Meta description:** Nem tudja, hogyan válasszon gamer PC-t? Teljes útmutató gaming számítógép választáshoz paraméterek, játékok és költségvetés alapján. HelloComp szakértői tanácsok.
-
----
-
-# Hogyan válasszunk gamer PC-t
-
-Nem tudja, **hogyan válasszon gamer PC-t**, amely megfelel az igényeinek és költségvetésének? Nincs egyedül. A gaming számítógép kiválasztása zavaró lehet – több tucat modell, több száz komponens kombináció és végtelen fórum viták. Ebben az útmutatóban lépésről lépésre megmutatjuk, **hogyan válasszon számítógépet** játékokhoz, mire figyeljen és milyen hibákat kerüljön el. Akár a **legjobb gamer PC-t** keresi 4K gaminghez, akár egy ésszerű összeállítást e-sporthoz, ez az útmutató segít.
+## Meta informace
+**Meta title:** Jak vybrat herní PC | Průvodce herním počítačem
+**Meta description:** Nevíte, jak vybrat herní PC? Kompletní průvodce výběrem herního počítače podle parametrů, her a rozpočtu. Odborné rady HelloComp.
 
 ---
 
-## Hogyan válasszunk gaming számítógépet: Alapvető kérdések
+# Jak vybrat herní PC
 
-Mielőtt böngészni kezdené a kínálatot, válaszoljon meg néhány kulcsfontosságú kérdést. A helyes **PC választás paraméterek alapján** a saját igények megértésével kezdődik.
-
-### 1. Milyen játékokat szeretne játszani?
-
-A különböző játékoknak különböző igényeik vannak. Az e-sport címek (CS2, Valorant, League of Legends) gyengébb hardveren is folyamatosan futnak. A modern AAA játékok (Cyberpunk, Alan Wake 2, GTA VI) lényegesen több teljesítményt igényelnek. Gondolja át, **milyen számítógép kell játékokhoz** valóban.
-
-### 2. Milyen felbontásban szeretne játszani?
-
-* **Full HD (1080p)** – a legkevésbé igényes, középkategória is elég
-* **1440p (QHD)** – arany standard, teljesítményesebb GPU szükséges
-* **4K (UHD)** – legmagasabb igények, high-end összeállítás kell
-
-### 3. Mekkora a költségvetése?
-
-A költségvetés határozza meg, **milyen gamer számítógépet** engedhet meg magának. A jó hír, hogy korlátozott költségvetéssel is lehet minőségi gaming PC-t szerezni. A HelloComp kínálatában találhat alapvető gaming PC-ket 150 000 Ft-ig és high-end gépeket 600 000 Ft-ig.
-
-### 4. Tervez más felhasználást is?
-
-Streamelés, videószerkesztés, grafikai munka – mindez befolyásolja, **hogyan válasszon PC összeállítást**. Multitaskinghoz több RAM és erősebb processzor szükséges.
+Nevíte, **jak vybrat herní PC**, které bude odpovídat vašim potřebám a rozpočtu? Nejste sami. Výběr herního počítače může být matoucí – desítky modelů, stovky kombinací komponent a nekonečné diskuze na fórech. V tomto průvodci vám ukážeme **jak vybrat počítač** na hry krok za krokem, na co se zaměřit a jakým chybám se vyhnout. Ať už hledáte **nejlepší herní PC** pro 4K gaming nebo rozumnou sestavu pro e-sport, tento návod vám pomůže.
 
 ---
 
-## PC választás paraméterek alapján: Mire figyeljen
+## Jak vybrat herní počítač: Základní otázky
 
-Amikor eldönti, **hogyan válasszon PC-t**, koncentráljon négy kulcsfontosságú komponensre. Ezek határozzák meg, mire képes a gaming számítógépe.
+Než začnete procházet nabídku, odpovězte si na několik klíčových otázek. Správný **výběr počítače podle parametrů** začíná pochopením vlastních potřeb.
 
-### Videókártya (GPU)
+### 1. Jaké hry chcete hrát?
 
-A <a href="https://www.hellocomp.hu/graficke-karty-do-pc/">videókártya</a> a legfontosabb komponens játékhoz. Meghatározza, milyen felbontásban és milyen részletességgel játszik. A választásnál figyeljen a következőkre:
+Různé hry mají různé nároky. E-sportové tituly (CS2, Valorant, League of Legends) běží plynule i na slabším hardwaru. Moderní AAA hry (Cyberpunk, Alan Wake 2, GTA VI) vyžadují výrazně více výkonu. Zamyslete se, **jaký počítač na hry** skutečně potřebujete.
 
-* **Teljesítmény a célzott felbontásban** – más GPU elég Full HD-hez, más 4K-hoz
-* **VRAM mérete** – a modern játékok egyre több videomemóriát igényelnek
-* **Modern technológiák támogatása** – Ray Tracing, DLSS (NVIDIA) vagy FSR (AMD)
+### 2. V jakém rozlišení chcete hrát?
 
-Az <a href="https://www.hellocomp.hu/graficke-karty-nvidia/">NVIDIA GeForce</a> és az <a href="https://www.hellocomp.hu/graficke-karty-amd/">AMD Radeon</a> a két fő választás. Mindkét márka minőségi termékeket kínál különböző árkategóriákban.
+* **Full HD (1080p)** – nejméně náročné, stačí střední třída
+* **1440p (QHD)** – zlatý standard, vyžaduje výkonnější GPU
+* **4K (UHD)** – nejvyšší nároky, potřebujete high-end sestavu
 
-### Processzor (CPU)
+### 3. Jaký je váš rozpočet?
 
-A <a href="https://www.hellocomp.hu/procesory/">processzor</a> a számítógép agya. Játékhoz fontos az egyszálas teljesítmény és a magok száma. Alapszabály:
+Rozpočet určuje, **jaký herní počítač** si můžete dovolit. Dobrou zprávou je, že i s omezeným budgetem lze pořídit kvalitní herní PC. V HelloComp najdete sestavy od základních herních PC do 15 000 Kč až po high-end stroje do 60 000 Kč.
 
-* **E-sport és Full HD** – elég az <a href="https://www.hellocomp.hu/procesory-intel-core-i5/">Intel Core i5</a> vagy <a href="https://www.hellocomp.hu/procesory-amd-ryzen-5/">AMD Ryzen 5</a>
-* **1440p és streaming** – <a href="https://www.hellocomp.hu/procesory-intel-core-i7/">Intel Core i7</a> vagy <a href="https://www.hellocomp.hu/procesory-amd-ryzen-7/">AMD Ryzen 7</a>
-* **4K és professzionális munka** – <a href="https://www.hellocomp.hu/procesory-intel-core-i9/">Intel Core i9</a> vagy <a href="https://www.hellocomp.hu/procesory-amd-ryzen-9/">AMD Ryzen 9</a>
+### 4. Plánujete i jiné využití?
 
-### Operatív memória (RAM)
-
-Az <a href="https://www.hellocomp.hu/operacni-pameti/">operatív memória</a> befolyásolja a zökkenőmentességet multitasking során. Játékhoz a következők érvényesek:
-
-* **16 GB** – minimum modern játékokhoz
-* **32 GB** – ideális igényesebb játékosoknak, streamereknek és tartalomkészítőknek
-* **64 GB+** – professzionális videó- és 3D-munkához
-
-A DDR5 magasabb teljesítményt kínál, a DDR4 jobb ár/érték arányt. A memória típusa (DDR4 vs DDR5) a platformtól függ.
-
-### Tárhely (SSD)
-
-Az <a href="https://www.hellocomp.hu/interni-disky/">SSD lemez</a> ma már standard. Gyors rendszerindítást és játékbetöltést biztosít. A modern játékok több tíz vagy több száz GB-ot foglalnak, ezért válasszon:
-
-* **512 GB** – abszolút minimum
-* **1 TB** – ésszerű alap
-* **2 TB+** – kiterjedt játékkönyvtárhoz
-
-Az NVMe SSD gyorsabb, mint a SATA SSD, és az árkülönbség minimális.
+Streamování, střih videa, práce s grafikou – to vše ovlivňuje, **jak vybrat PC sestavu**. Pro multitasking potřebujete více RAM a silnější procesor.
 
 ---
 
-## Hogyan válasszunk PC összeállítást költségvetés alapján
+## Výběr počítače podle parametrů: Na co se zaměřit
 
-**Hogyan válasszon számítógépet**, ha nem tudja, mennyit fektessen be? A tájékoztató áttekintés segít:
+Při rozhodování, **jak vybrat PC**, se soustřeďte na čtyři klíčové komponenty. Právě ony určují, co váš herní počítač zvládne.
 
-* **150 000 Ft-ig:** Full HD, E-sport és régebbi játékok.
-* **200 000 Ft-ig:** Full HD, modern játékok közepes részletességgel.
-* **300 000 Ft-ig:** Full HD / 1440p, modern játékok magas részletességgel.
-* **400 000 Ft-ig:** 1440p, AAA játékok ultra részletességgel és streaming.
-* **600 000 Ft-ig:** 4K, minden maximumon és professzionális felhasználás.
+### Grafická karta (GPU)
 
----
+<a href="https://www.hellocomp.cz/graficke-karty-do-pc/">Grafická karta</a> je nejdůležitější komponenta pro hraní. Určuje, v jakém rozlišení a na jakých detailech budete hrát. Při výběru se zaměřte na:
 
-## Leggyakoribb hibák gaming PC választáskor
+* **Výkon ve vašem cílovém rozlišení** – jiná GPU stačí pro Full HD, jiná pro 4K
+* **Velikost VRAM** – moderní hry vyžadují čím dál více video paměti
+* **Podpora moderních technologií** – Ray Tracing, DLSS (NVIDIA) nebo FSR (AMD)
 
-Amikor eldönti, **hogyan válasszon gamer számítógépet**, kerülje el ezeket a hibákat:
+<a href="https://www.hellocomp.cz/graficke-karty-nvidia/">NVIDIA GeForce</a> a <a href="https://www.hellocomp.cz/graficke-karty-amd/">AMD Radeon</a> jsou dvě hlavní volby. Obě značky nabízí kvalitní produkty v různých cenových kategoriích.
 
-* **Kiegyensúlyozatlan összeállítás** – drága grafika olcsó processzorral (vagy fordítva) = feleslegesen elköltött pénz
-* **Alábecsült tápegység** – rossz minőségű tápegység károsíthatja a komponenseket vagy instabilitást okozhat
-* **Kevés RAM** – 8 GB már nem elég, válasszon legalább 16 GB-ot
-* **Kis SSD** – 256 GB gyorsan megtelik, gondoljon a jövőre
-* **Hűtés figyelmen kívül hagyása** – túlmelegedett számítógép throttlingol és teljesítményt veszít
+### Procesor (CPU)
 
----
+<a href="https://www.hellocomp.cz/procesory/">Procesor</a> je mozek počítače. Pro hraní je důležitý jednojádrový výkon i počet jader. Základní pravidlo:
 
-## Miért vegyen kész összeállítást saját építés helyett
+* **E-sport a Full HD** – stačí <a href="https://www.hellocomp.cz/procesory-intel-core-i5/">Intel Core i5</a> nebo <a href="https://www.hellocomp.cz/procesory-amd-ryzen-5/">AMD Ryzen 5</a>
+* **1440p a streaming** – <a href="https://www.hellocomp.cz/procesory-intel-core-i7/">Intel Core i7</a> nebo <a href="https://www.hellocomp.cz/procesory-amd-ryzen-7/">AMD Ryzen 7</a>
+* **4K a profesionální práce** – <a href="https://www.hellocomp.cz/procesory-intel-core-i9/">Intel Core i9</a> nebo <a href="https://www.hellocomp.cz/procesory-amd-ryzen-9/">AMD Ryzen 9</a>
 
-**Hogyan válasszon PC-t**, ha nincs tapasztalata az építésben? A kész gaming összeállítás előnyei:
+### Operační paměť (RAM)
 
-* **Garantált kompatibilitás** – minden komponens ellenőrzött és egymáshoz hangolt
-* **Szakmai összeszerelés** – tapasztalt technikusok által összeállítva
-* **Tesztelés** – minden számítógép terheléses teszteken megy át szállítás előtt
-* **Garancia** – egységes garancia az egész összeállításra közép-európai szervizzel
-* **Upgrade lehetőség** – RAM, SSD, GPU és CPU is növelhető igények szerint
+<a href="https://www.hellocomp.cz/operacni-pameti/">Operační paměť</a> ovlivňuje plynulost při multitaskingu. Pro hraní platí:
 
-Ráadásul minden terméknél talál **FPS kalkulátort**, amely megmutatja a valós teljesítményt konkrét játékokban.
+* **16 GB** – minimum pro moderní hry
+* **32 GB** – ideální pro náročnější hráče, streamery a tvůrce obsahu
+* **64 GB+** – pro profesionální práci s videem a 3D
 
----
+DDR5 nabízí vyšší výkon, DDR4 lepší poměr cena/výkon. Typ paměti (DDR4 vs DDR5) závisí na platformě.
 
-## Hogyan igazodjon el a Gamer sorozatainkban?
+### Úložiště (SSD)
 
-Gaming PC sorozataink úgy vannak kialakítva, hogy megfeleljenek a különböző szintű játékosoknak:
+<a href="https://www.hellocomp.cz/interni-disky/">SSD disk</a> je dnes standardem. Zajišťuje rychlý start systému i načítání her. Moderní hry zabírají desítky až stovky GB, proto volte:
 
-* **Gamer SE:** Felújított rendszerek alacsonyabb áron. Ideális kezdőknek.
-* **Gamer:** Alapmodellek kiegyensúlyozott teljesítménnyel hétköznapi játékhoz.
-* **Gamer DDR5:** Modern verziók DDR5 memóriával.
-* **Gamer Pro:** Magasabb modellek haladó játékosoknak.
-* **Gamer Pro DDR5:** Haladó modellek DDR5 memóriával.
-* **Gamer Max:** Rendszerek nagyobb teljesítménnyel és fejlett funkciókkal.
-* **Gamer Max DDR5:** Csúcsmodellek DDR5 memóriával.
-* **Gamer Ultra:** Csúcsteljesítmény a legmodernebb processzorokkal és videókártyákkal.
-* **Gamer Extreme:** A kínálat csúcsa a legigényesebb játékosoknak és szakembereknek.
-* **Gamer Individual:** Exkluzív sorozat dizájnra és teljesítményre helyezve a hangsúlyt.
-* **ASUS GAMER:** Prémium sorozat ASUS komponensekből.
+* **512 GB** – absolutní minimum
+* **1 TB** – rozumný základ
+* **2 TB+** – pro rozsáhlou knihovnu her
+
+NVMe SSD je rychlejší než SATA SSD a cenový rozdíl je minimální.
 
 ---
 
-## Kinek melyik gaming számítógép ideális
+## Jak vybrat PC sestavu podle rozpočtu
 
-* **Kezdő játékos / e-sport** → Gaming PC 150 000 Ft-ig vagy 200 000 Ft-ig
-* **Haladó játékos / Full HD ultra** → Gaming PC 250 000 Ft-ig vagy 300 000 Ft-ig
-* **Igényes játékos / 1440p** → Gaming PC 400 000 Ft-ig
-* **Hardcore játékos / 4K / streaming** → Gaming PC 600 000 Ft-ig
+**Jak si vybrat počítač**, když nevíte, kolik investovat? Orientační přehled vám pomůže:
 
----
-
-## Válassza ki a legjobb gamer PC-t
-
-Fedezze fel teljes <a href="https://www.hellocomp.hu/herni-pocitace/">gaming számítógép</a> kínálatunkat és találjon megoldást pontosan az Ön játékstílusához és költségvetéséhez. Használja ki az egyedi konfigurálás lehetőségét és minden modellnél ellenőrizze a teljesítményt az **FPS kalkulátorral**.
-
-A HelloComp **ajánlott gaming PC összeállításai** azonnal használatra készek – csak csatlakoztassa és játsszon. **Gaming számítógépet szeretne vásárolni** és nem tudja, hol kezdje? Lépjen velünk kapcsolatba – szívesen tanácsot adunk 24 órán belül. Nálunk **gaming PC** megoldást talál minden játéktípushoz.
+* **Do 15 000 Kč:** Full HD, E-sport a starší hry.
+* **Do 20 000 Kč:** Full HD, moderní hry na střední detaily.
+* **Do 30 000 Kč:** Full HD / 1440p, moderní hry na vysoké detaily.
+* **Do 40 000 Kč:** 1440p, AAA hry na ultra detaily a streaming.
+* **Do 60 000 Kč:** 4K, vše na maximum a profesionální využití.
 
 ---
 
-## GYIK: Gyakran ismételt kérdések
+## Nejčastější chyby při výběru herního PC
 
-### Meddig tart egy gaming számítógép?
+Při rozhodování, **jak vybrat herní počítač**, se vyvarujte těchto chyb:
 
-Egy minőségi gaming PC általában 5-7 évig bírja. Az idő során végezheti az upgrade-eket (RAM hozzáadás, új SSD, GPU csere), ami meghosszabbítja az élettartamot és a kívánt szinten tartja a teljesítményt.
-
-### Gaming számítógép vagy gaming laptop? Min játsszak?
-
-A gaming desktop PC jobb ár/érték arányt, egyszerűbb upgrade-et és jobb hűtést kínál. A gaming laptop ideális hordozhatóságra. Ha nem tervez gyakran utazni, a desktop a jobb választás.
-
-### Hogyan tudjam meg, hogy egy gaming PC futtatja-e az adott játékot?
-
-Minden gaming PC-nknél talál **FPS kalkulátort**, amely megmutatja a pontos teljesítményt konkrét játékokban és felbontásokban. Alternatívaként ellenőrizze a játék rendszerkövetelményeit és hasonlítsa össze a PC paramétereivel.
-
-### Miért vegyek kész összeállítást saját építés helyett?
-
-A kész összeállítás időt takarít meg, biztosítja a komponensek kompatibilitását, egységes garanciát kap az egész rendszerre és közép-európai technikai támogatást. Ráadásul az összeállítások szakszerűen összerakottak, teszteltek és azonnal használatra készek.
-
-### Mennyit kell gaming számítógépbe fektetnem?
-
-Az igényeitől függ. E-sporthoz és Full HD-hez 150-200 000 Ft elég. Modern játékokhoz magas részletességgel számoljon 300-400 000 Ft-tal. 4K gaminghez és streaminghez fektessen be 600 000 Ft-ot vagy többet.
-
-### Összeszerelve kapom a számítógépet?
-
-Igen! Minden gaming számítógépünket teljesen összeszerelve, tesztelve és azonnal csatlakoztatásra készen szállítjuk. Csak csatlakoztassa a monitort, billentyűzetet, egeret és kezdheti a játékot.
-
-### Nem vagyok biztos benne, melyik számítógépet válasszam. Mit tegyek?
-
-Lépjen velünk kapcsolatba e-mailben vagy telefonon. Csapatunk segít megtalálni az ideális konfigurációt az Ön igényei, költségvetése és kedvenc játékai alapján. Szívesen válaszolunk minden kérdésére és segítünk a választásban.
+* **Nevyvážená sestava** – drahá grafika s levným procesorem (nebo naopak) = zbytečně utracené peníze
+* **Podceněný zdroj** – nekvalitní zdroj může poškodit komponenty nebo způsobit nestabilitu
+* **Málo RAM** – 8 GB už nestačí, volte minimálně 16 GB
+* **Malé SSD** – 256 GB se rychle zaplní, myslete na budoucnost
+* **Ignorování chlazení** – přehřátý počítač throttluje a ztrácí výkon
 
 ---
 
-**AI kép prompt (21:9 formátum):**
+## Proč koupit hotovou sestavu místo stavby vlastní
+
+**Jak vybrat PC**, když nemáte zkušenosti se stavbou? Hotová herní sestava vám přinese:
+
+* **Garantovanou kompatibilitu** – všechny komponenty jsou ověřené a vzájemně sladěné
+* **Odbornou montáž** – sestaveno zkušenými techniky
+* **Testování** – každý počítač prochází zátěžovými testy před expedicí
+* **Záruku** – jednotná záruka na celou sestavu se středoevropským servisem
+* **Možnost upgradu** – RAM, SSD, GPU i CPU lze navýšit podle potřeb
+
+Navíc u každého produktu najdete **FPS kalkulačku**, která vám ukáže reálný výkon v konkrétních hrách.
+
+---
+
+## Jak se orientovat v našich řadách Gamer?
+
+Naše řady herních PC jsou navrženy tak, aby vyhovovaly různým úrovním hráčů:
+
+* **Gamer SE:** Repasované systémy za nižší cenu. Ideální pro začátečníky.
+* **Gamer:** Základní modely s vyváženým výkonem pro běžné hraní.
+* **Gamer DDR5:** Moderní verze s DDR5 pamětmi.
+* **Gamer Pro:** Vyšší modely pro pokročilé hráče.
+* **Gamer Pro DDR5:** Pokročilé modely s DDR5 pamětmi.
+* **Gamer Max:** Systémy s větším výkonem a pokročilými funkcemi.
+* **Gamer Max DDR5:** Špičkové modely s DDR5 pamětmi.
+* **Gamer Ultra:** Špičkový výkon s nejmodernějšími procesory a grafickými kartami.
+* **Gamer Extreme:** Vrchol nabídky pro nejnáročnější hráče a profesionály.
+* **Gamer Individual:** Exkluzivní řada s důrazem na design a výkon.
+* **ASUS GAMER:** Prémiová řada z komponentů ASUS.
+
+---
+
+## Pro koho je který herní počítač ideální
+
+* **Začínající hráč / e-sport** → Herní PC do 15 000 Kč nebo do 20 000 Kč
+* **Pokročilý hráč / Full HD ultra** → Herní PC do 25 000 Kč nebo do 30 000 Kč
+* **Náročný hráč / 1440p** → Herní PC do 40 000 Kč
+* **Hardcore hráč / 4K / streaming** → Herní PC do 60 000 Kč
+
+---
+
+## Vyberte si nejlepší herní PC
+
+Prozkoumejte naši kompletní nabídku <a href="https://www.hellocomp.cz/herni-pocitace/">herních počítačů</a> a najděte řešení přesně pro váš herní styl a rozpočet. Využijte možnost konfigurace na míru a u všech modelů si ověřte výkon pomocí **FPS kalkulačky**.
+
+**Doporučené herní PC sestavy** od HelloComp jsou připravené na okamžité použití – stačí zapojit a hrát. Chcete **koupit herní počítač** a nevíte, kde začít? Kontaktujte nás – rádi poradíme do 24 hodin. U nás najdete **herní PC** řešení pro každý typ gamingu.
+
+---
+
+## FAQ: Často kladené otázky
+
+### Jak dlouho vydrží herní počítač?
+
+Kvalitní herní PC vydrží běžně 5-7 let. V průběhu doby můžete provádět upgrady (přidat RAM, nový SSD, vyměnit GPU), což prodlouží životnost a udrží výkon na požadované úrovni.
+
+### Herní počítač nebo herní notebook? Na čem hrát hry?
+
+Herní desktop PC nabízí lepší cenu/výkon, snadnější upgrade a lepší chlazení. Herní notebook je ideální pro přenosnost. Pokud neplánujete často cestovat, desktop je lepší volba.
+
+### Jak zjistit jestli herní PC rozjede konkrétní hru?
+
+U každého našeho herního PC najdete **FPS kalkulačku**, která vám ukáže přesný výkon v konkrétních hrách a rozlíšeních. Alternativně zkontrolujte systémové požadavky hry a porovnejte je s parametry PC.
+
+### Proč koupit hotovou sestavu místo stavění vlastní?
+
+Hotová sestava vám ušetří čas, zaistí kompatibilitu komponentů, získáte jednotnou záruku na celý systém a středoevropskou technickou podporu. Navíc jsou sestavy profesionálně sestavené, otestované a okamžitě připravené na použití.
+
+### Kolik musím do herního počítače investovat?
+
+Záleží na vašich požadavcích. Pro e-sport a Full HD stačí 15 000-20 000 Kč. Pro moderní hry na vysoké detaily počítejte s 30 000-40 000 Kč. Pro 4K gaming a streaming investujte 60 000 Kč a více.
+
+### Dostanu počítač už složený?
+
+Ano! Všechny naše herní počítače dodáváme kompletně sestavené, otestované a připravené k okamžitému zapojení. Stačí jen připojit monitor, klávesnici, myš a můžete začít hrát.
+
+### Nejsem si jistý, jaký počítač vybrat. Co mám dělat?
+
+Kontaktujte nás prostřednictvím e-mailu nebo telefonu. Náš tým vám pomůže najít ideální konfiguraci podle vašich potřeb, rozpočtu a oblíbených her. Rádi odpovíme na všechny vaše otázky a poradíme vám s výběrem.
+
+---
+
+**Prompt pro AI obrázek (21:9 formát):**
 "Gaming PC components showcase in 21:9 format, HelloComp robot mascot assembling gaming PC, showing graphics card, processor, RAM, SSD, motherboard, cooling system, modern tech workshop atmosphere, professional lighting, detailed hardware components, photorealistic 3D render"
