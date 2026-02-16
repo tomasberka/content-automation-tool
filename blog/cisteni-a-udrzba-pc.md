@@ -1,6 +1,5 @@
-# Čištění PC: Kdy svěřit údržbu profesionálnímu servisu?
-
 ## Kontrolní seznam klíčových slov
+
 - [ ] čištění pc
 - [ ] stlačený vzduch na čištění pc
 - [ ] kompresor na čištění pc
@@ -15,216 +14,146 @@
 - [ ] sprej na čištění pc
 
 ## Meta informace
-**Meta title:** Čištění PC: Kdy svěřit údržbu servisu? | HelloComp
+
+**Meta title:** Čištění a údržba PC: Kdy svěřit údržbu servisu? | HelloComp
 **Meta description:** Čištění PC od prachu a výměna teplovodivé pasty – kdy si to poradit sám a kdy svěřit profesionálnímu servisu?
-
-## H1 + Úvodní odstavec
-
-# Čištění PC: Kdy svěřit údržbu profesionálnímu servisu?
-
-**Prach je tichý zabiják výkonu. Usazuje se na tvých komponentech, zhoršuje chlazení, zvyšuje teploty a snižuje životnost hardwaru. Pravidelné čištění PC od prachu není jen kosmetická záležitost – je to údržba, která ti zajistí stabilní výkon a delší životnost celé sestavy. Základní čištění zvládneš sám, ale pro složitější zásahy jako přepastování grafické karty nebo údržbu notebooku je lepší svěřit to profesionálům. V tomto článku ti ukážeme, kdy si to poradit sám a kdy využít <a href="https://www.hellocomp.cz/pc-servis-a-opravy/">profesionální PC servis</a>.**
-
-**Prompt pro AI obrázek (21:9 formát):**
-"Maintenance scene in 21:9 format, skilled technician humanoid character carefully cleaning a gaming PC with compressed air, visible dust particles being blown away from GPU fans and heatsinks, professional tech workshop lighting, detailed components visible, instructional technical style, clean modern aesthetic"
 
 ---
 
-## Proč čistit PC od prachu – Co riskuješ při zanedbaní
+# Čištění a údržba PC: Jak vyčistit PC od prachu a nečistot?
 
-Zanedbaná údržba má měřitelné dopady na tvé <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">herní PC</a>:
+Prach je tichý zabiják výkonu. Usazuje se na komponentech, zhoršuje chlazení, zvyšuje teploty a zkracuje životnost hardwaru. Pravidelné **čištění PC od prachu** není jen kosmetická záležitost – je to údržba, která zajistí stabilní výkon a delší životnost celé sestavy. Základní čištění zvládnete sám, ale pro složitější zásahy jako **přepastování grafické karty** nebo údržbu notebooku je lepší svěřit to profesionálům.
+
+V tomto článku se podíváme na to, co riskujete při zanedbané údržbě, jak správně vybrat **vzduch na čištění PC**, kdy je čas na **výměnu teplovodivé pasty** a v jakých situacích se vyplatí využít [profesionální PC servis](https://www.hellocomp.cz/pc-servis-a-opravy/).
+
+![][image1]
+
+---
+
+## Proč čistit PC od prachu – co riskujete při zanedbání
+
+Zanedbaná údržba má měřitelné dopady na výkon i životnost vašeho [herního PC](https://www.hellocomp.cz/herni-pocitace--gaming/). Nejde jen o estetiku – jde o reálné problémy, které se projeví na FPS, hluku i stabilitě systému.
 
 ### Thermal throttling a padající FPS
 
-Prach blokuje ventilátory a zanáší heatsinks. <a href="https://www.hellocomp.cz/procesory/">CPU</a> a <a href="https://www.hellocomp.cz/graficke-karty-do-pc/">GPU</a> se přehřívají a aktivují **thermal throttling** – automaticky snižují výkon, aby snížily teploty. Výsledek? **Padající FPS** v náročných hrách a pomalejší odezva systému.
+Prach postupně blokuje ventilátory a zanáší chladicí žebra (heatsinks). Jakmile se [CPU](https://www.hellocomp.cz/procesory/) a [GPU](https://www.hellocomp.cz/graficke-karty-do-pc/) přehřejí nad bezpečnou mez, aktivuje se takzvaný **thermal throttling** – automatické snížení výkonu, aby se teploty dostaly pod kontrolu. V praxi to znamená padající FPS v náročných hrách, pomalejší odezvu systému a celkově horší herní zážitek. Paradoxně tedy přicházíte o výkon, za který jste zaplatili.
 
-### Kratší životnost komponentů
+### Kratší životnost komponentů a zvýšený hluk
 
-Dlouhodobé provozování při vysokých teplotách výrazně **zkracuje životnost** hardwaru. Investice do high-end sestavy se ti nevyplatí, pokud komponenty vyhoří předčasně.
+Dlouhodobý provoz při vysokých teplotách výrazně zkracuje životnost hardwaru. Investice do high-end sestavy se nevyplatí, pokud komponenty vyhoří předčasně kvůli nedostatečné údržbě. Zanesené ventilátory se navíc musí otáčet rychleji, aby kompenzovaly zhoršené chlazení, což vede k výrazně hlučnějšímu provozu. V extrémních případech se můžete setkat i s pády her, modrými obrazovkami (BSOD) nebo náhodnými restarty.
 
-### Zvýšený hluk a nestabilita
+---
 
-Zanesené ventilátory musí otáčet rychleji, což znamená **hlučnější provoz**. Extrémní teploty způsobují pády her, BSODy a náhodné restarty.
+## Stlačený vzduch na čištění PC – jak vybrat ten správný
 
-## Stlačený vzduch na čištění PC – Co funguje
+**Stlačený vzduch na čištění PC** je základ každé údržby. Na trhu najdete několik variant a každá má své výhody i nevýhody. Výběr závisí na tom, jak často čistíte a kolik jste ochotní investovat.
 
-**Stlačený vzduch na čištění pc** je základ. Máš několik možností:
+### Sprej na čištění PC
 
-### 1. Sprej na čištění PC
-- **Cena:** 50-150 Kč
-- **Výhody:** Dostupný všude, snadné použití
-- **Nevýhody:** Jednorázový, rychle dojde
-- **Použití:** Občasné čištění venku PC skříně
+Klasický **sprej na čištění PC** v tlakové nádobce je nejdostupnější volba. Pořídíte ho za 50–150 Kč prakticky v každém obchodě s elektronikou. Ovládání je jednoduché – stačí namířit a stisknout. Nevýhodou je, že se jedná o jednorázový produkt, který poměrně rychle dojde. Hodí se proto spíše na občasné čištění vnějších částí skříně a snadno přístupných ventilátorů.
 
-### 2. Kompresor na čištění PC
-- **Cena:** 1000-3000 Kč
-- **Výhody:** Silný tlak, nekonečné použití
-- **Nevýhody:** Hlučný, riziko poškození při vysokém tlaku
-- **⚠️ Varování:** Max 3-4 bary, jinak hrozí poškození elektroniky
+### Kompresor na čištění PC
 
-### 3. Elektrický vzduch na čištění pc (foukač)
-- **Cena:** 800-2000 Kč
-- **Výhody:** Ekologický, opakované použití
-- **Nevýhody:** Slabší než kompresor
+Pokud čistíte PC pravidelně nebo se staráte o více strojů, vyplatí se investice do **kompresoru na čištění PC**. Cenově se pohybuje mezi 1 000–3 000 Kč, ale nabídne silný tlak vzduchu a neomezenou použitelnost. Důležité upozornění: při čištění elektroniky nikdy nepřekračujte tlak 3–4 bary, jinak hrozí poškození citlivých součástek. Kompresor je také výrazně hlučnější než ostatní varianty.
 
-**Důležité:** Pokud si nejsi jistý výběrem nebo nemáš tyto pomůcky, zvažuj raději <a href="https://www.hellocomp.cz/pc-servis-a-opravy/">profesionální čištění PC v servisu</a>. Nesprávný postup může poškodit komponenty.
+### Elektrický foukač vzduchu
 
-## Základní čištění PC od prachu – Co zvládneš sám
+Zlatou střední cestou je elektrický foukač (někdy označovaný jako elektrický **vzduch na čištění PC**). Za 800–2 000 Kč získáte ekologickou a opakovaně použitelnou alternativu ke sprejům. Tlak je sice o něco slabší než u kompresoru, ale pro běžnou domácí údržbu plně dostačuje. Pokud si nejste jistí výběrem nebo nemáte správné pomůcky, zvažte raději [profesionální čištění PC v servisu](https://www.hellocomp.cz/pc-servis-a-opravy/). Nesprávný postup může poškodit komponenty.
 
-Základní údržbu zvládneš sám, pokud máš správné nástroje a jsi opatrný:
+---
 
-### Co budeš potřebovat
+## Základní čištění PC od prachu – postup krok za krokem
 
-✓ **Vzduch na čištění pc** (sprej, kompresor nebo foukač)
-✓ **Antistatický štětec**
-✓ **Mikrovláknová utěrka**
+Základní **čištění PC** zvládnete sám, pokud máte správné nástroje a budete opatrní. Budete potřebovat **vzduch na čištění PC** (sprej, kompresor nebo elektrický foukač), antistatický štětec a mikrovláknovou utěrku.
 
-### Postup čištění
+Začněte tím, že PC kompletně vypnete a odpojíte všechny kabely ze zásuvky. Přeneste počítač ven nebo na balkón – prach bude při čištění hodně létat a nechcete ho mít po celém pokoji. Otevřete boční panely skříně, abyste se dostali ke všem komponentům.
 
-1. **Vypni PC a odpoj** všechny kabely ze zásuvky
-2. **Přenes PC ven** nebo na balkón (prach bude létat)
-3. **Otevři boční panely** skříně
-4. **Přidrž ventilátory prstem** při foukání – Nesmí se roztočit!
-5. **Profukuj ventilátory**, filtry, GPU a CPU chladiče
-6. **Vyčisti filtry** pod vodou, nech uschnout
-7. **Sestav zpět** a zkontroluj, že všechny ventilátory fungují
+Při foukání vzduchu vždy přidržte ventilátory prstem, aby se neroztočily – nekontrolované otáčení může poškodit ložiska. Systematicky profukujte ventilátory, prachové filtry, chladič GPU a CPU cooler. Filtry můžete vymýt pod tekoucí vodou, ale nechte je důkladně uschnout, než je vrátíte zpět. Po dokončení čištění vše sestavte zpět a zkontrolujte, že všechny ventilátory fungují správně.
 
-**Tip:** Čisti PC každých **3-6 měsíců** pro optimální výkon.
+Pro optimální výkon doporučujeme provádět **čištění PC od prachu** každých 3–6 měsíců. Pokud máte PC na podlaze nebo v prašném prostředí, může být vhodné čistit i častěji.
 
-## Výměna teplovodivé pasty – Kdy to svěřit servisu
+---
 
-**Výměna teplovodivé pasty** je pokročilejší zásah. Stará pasta vysychá a zvyšuje teploty až o 15-20°C.
+## Výměna teplovodivé pasty – kdy je čas a jak na to
 
-### Kdy měnit teplovodivou pastu?
+**Výměna teplovodivé pasty** je pokročilejší zásah, který výrazně ovlivňuje chlazení procesoru i grafické karty. Teplovodivá pasta zajišťuje efektivní přenos tepla z čipu na chladič. Časem však vysychá a ztrácí účinnost, což může zvýšit teploty až o 15–20 °C.
 
-✓ Každé **2-3 roky** při běžném používání
-✓ **Ročně** u přetaktovaných systémů
-✓ **Okamžitě** pokud teploty náhle vyskočily
+### Kdy měnit teplovodivou pastu
 
-### Teplovodivá pasta návod – CPU (pro pokročilé)
+Při běžném používání doporučujeme **výměnu teplovodivé pasty** každé 2–3 roky. U přetaktovaných systémů, kde komponenty pracují pod vyšší zátěží, je vhodné pastu měnit jednou ročně. Pokud zaznamenáte náhlý nárůst teplot bez zjevné příčiny (například po vyčištění prachu teploty neklesly), je pravděpodobně čas na novou pastu.
 
-Pokud máš zkušenosti a chuť riskovat ztrátu záruky:
+### Teplovodivá pasta návod – výměna na CPU
 
-1. **Odšroubuj CPU chladič** (odpoj ventilátor, 4 šrouby)
-2. **Odstraň starou pastu** izopropylalkoholem (99%)
-3. **Aplikuj novou pastu** metodou "hrachu" – kapka doprostřed
-4. **Namontuj chladič** zpět, utahuj křížem
+Pokud máte zkušenosti s hardwarem a jste ochotní riskovat případnou ztrátu záruky, můžete pastu vyměnit sami. Nejprve odšroubujte CPU chladič – odpojte ventilátor a vyšroubujte upevňovací šrouby. Starou pastu odstraňte pomocí izopropylalkoholu (ideálně 99%) a čisté utěrky. Novou pastu aplikujte metodou „hrachu" – naneste malou kapku doprostřed procesoru. Chladič nasaďte zpět a šrouby utahujte postupně do kříže, abyste zajistili rovnoměrný přítlak.
 
-### Nejlepší teplovodivá pasta 2026
+### Nejlepší teplovodivá pasta – co vybrat
 
-**Thermal Grizzly Kryonaut** (12.5 W/mK) – Top výkon, 250-350 Kč
-**Noctua NT-H2** (8.9 W/mK) – Spolehlivá, dlouhá životnost, 200-280 Kč
-**Arctic MX-6** (8.0 W/mK) – Budget volba, 150-200 Kč
+Na trhu najdete desítky **teplovodivých past**, ale pro většinu uživatelů se osvědčily tři značky. **Thermal Grizzly Kryonaut** s tepelnou vodivostí 12,5 W/mK představuje špičku v kategorii – pořídíte ji za 250–350 Kč. **Noctua NT-H2** (8,9 W/mK) nabízí spolehlivý výkon a dlouhou životnost za 200–280 Kč. A pokud hledáte rozumnou volbu za rozumnou cenu, **Arctic MX-6** (8,0 W/mK) za 150–200 Kč odvede skvělou práci.
 
-**⚠️ Varování:** Pokud si nejsi jistý, **nech výměnu teplovodivé pasty na profesionálech**. Chybná montáž může poškodit hardware.
+Pokud si nejste jistí, nechte **výměnu teplovodivé pasty** raději na profesionálech. Chybná montáž chladiče nebo nesprávné množství pasty může vést k přehřívání nebo poškození hardwaru.
 
-## Přepastování grafické karty – Svěř to profesionálům
+---
 
-**Přepastování grafické karty** je náročné a riskantní. Při sundání chladiče ztratíš záruku u většiny výrobců.
+## Přepastování grafické karty – proč to svěřit servisu
 
-### Proč to svěřit servisu?
+**Přepastování grafické karty** je výrazně náročnější a riskantnější než výměna pasty na procesoru. Grafická karta má složitější konstrukci chladiče – typicky ji drží 6–10 šroubů a kromě samotného GPU čipu je potřeba správně osadit i thermal pady na paměťových modulech (VRAM) a napájecích obvodech (VRM).
 
-❌ **Riziko ztráty záruky** – Většina výrobců GPU ztrácí záruku po rozebrání
-❌ **Složitá demontáž** – 6-10 šroubů, thermal pady na VRAM a VRM
-❌ **Riziko poškození** – Jeden chybný krok = mrtvá grafika
+Hlavním rizikem je ztráta záruky. Většina výrobců grafických karet považuje sundání chladiče za neoprávněný zásah, což automaticky ruší záruční podmínky. K tomu přidejte riziko poškození – jeden chybný krok při demontáži může znamenat nefunkční grafiku za desítky tisíc korun.
 
-✅ **Profi servis to zvládne bezpečně** – Zkušený technik, správné nástroje, žádné riziko
+Pokud se vaše GPU přehřívá (teploty nad 85 °C při hraní), je rozumnější využít [profesionální přepastování grafické karty v servisu HelloComp](https://www.hellocomp.cz/pc-servis-a-opravy/). Zkušený technik má správné nástroje, zná specifika jednotlivých modelů a cena servisu je nesrovnatelně nižší než riziko zničení drahé karty.
 
-Pokud se tvá GPU přehřívá (nad 85°C při hraní), je lepší využít <a href="https://www.hellocomp.cz/pc-servis-a-opravy/">profesionální přepastování grafické karty v servisu HelloComp</a>. Cena servisu je nižší než riziko zničení drahé karty.
+---
 
-## Výměna teplovodivé pasty notebook – Svěř to odborníkům
+## Výměna teplovodivé pasty v notebooku – záležitost pro odborníky
 
-**Výměna teplovodivé pasty notebook** je ještě složitější než u GPU:
+**Výměna teplovodivé pasty notebook** je ještě složitější disciplínou. Notebooky mají extrémně těsné a komplikované vnitřní uspořádání. Pro přístup k procesorům a chladicímu systému je často nutné rozebrat téměř celé zařízení, což zahrnuje odpojování plochých kabelů (flat cables) a drobných konektorů, které se snadno poškodí.
 
-❌ **Komplikace:**
-- Těsné a komplikované rozložení
-- Nutno rozebrat téměř celý notebook
-- Riziko poškození flat kabelu nebo konektorů
-- **Ztráta záruky** téměř u všech výrobců
+Stejně jako u grafických karet platí, že rozebrání notebooku téměř vždy ruší záruku výrobce. Profesionální servis má zkušenosti s konkrétními modely notebooků a ví, jak je bezpečně rozebrat a složit zpět. Pokud máte herní notebook a trápí vás přehřívání, nevolte domácí experimenty – využijte raději [profesionální servis PC](https://www.hellocomp.cz/pc-servis-a-opravy/).
 
-✅ **Profesionální servis** má zkušenosti s konkrétními modely notebooků a ví, jak je bezpečně rozebrat. Pokud máš herní notebook a přehřívá se, **nevolej domácí experimenty** – využij <a href="https://www.hellocomp.cz/pc-servis-a-opravy/">profesionální servis PC</a>.
+---
 
 ## Kdy svěřit čištění PC servisu HelloComp
 
-I když základní čištění zvládneš sám, některé situace vyžadují profesionální přístup:
+Základní čištění zvládne doma každý, kdo je trochu zručný a opatrný. Existují ale situace, kdy se profesionální servis jednoznačně vyplatí. Nemáte-li správné nástroje (stlačený vzduch, izopropylalkohol, kvalitní pastu), můžete při domácím čištění nadělat víc škody než užitku. Totéž platí, pokud se bojíte poškodit komponenty nebo pokud PC zůstává přehřáté i po základním vyčištění – v takovém případě může jít o problém s teplovodivou pastou nebo složitější závadu.
 
-### Svěř to servisu, pokud:
+**Přepastování GPU** a **kompletní údržbu notebooku** byste měli vždy svěřit odborníkům. A pokud je vaše PC stále v záruce, domácí čištění s rozebiráním může záruku zrušit – profesionální servis je v tomto případě jedinou bezpečnou volbou.
 
-✓ **Nemáš správné nástroje** (stlačený vzduch, izopropyl, pastu)
-✓ **Bojíš se poškodit komponenty** – Lepší zaplatit servis než riskovat
-✓ **PC se přehřívá i po základním čištění** – Může jít o výměnu pasty nebo složitější problém
-✓ **Potřebuješ přepastování GPU** – Ztráta záruky a riziko poškození
-✓ **Chceš kompletní údržbu notebooku** – Složité rozebrání vyžaduje zkušenosti
-✓ **PC je pod zárukou** – Domácí čištění může zrušit záruku
+[Profesionální PC servis HelloComp](https://www.hellocomp.cz/pc-servis-a-opravy/) zahrnuje kompletní čištění PC od prachu včetně vnitřních komponent, výměnu teplovodivé pasty na CPU i GPU, přepastování grafické karty, údržbu notebooků s demontáží a péčí o citlivé komponenty, měření teplot se zátěžovými testy i kontrolu airflow s optimalizací ventilátorů. K dispozici je také česká technická podpora pro případné dotazy ohledně upgradu či údržby.
 
-### Co nabízí HelloComp PC servis?
+---
 
-<a href="https://www.hellocomp.cz/pc-servis-a-opravy/">Profesionální PC servis HelloComp</a> zahrnuje:
+## Údržba a výkon – měřitelné výsledky
 
-✓ **Kompletní čištění PC od prachu** (včetně vnitřních komponent)
-✓ **Výměna teplovodivé pasty** na CPU i GPU
-✓ **Přepastování grafické karty** bez ztráty záruky u nás
-✓ **Údržba notebooků** s demontáží a péčí o citlivé komponenty
-✓ **Měření teplot a zátěžové testy** – Ověření výkonu po servisu
-✓ **Kontrola airflow** a optimalizace ventilátorů
-✓ **Česká technická podpora** – Poradíme s upgradem i údržbou
+Pravidelná údržba přináší reálné a měřitelné výsledky. Pro představu – u PC, které dva roky neprošlo žádným čištěním, jsme po kompletní údržbě naměřili pokles teploty CPU z 85 °C na 65 °C (tedy o 20 °C) a pokles teploty GPU z 88 °C na 72 °C (o 16 °C). V praxi se to projevilo nárůstem FPS v Cyberpunku 2077 z 85 na 110 snímků za sekundu, tedy o téměř 30 %. Hlučnost přitom klesla z 52 dB na příjemných 38 dB.
 
-**Cena servisu je nižší než riziko poškození hardwaru.** Nech to na profesionálech a měj jistotu, že tvůj <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">herní počítač</a> bude běžet jako nový.
+Po provedené údržbě doporučujeme výkon ověřit. Můžete využít FPS kalkulačku HelloComp pro porovnání reálných a očekávaných hodnot, nástroje jako MSI Afterburner nebo HWiNFO64 pro sledování teplot CPU a GPU, případně in-game monitoring přímo v náročných titulech. Pokud výkon stále není ideální, možná je čas na upgrade. Na [HelloComp.cz](https://www.hellocomp.cz) pomůžeme s výběrem nových [PC komponentů](https://www.hellocomp.cz/pc-komponenty/) nebo rovnou celé nové sestavy.
 
-## Údržba a výkon – Měřitelné výsledky
+---
 
-Pravidelná údržba přináší reálné výsledky:
+## Preventivní opatření – jak udržet PC čisté déle
 
-### Před a po čištění (příklad)
+Nejlepší údržba je ta, kterou nemusíte dělat tak často. Několik jednoduchých kroků výrazně prodlouží interval mezi čištěními.
 
-**Zanedbané PC (2 roky bez čištění):**
-- CPU: 85°C → Po čištění: **65°C (-20°C)**
-- GPU: 88°C → Po čištění: **72°C (-16°C)**
-- FPS v Cyberpunk 2077: 85 FPS → Po čištění: **110 FPS (+29%)**
-- Hluk: 52 dB → Po čištění: **38 dB**
+Pravidelně kontrolujte a čistěte magnetické prachové filtry na skříni – ideálně jednou měsíčně. Čisté filtry zachytí většinu prachu dříve, než se dostane k samotným komponentům. Dále se vyplatí nastavit ventilátory tak, aby přívod vzduchu byl silnější než výfuk. Tento takzvaný pozitivní přetlak vytlačuje prach z otvorů ve skříni ven, místo aby ho nasával dovnitř.
 
-### Otestuj si výkon
+Významnou roli hraje také umístění PC. Počítač na koberci nebo v uzavřené skříňce je recept na rychlé zanesení prachem. Ideální je umístění na stole nebo podstavci s volným prostorem kolem – prach padá dolů, takže PC na stole přirozeně nasaje méně nečistot než PC na zemi.
 
-Po údržbě ověř výkon pomocí:
-- **FPS kalkulačka HelloComp** – Porovnej reálné FPS s očekávanými hodnotami
-- **MSI Afterburner, HWiNFO64** – Sleduj teploty CPU/GPU
-- **In-game monitoring** – Sleduj FPS v náročných titulech
+---
 
-Pokud výkon stále není ideální, možná je čas na upgrade. Na <a href="https://www.hellocomp.cz">HelloComp.cz</a> ti pomůžeme s výběrem nových <a href="https://www.hellocomp.cz/pc-komponenty/">PC komponentů</a> nebo rovnou nové sestavy.
+## Závěr
 
-## Preventivní opatření – Jak udržet PC čisté déle
+**Čištění PC od prachu** a pravidelná **výměna teplovodivé pasty** jsou základní údržba pro maximální výkon a dlouhou životnost hardwaru. Základní čištění zvládnete sám s pomocí **stlačeného vzduchu na čištění PC**, **kompresoru** nebo **spreji**. Pro složitější zásahy jako **přepastování grafické karty** nebo **výměnu teplovodivé pasty v notebooku** je ale lepší svěřit to profesionálům.
 
-### Vzduchové filtry
-Kontroluj a čisti magnetické prachové filtry **měsíčně** – Zabráníš většině prachu dostat se dovnitř.
+### Klíčové body
 
-### Pozitivní přetlak
-Nastav ventilátory tak, aby přívod byl silnější než výfuk. Pozitivní tlak vytlačí prach ven.
+- Čistěte PC každých 3–6 měsíců – základní údržbu zvládnete sám.
+- Měňte teplovodivou pastu každé 2–3 roky – pokud máte zkušenosti.
+- Používejte kvalitní pastu.
+- Přepastování GPU a notebooků svěřte servisu – riziko ztráty záruky a poškození je příliš vysoké.
+- Neváhejte využít profesionální servis – cena je nižší než riziko poškození drahého hardwaru.
 
-### Umístění PC
-❌ Špatně: Na koberci, v uzavřené skříňce
-✅ Správně: Na stole nebo podstavci, volný prostor kolem
+### HelloComp PC servis – profesionální údržba vašeho hardwaru
 
-Prach padá dolů – PC na stole má **méně prachu** než na zemi.
+Pokud si nejste jistí nebo chcete mít jistotu, že vaše PC bude v perfektním stavu, využijte [profesionální PC servis a opravy HelloComp](https://www.hellocomp.cz/pc-servis-a-opravy/). Nabízíme kompletní čištění PC od prachu, výměnu teplovodivé pasty na CPU, GPU i v notebooku, zátěžové testy s měřením teplot, optimalizaci airflow a ventilátorů i českou technickou podporu.
 
-## Závěr a CTA
-
-**Čištění PC od prachu** a pravidelná **výměna teplovodivé pasty** jsou základní údržba pro maximální výkon a dlouhou životnost hardwaru. Základní čištění zvládneš sám s pomocí **stlačeného vzduchu na čištění pc**, **kompresoru na čištění pc** nebo **spreju na čištění pc**. Ale pro složitější zásahy jako **přepastování grafické karty** nebo **výměnu teplovodivé pasty notebook** je lepší svěřit to profesionálům.
-
-### Klíčové body:
-
-✓ **Čisti PC každých 3-6 měsíců** – Základní údržba zvládneš sám
-✓ **Měň teplovodivé pasty každé 2-3 roky** – Pokud máš zkušenosti
-✓ **Používej kvalitní pastu** – Thermal Grizzly Kryonaut, Noctua NT-H2
-✓ **Přepastování GPU a notebooků svěř servisu** – Riziko ztráty záruky a poškození
-✓ **Neváhej využít profesionální servis** – Cena je nižší než riziko
-
-### HelloComp PC servis – Profesionální údržba tvého hardwaru
-
-Pokud si nejsi jistý nebo chceš mít jistotu, že tvé PC bude v perfektním stavu, využij <a href="https://www.hellocomp.cz/pc-servis-a-opravy/">profesionální PC servis a opravy HelloComp</a>. Nabízíme:
-
-- ✅ Kompletní čištění PC od prachu
-- ✅ Výměna teplovodivé pasty (CPU, GPU, notebook)
-- ✅ Zátěžové testy a měření teplot
-- ✅ Optimalizace airflow a ventilátorů
-- ✅ Česká technická podpora
-
-**Nech to na profesionálech a měj jistotu, že tvůj počítač bude běžet jako nový.** Naše <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">herní PC sestavy</a> jsou navržené s důrazem na snadnou údržbu a perfektní chlazení. S FPS kalkulačkou víš přesně, co očekávat! 💻💨
+Nechte to na profesionálech a mějte jistotu, že váš počítač bude běžet jako nový. Naše [herní PC sestavy](https://www.hellocomp.cz/herni-pocitace--gaming/) jsou navržené s důrazem na snadnou údržbu a perfektní chlazení. S FPS kalkulačkou víte přesně, co očekávat! 💻💨
