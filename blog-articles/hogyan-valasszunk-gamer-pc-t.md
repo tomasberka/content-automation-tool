@@ -1,15 +1,15 @@
 # Jak vybrat herní PC | Průvodce výběrem herního počítače
 
 ## Kontrolní seznam klíčových slov
-- [x] jak vybrat herní pc
-- [x] jak vybrat herní počítač
-- [x] nejlepší herní pc
-- [x] jak vybrat pc
-- [x] jaký herní počítač
-- [x] výběr počítače podle parametrů
-- [x] jaký počítač na hry
-- [x] jak vybrat pc sestavu
-- [x] jak si vybrat počítač
+- [ ] jak vybrat herní pc
+- [ ] jak vybrat herní počítač
+- [ ] nejlepší herní pc
+- [ ] jak vybrat pc
+- [ ] jaký herní počítač
+- [ ] výběr počítače podle parametrů
+- [ ] jaký počítač na hry
+- [ ] jak vybrat pc sestavu
+- [ ] jak si vybrat počítač
 
 ## Meta informace
 **Meta title:** Jak vybrat herní PC | Průvodce výběrem herního počítače
