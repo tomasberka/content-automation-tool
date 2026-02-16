@@ -42,6 +42,7 @@ htmlcov/
 
 # Generated HTML files
 *.html
+!jak-vybrat-herni-pc.html
 
 # OS
 .DS_Store
