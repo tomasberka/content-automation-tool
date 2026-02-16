@@ -97,7 +97,7 @@ Kromě hlavních komponent nezapomeňte na:
 
 * <a href="https://www.hellocomp.cz/zakladni-desky/">Základní desku</a> – propojuje všechny části počítače
 * <a href="https://www.hellocomp.cz/pc-zdroje/">PC zdroj</a> – zajišťuje stabilní napájení všech komponent
-* <a href="https://www.hellocomp.cz/chladice-ventilatory/">Chladiče</a> – udržují teploty pod kontrolou
+* <a href="https://www.hellocomp.cz/chladice/">Chladiče</a> – udržují teploty pod kontrolou
 * <a href="https://www.hellocomp.cz/pc-skrine/">PC skříň</a> – zajišťuje dobrý průtok vzduchu
 
 ---
