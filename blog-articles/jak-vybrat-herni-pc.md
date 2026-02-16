@@ -79,7 +79,7 @@ Při rozhodování, **jak vybrat PC**, se soustřeďte na čtyři klíčové kom
 * **32 GB** – ideální pro náročnější hráče, streamery a tvůrce obsahu
 * **64 GB+** – pro profesionální práci s videem a 3D
 
-DDR5 nabízí vyšší výkon, DDR4 lepší poměr cena/výkon. Typ paměti (DDR4 vs DDR5) závisí na platformě.
+DDR5 nabízí vyšší výkon, DDR4 lepší poměr cena/výkon. Typ paměti (DDR4 vs DDR5) závisí na platformě. Například základní desky se socketem AM4 nepodporují nejnovější DDR5 paměti, poslední generace AM5 ano.
 
 ### Úložiště (SSD)
 
@@ -106,11 +106,15 @@ Kromě hlavních komponent nezapomeňte na:
 
 **Jak si vybrat počítač**, když nevíte, kolik investovat? Orientační přehled vám pomůže:
 
-* **Do 15 000 Kč:** Full HD, E-sport a starší hry.
-* **Do 20 000 Kč:** Full HD, moderní hry na střední detaily.
-* **Do 30 000 Kč:** Full HD / 1440p, moderní hry na vysoké detaily.
-* **Do 40 000 Kč:** 1440p, AAA hry na ultra detaily a streaming.
-* **Do 60 000 Kč:** 4K, vše na maximum a profesionální využití.
+| Rozpočet | Rozlišení | Typické využití |
+|----------|-----------|-----------------|
+| **Do 15 000 Kč** | Full HD | E-sport a starší hry |
+| **Do 20 000 Kč** | Full HD | Moderní hry na střední detaily |
+| **Do 30 000 Kč** | Full HD / 1440p | Moderní hry na vysoké detaily |
+| **Do 40 000 Kč** | 1440p | AAA hry na ultra detaily a streaming |
+| **Do 60 000 Kč** | 4K | Vše na maximum a profesionální využití |
+
+Každá kategorie nabízí **nejlepší herní PC** pro daný rozpočet. V HelloComp jsou všechny sestavy navrženy s důrazem na ideální poměr cena/výkon.
 
 ---
 
@@ -124,11 +128,13 @@ Při rozhodování, **jak vybrat herní počítač**, se vyvarujte těchto chyb:
 * **Malé SSD** – 256 GB se rychle zaplní, myslete na budoucnost
 * **Ignorování chlazení** – přehřátý počítač throttluje a ztrácí výkon
 
+V HelloComp jsou sestavy navrženy tak, aby byly vyvážené a všechny komponenty spolu optimálně spolupracovaly.
+
 ---
 
 ## Proč koupit hotovou sestavu místo stavby vlastní
 
-**Jak vybrat PC**, když nemáte zkušenosti se stavbou? Hotová herní sestava vám přinese:
+**Jak vybrat PC**, když nemáte zkušenosti se stavbou? Vyberte si hotovou herní sestavu se kterou získáte:
 
 * **Garantovanou kompatibilitu** – všechny komponenty jsou ověřené a vzájemně sladěné
 * **Odbornou montáž** – sestaveno zkušenými techniky
@@ -136,42 +142,77 @@ Při rozhodování, **jak vybrat herní počítač**, se vyvarujte těchto chyb:
 * **Záruku** – jednotná záruka na celou sestavu s českým servisem
 * **Možnost upgradu** – RAM, SSD, GPU i CPU lze navýšit podle potřeb
 
-Navíc u každého produktu najdete **FPS kalkulačku**, která vám ukáže reálný výkon v konkrétních hrách.
+Navíc u každého produktu najdete **FPS kalkulačku**, která vám ukáže reálný výkon v konkrétních hrách. Žádné hádání – jen fakta.
 
 ---
 
 ## Jak se orientovat v našich řadách Gamer?
 
-Naše řady herních PC jsou navrženy tak, aby vyhovovaly různým úrovním hráčů:
+Naše řady herních PC jsou navrženy tak, aby vyhovovaly různým úrovním hráčů, od začátečníků po profesionály:
 
-* **Gamer SE:** Repasované systémy za nižší cenu. Ideální pro začátečníky.
-* **Gamer:** Základní modely s vyváženým výkonem pro běžné hraní.
-* **Gamer DDR5:** Moderní verze s DDR5 pamětmi.
-* **Gamer Pro:** Vyšší modely pro pokročilé hráče.
-* **Gamer Pro DDR5:** Pokročilé modely s DDR5 pamětmi.
-* **Gamer Max:** Systémy s větším výkonem a pokročilými funkcemi.
-* **Gamer Max DDR5:** Špičkové modely s DDR5 pamětmi.
-* **Gamer Ultra:** Špičkový výkon s nejmodernějšími procesory a grafickými kartami.
-* **Gamer Extreme:** Vrchol nabídky pro nejnáročnější hráče a profesionály.
-* **Gamer Individual:** Exkluzivní řada s důrazem na design a výkon.
-* **ASUS GAMER:** Prémiová řada z komponentů ASUS.
+### Gamer SE
+Repasované systémy, které nabízejí skvělý výkon za nižší cenu. Ideální pro začátečníky nebo hráče s omezeným rozpočtem.
+
+### Gamer
+Základní modely s vyváženým výkonem pro běžné hraní. Tyto PC nabízejí dobrý start pro většinu hráčů.
+
+### Gamer DDR5
+Moderní verze s DDR5 pamětmi pro větší budoucí kompatibilitu, výkon a budoucí rozšíření.
+
+### Gamer Pro
+Vyšší modely určené pro pokročilé hráče. Nabízejí výkonnější hardware a jsou připraveny na náročnější hry.
+
+### Gamer Pro DDR5
+Pokročilé modely s moderními komponentami a DDR5 pamětmi, které zajišťují vyšší výkon a stabilitu pro náročné herní tituly a multitasking.
+
+### Gamer Max
+Systémy s ještě větším výkonem a pokročilými funkcemi pro hráče, kteří chtějí z herního zážitku vytěžit maximum.
+
+### Gamer Max DDR5
+Špičkové modely s nejnovějšími komponentami a DDR5 pamětmi, určené pro náročné hráče a profesionály hledající absolutní výkon a nejlepší herní zážitky.
+
+### Gamer Ultra
+Nejnovější řada navržená pro hráče, kteří chtějí špičkový výkon s nejmodernějšími procesory a grafickými kartami. Ideální pro hraní ve vysokém rozlišení, VR a multitasking.
+
+### Gamer Extreme
+Vrchol naší nabídky, určený pro nejnáročnější hráče a profesionály. Tyto PC jsou vybaveny nejnovějšími a nejvýkonnějšími komponenty na trhu.
+
+### Gamer Individual
+Exkluzivní řada s důrazem na design a výkon. Unikátní sestavy navržené našimi techniky pro ty, kteří chtějí něco výjimečného.
+
+### ASUS GAMER
+Prémiová řada postavená výhradně z komponentů ASUS. Nabízí špičkový výkon, elegantní design, precizní kabeláž a maximální spolehlivost díky 100% novým dílům.
+
+Doufáme, že tento článek vám pomohl lépe pochopit rozdíly mezi našimi herními PC a usnadnil vám výběr ideálního stroje pro vaše potřeby. Pokud máte další dotazy nebo potřebujete poradit s výběrem, neváhejte nás kontaktovat.
 
 ---
 
 ## Pro koho je který herní počítač ideální
+
+Stále nevíte, **jaký herní počítač** zvolit? Orientujte se podle svého profilu:
 
 * **Začínající hráč / e-sport** → Herní PC do 15 000 Kč nebo do 20 000 Kč
 * **Pokročilý hráč / Full HD ultra** → Herní PC do 25 000 Kč nebo do 30 000 Kč
 * **Náročný hráč / 1440p** → Herní PC do 40 000 Kč
 * **Hardcore hráč / 4K / streaming** → Herní PC do 60 000 Kč
 
+Preferujete konkrétní značku procesoru? Vyberte si z Intel herních PC nebo AMD herních PC.
+
+### AMD vs Intel – Který procesor vybrat?
+
+**AMD:** AMD je známé nabídkou vysokého počtu jader za příznivou cenu, což je ideální pro hry a aplikace optimalizované pro vícejádrové zpracování. AMD také nabízí skvělý poměr cena/výkon, což z nich dělá lákavou volbu pro hráče s rozpočtem.
+
+**Intel:** Intel procesory jsou ceněny pro svou vysokou jednojádrovou výkonnost, což může být výhodné pro hry a aplikace, které toto zpracování upřednostňují. Intel má také silnou reputaci v oblasti inovací a spolehlivosti.
+
+Výběr mezi AMD a Intel tedy závisí na vašich specifických potřebách a preferencích v herním výkonu.
+
 ---
 
-## Vyberte si nejlepší herní počítač
+## Vyberte si nejlepší herní PC
 
-Prozkoumejte naši kompletní nabídku <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">herních počítačů</a> a najděte řešení přesně pro váš herní styl a rozpočet. Využijte možnost konfigurace na míru a u všech modelů si ověřte výkon pomocí **FPS kalkulačky**. Hledáte-li **nejlepší herní počítač** pro své potřeby, naše specializované řady vám garantují optimální výkon v každé cenové kategorii.
+Teď už víte, **jak vybrat herní PC** podle svých potřeb. Prozkoumejte nabídku <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">herních počítačů HelloComp</a> a najděte sestavu přesně pro vás. Využijte FPS kalkulačku pro ověření výkonu v konkrétních hrách a možnost individuálního upgradu pro sestavení ideální konfigurace.
 
-**Doporučené herní PC sestavy** od HelloComp jsou připravené k okamžitému použití – stačí zapojit a hrát. Chcete **koupit herní počítač** a nevíte, kde začít? Kontaktujte nás – rádi poradíme do 24 hodin. U nás najdete **herní PC** řešení pro každý typ gamingu.
+Každý **herní počítač** od HelloComp je odborně sestaven, otestován a připraven k okamžitému použití. Stačí zapojit a hrát. Nemůžete se rozhodnout? Napište nám – rádi poradíme a pomůžeme najít **nejlepší herní PC** pro váš rozpočet i herní styl.
 
 ---
 
@@ -181,7 +222,7 @@ Prozkoumejte naši kompletní nabídku <a href="https://www.hellocomp.cz/herni-p
 
 Kvalitní herní PC vydrží běžně 5-7 let. V průběhu doby můžete provádět upgrady (přidat RAM, nový SSD, vyměnit GPU), což prodlouží životnost a udržuje výkon na požadované úrovni.
 
-### Herní počítač nebo herní notebook? Na čom hrát hry?
+### Herní počítač nebo herní notebook? Na čem hrát hry?
 
 Herní desktop PC nabízí lepší cenu/výkon, snadnější upgrade a lepší chlazení. <a href="https://www.hellocomp.cz/herni-notebooky--gaming/">Herní notebook</a> je ideální pro přenosnost. Pokud neplánujete často cestovat, desktop je lepší volba.
 
@@ -191,11 +232,11 @@ U každého našeho herního PC najdete **FPS kalkulačku**, která vám ukáže
 
 ### Proč koupit hotovou sestavu místo stavění vlastní?
 
-Hotová sestava vám ušetří čas, zajistí kompatibilitu komponent, získáte jednotnou záruku na celý systém a českou technickou podporu. Navíc jsou sestavy profesionálně sestavené, otestované a okamžitě připravené k použití.
+Koupí hotové sestavy získáte garantovanou kompatibilitu všech komponent a jistotu, že je počítač odborně sestaven a otestován zátěžovými testy. Navíc máte jednu záruku na celou sestavu s dostupným servisem, přičemž možnost budoucího upgradu (RAM, GPU, CPU) zůstává zachována.
 
 ### Kolik musím do herního počítače investovat?
 
-Záleží na vašich požadavcích. Pro e-sport a Full HD stačí 15-20 000 Kč. Pro moderní hry ve vysokých detailech počítejte s 30-40 000 Kč. Pro 4K gaming a streaming investujte 60 000 Kč a více.
+To záleží na tom, co a v jakém rozlišení chcete hrát. Pro e-sporty a starší hry ve Full HD stačí sestava do 20 000 Kč. Pro moderní hry na vysoké detaily počítejte s rozpočtem do 30 000 Kč, zatímco pro hraní ve 1440p na ultra detaily je ideální investice okolo 40 000 Kč. Pro 4K hraní a profesionální využití budete potřebovat high-end sestavu do 60 000 Kč.
 
 ### Dostanu počítač už složený?
 
