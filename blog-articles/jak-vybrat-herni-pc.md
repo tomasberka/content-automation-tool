@@ -196,7 +196,7 @@ Stále nevíte, **jaký herní počítač** zvolit? Orientujte se podle svého p
 * **Náročný hráč / 1440p** → Herní PC do 40 000 Kč
 * **Hardcore hráč / 4K / streaming** → Herní PC do 60 000 Kč
 
-Preferujete konkrétní značku procesoru? Vyberte si z Intel herních PC nebo AMD herních PC.
+Preferujete konkrétní značku procesoru? Vyberte si z [Intel herních PC](https://www.hellocomp.cz/herni-pc-s-intel/) nebo [AMD herních PC](https://www.hellocomp.cz/herni-pc-s-amd/).
 
 ### AMD vs Intel – Který procesor vybrat?
 
