@@ -78,8 +78,17 @@ Automaticky kontroluje:
 - ✅ Úvodní text (50-80 slov)
 - ✅ Minimálně 3 H2 sekce
 - ✅ Celkový obsah (600-900 slov)
+- ✅ **HTML struktura** (obsah musí začínat `<p>` tagem)
 
-### 3. Workflow integrace
+### 3. HTML Structure Validation
+
+Zajišťuje správnou strukturu pro backend HelloComp:
+- Obsah vždy začíná `<p>` tagem
+- Backend automaticky vkládá tlačítka za první `<p>` element
+- Automatická oprava seznamů a existujícího HTML
+- Detailní dokumentace: [docs/HTML_STRUCTURE_VALIDATION.md](docs/HTML_STRUCTURE_VALIDATION.md)
+
+### 4. Workflow integrace
 
 ```python
 from category_template_generator import CategoryTemplateGenerator, OutputFormat
