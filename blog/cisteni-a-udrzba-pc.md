@@ -228,3 +228,36 @@ Pokud si nejsi jistý nebo chceš mít jistotu, že tvé PC bude v perfektním s
 - ✅ Česká technická podpora
 
 **Nech to na profesionálech a měj jistotu, že tvůj počítač bude běžet jako nový.** Naše <a href="https://www.hellocomp.cz/herni-pocitace--gaming/">herní PC sestavy</a> jsou navržené s důrazem na snadnou údržbu a perfektní chlazení. S FPS kalkulačkou víš přesně, co očekávat! 💻💨
+
+---
+
+## FAQ: Často kladené otázky o čištění PC
+
+### Jak často bych měl čistit PC od prachu?
+
+Doporučujeme čistit PC každých 3-6 měsíců, v závislosti na prostředí. Pokud máte PC v prašném prostředí, na zemi nebo máte domácí mazlíčky, čistěte častěji (každé 2-3 měsíce). Pravidelné čištění PC od prachu zabrání ucpání ventilátorů a heatsinks, což udržuje optimální teploty a prodlužuje životnost komponent. Pokud si nejste jistí, jak správně PC čistit, nebo nemáte potřebné nástroje jako stlačený vzduch na čištění PC, svěřte údržbu profesionálnímu servisu HelloComp.
+
+### Můžu čistit PC pomocí kompresoru na čištění PC?
+
+Ano, kompresor na čištění PC lze použít, ale musíte být velmi opatrní. Nastavte tlak maximálně na 3-4 bary, jinak hrozí poškození elektroniky vysokým tlakem. Při foukání vždy přidržujte ventilátory prstem, aby se neroztočily - roztočení při vypnutém PC může poškodit ložiska nebo generovat zpětný proud do základní desky. Bezpečnější alternativou je sprej na čištění PC (50-150 Kč) nebo elektrický foukač (800-2000 Kč). Pokud nemáte zkušenosti s kompresorem, raději využijte profesionální servis.
+
+### Kdy je třeba vyměnit teplovodivou pastu?
+
+Teplovodivou pastu měňte každé 2-3 roky při běžném používání, ročně u přetaktovaných systémů a okamžitě pokud teploty náhle vyskočily. Stará pasta vysychá a ztrácí vodivost, což může zvýšit teploty CPU až o 15-20°C. Pokud máte zkušenosti s demontáží chladiče a máte správné nástroje (izopropylalkohol 99%, nová pasta jako Thermal Grizzly Kryonaut nebo Noctua NT-H2), můžete výměnu provést sami. Pokud jste začátečník nebo se bojíte poškodit komponenty, svěřte výměnu teplovodivé pasty profesionálům v servisu HelloComp.
+
+### Je bezpečné přepastovat grafickou kartu doma?
+
+Přepastování grafické karty doma není doporučeno kvůli několika rizikům. Zaprvé, rozebrání GPU zruší záruku u většiny výrobců. Zadruhé, demontáž je složitá (6-10 šroubů, thermal pady na VRAM a VRM, citlivé komponenty) a jeden chybný krok může GPU zničit. Zatřetí, potřebujete správné nástroje a zkušenosti. Pokud se vaše grafická karta přehřívá (teploty nad 85°C při hraní), je mnohem bezpečnější využít profesionální přepastování grafické karty v servisu HelloComp. Cena servisu je nižší než riziko zničení drahé karty.
+
+### Jak poznám, že PC potřebuje čištění?
+
+Signály, že PC potřebuje čištění od prachu, zahrnují: zvýšený hluk ventilátorů (musí otáčet rychleji kvůli horším podmínkám), vysoké teploty CPU/GPU (nad 80-85°C při zatížení), padající FPS v hrách (thermal throttling snižuje výkon), náhodné restarty nebo pády her (přehřátí způsobuje nestabilitu) a viditelný prach na filtrech nebo ventilátorech. Pokud zaznamenáte jakýkoliv z těchto příznaků, je čas na čištění. Sledujte teploty pomocí programů jako HWiNFO64 nebo MSI Afterburner. Pravidelná údržba zabrání těmto problémům.
+
+### Mohu použít vysavač na čištění PC?
+
+Používání běžného vysavače na čištění PC není doporučeno kvůli několika rizikům. Vysavač generuje statickou elektřinu, která může poškodit citlivé komponenty. Navíc má příliš silný sací výkon, který může utrhnout malé součástky nebo poškodit ventilátory. Místo vysavače použijte stlačený vzduch na čištění PC (sprej, kompresor s nízkým tlakem nebo elektrický foukač). Prach foukejte ven z PC ve venkovním prostoru. Pokud chcete vysavač použít, držte jej ve vzdálenosti alespoň 10 cm a používejte antistatickou trysku. Bezpečnější je svěřit čištění profesionálnímu servisu.
+
+---
+
+**Prompt pro AI obrázek (21:9 formát):**
+"PC maintenance scene in 21:9 format, HelloComp robot mascot carefully cleaning gaming PC interior with compressed air, visible dust particles being removed from GPU and CPU cooler, professional tech workshop setting, detailed hardware components, instructional style, clean and modern aesthetic, photorealistic 3D render"
