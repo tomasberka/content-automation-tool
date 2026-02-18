@@ -332,6 +332,11 @@ class ContentValidator:
                 expected_value=f"max {word_guidelines['max']}"
             ))
         
+        # Validace HTML struktury
+        if self.config.get('validation', {}).get('validate_html_structure', False):
+            html_structure_results = self._validate_html_structure(content)
+            results.extend(html_structure_results)
+        
         # Pokud vše OK
         if not results:
             results.append(ValidationResult(
@@ -339,6 +344,52 @@ class ContentValidator:
                 level=ValidationLevel.INFO,
                 message='✅ Veškerý obsah splňuje SEO požadavky'
             ))
+        
+        return results
+    
+    def _validate_html_structure(self, content: CategoryContent) -> List[ValidationResult]:
+        """
+        Validuje HTML strukturu obsahu - kontroluje, že obsah začína <p> tagem
+        
+        Args:
+            content: Obsah k validaci
+            
+        Returns:
+            Seznam ValidationResult objektů
+        """
+        results = []
+        html_config = self.config.get('html_structure', {})
+        
+        if not html_config.get('must_start_with_p', False):
+            return results
+        
+        # Kontrola úvodního textu
+        if content.introduction:
+            formatted = ContentFormatter._format_html_content(content.introduction)
+            stripped = formatted.strip()
+            if stripped and not stripped.startswith('<p'):
+                results.append(ValidationResult(
+                    section='introduction_html',
+                    level=ValidationLevel.ERROR,
+                    message='Úvodní text musí začínat <p> tagem (backend automaticky vytváří tlačítka za prvním <p>)',
+                    actual_value=stripped[:50] + ('...' if len(stripped) > 50 else ''),
+                    expected_value='<p>...'
+                ))
+        
+        # Kontrola jednotlivých sekcí
+        for i, section in enumerate(content.h2_sections):
+            if section.content:
+                formatted = ContentFormatter._format_html_content(section.content)
+                stripped = formatted.strip()
+                # Sekce může začínat buď <p> nebo <ul> (seznam)
+                if stripped and not stripped.startswith('<p') and not stripped.startswith('<ul'):
+                    results.append(ValidationResult(
+                        section=f'section_{i}_html',
+                        level=ValidationLevel.ERROR,
+                        message=f'Sekce "{section.heading}" musí začínat <p> tagem',
+                        actual_value=stripped[:50] + ('...' if len(stripped) > 50 else ''),
+                        expected_value='<p>... nebo <ul>...'
+                    ))
         
         return results
     
@@ -452,21 +503,38 @@ class ContentFormatter:
     
     @staticmethod
     def _format_html_content(content: str) -> str:
-        """Formátuje Markdown-like obsah do HTML"""
+        """
+        Formátuje Markdown-like obsah do HTML
+        
+        Zajišťuje, že obsah začíná <p> tagem pro správnou funkci backendu,
+        který automaticky vytváří tlačítka za prvním <p> elementem.
+        """
         # Zachovat existující HTML tagy
         if '<' in content and '>' in content:
+            # Pokud už obsahuje HTML, zkontroluj zda začíná správně
+            stripped = content.strip()
+            # Pokud začíná h1-h6 nebo jiným non-p tagem, zabal ho
+            if stripped.startswith('<h') or stripped.startswith('<div'):
+                # Přidej prázdný odstavec na začátek
+                return '<p></p>\n' + content
             return content
         
         # Převod Markdown seznamů
         lines = content.split('\n')
         html_lines = []
         in_list = False
+        first_content_added = False
         
         for line in lines:
             stripped = line.strip()
             
             # Odrážkové seznamy
             if stripped.startswith('- ') or stripped.startswith('* '):
+                # Pokud seznam je první element, přidej prázdný <p> před něj
+                if not first_content_added and not in_list:
+                    html_lines.append('<p></p>')
+                    first_content_added = True
+                
                 if not in_list:
                     html_lines.append('<ul>')
                     in_list = True
@@ -477,6 +545,7 @@ class ContentFormatter:
                     in_list = False
                 if stripped:
                     html_lines.append(f'<p>{stripped}</p>')
+                    first_content_added = True
         
         if in_list:
             html_lines.append('</ul>')
