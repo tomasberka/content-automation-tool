@@ -106,10 +106,11 @@ Tento dokument obsahuje přehled všech souborů se spodními sekcemi kategorií
 ## Pracovní počítače
 
 ### 19. Kancelářské počítače
-- **Soubor:** `kancelarskе-pocitace.md` **(použít spodní část)**
+- **Soubor (spodní sekce):** `kancelarske-pocitace-spodni-sekce.md`
+- **Soubor (Shoptet HTML):** `kancelarske-pocitace-shoptet.html`
 - **URL:** https://www.hellocomp.cz/kancelarske-pocitace/
-- **Obsah:** Související kategorie na konci dokumentu (13 odkazů)
-- **Poznámka:** Využít pouze sekci "Související kategorie" z konce souboru
+- **Obsah:** Související kategorie (13 odkazů)
+- **Poznámka:** K dispozici jak seznam odkazů, tak i kompletní HTML popis pro Shoptet
 
 ### 20. Pracovní stanice
 - **Soubor:** `pracovni-stanice.md` **(použít spodní část)**
