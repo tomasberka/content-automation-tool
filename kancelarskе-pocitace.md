@@ -132,4 +132,22 @@ V HelloComp vybíráme komponenty tak, aby **kancelářská PC** splňovala vše
 
 Prozkoumejte nabídku **kancelářských počítačů** a najděte řešení přesně pro vaše pracovní potřeby. Využijte možnost konfigurace na míru a získejte počítač**, který odpovídá nárokům** vašeho podnikání.
 
-Nevíte, který **kancelářský PC** je pro vás ideální? **[Napište nám](https://www.hellocomp.cz/kontakt/) s popisem vašeho využití – rádi poradíme a navrhneme optimální konfiguraci.** U nás najdete **počítače na práci v každém odvětví**, od základních **kancelářských PC** pro běžnou práci až po výkonnější **stolní počítače** pro náročnější multitasking. Každá sestava je připravena k okamžitému použití – stačí zapojit a pracovat.  
+Nevíte, který **kancelářský PC** je pro vás ideální? **[Napište nám](https://www.hellocomp.cz/kontakt/) s popisem vašeho využití – rádi poradíme a navrhneme optimální konfiguraci.** U nás najdete **počítače na práci v každém odvětví**, od základních **kancelářských PC** pro běžnou práci až po výkonnější **stolní počítače** pro náročnější multitasking. Každá sestava je připravena k okamžitému použití – stačí zapojit a pracovat.
+
+---
+
+## Související kategorie
+
+* [Počítače](https://www.hellocomp.cz/pocitace/)
+* [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Procesory Intel](https://www.hellocomp.cz/procesory-intel/)
+* [Procesory AMD](https://www.hellocomp.cz/procesory-amd/)
+* [Operační paměti](https://www.hellocomp.cz/operacni-pameti/)
+* [Interní disky](https://www.hellocomp.cz/interni-disky/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [PC komponenty](https://www.hellocomp.cz/pc-komponenty/)
+* [Monitory](https://www.hellocomp.cz/monitory/)
+* [Klávesnice](https://www.hellocomp.cz/klavesnice/)
+* [Myši](https://www.hellocomp.cz/mysi/)  
