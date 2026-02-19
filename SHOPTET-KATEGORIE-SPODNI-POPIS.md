@@ -32,7 +32,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 | 15 | Grafické karty | `graficke-karty-spodni-sekce.md` | ✅ Připraveno |
 | 16 | Procesory | `procesory-spodni-sekce.md` | ✅ Připraveno |
 | 17 | Monitory | `monitory-spodni-sekce.md` | ✅ Připraveno |
-| 18 | Kancelářské počítače | `kancelarske-pocitace.md` (spodní část) | ✅ Připraveno |
+| 18 | Kancelářské počítače | `kancelarske-pocitace-spodni-sekce.md` + `kancelarske-pocitace-shoptet.html` | ✅ Připraveno |
 | 19 | Pracovní stanice | `pracovni-stanice.md` (spodní část) | ✅ Připraveno |
 | 20 | PC bazar | `pc-bazar.md` (spodní část) | ✅ Připraveno |
 | 21 | PC skříně (PC case) | `pc-skrine--case.md` (spodní část) | ✅ Připraveno |
@@ -605,10 +605,11 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 ### 19. Kancelářské počítače
 
 **URL kategorie:** https://www.hellocomp.cz/kancelarske-pocitace/  
-**Soubor:** `kancelarske-pocitace.md` (využít spodní část dokumentu)  
+**Soubor (spodní sekce):** `kancelarske-pocitace-spodni-sekce.md`  
+**Soubor (Shoptet HTML):** `kancelarske-pocitace-shoptet.html`  
 **Typ:** Hlavní produktová kategorie
 
-**Obsah spodního popisu (poslední sekce dokumentu):**
+**Obsah spodního popisu:**
 ```markdown
 ## Související kategorie
 
@@ -630,7 +631,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 **Poznámky:**
 - Cross-sell na komponenty a příslušenství
 - Obsahuje 13 interních odkazů
-- Využít pouze sekci "Související kategorie" z konce dokumentu
+- K dispozici samostatný soubor se spodní sekcí i kompletní HTML popis pro Shoptet
 
 ---
 
