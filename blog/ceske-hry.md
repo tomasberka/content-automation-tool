@@ -78,7 +78,7 @@ VR rytmická hra, nejprodávanější VR titul všech dob.
 
 **Remake:** **Mafia: Definitive Edition (2020)** od Hangar 13 – kompletní remake s moderní grafikou.
 
-**Hardware pro Mafia DE:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a> s RTX 3060 pro 1080p 60 FPS.
+**Hardware pro Mafia DE:** <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">Herní PC do 20 000 Kč</a> s RTX 3060 pro 1080p 60 FPS.
 
 #### Mafia II (2010)
 
@@ -199,7 +199,7 @@ VR rytmická hra, nejprodávanější VR titul všech dob.
 
 **Kritika:** Buggy, dlouhý vývoj (5+ let v Early Access).
 
-**Hardware:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a>.
+**Hardware:** <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">Herní PC do 20 000 Kč</a>.
 
 ---
 
@@ -372,7 +372,7 @@ Legendární studio, které se později stalo součástí 2K Games.
 
 **VR nároky.**
 
-**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a> + Meta Quest 3 (standalone nebo PCVR).
+**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">Herní PC do 30 000 Kč</a> + Meta Quest 3 (standalone nebo PCVR).
 
 ---
 

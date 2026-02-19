@@ -254,7 +254,7 @@ Při rozhodování, **jakou grafickou kartu** koupit, pomáhají **benchmarky**:
 * Full HD ultra detaily 100+ FPS
 * 1440p na vysoké detaily 60-80 FPS
 
-**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a>, <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">Herní PC do 30 000 Kč</a>
+**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">Herní PC do 20 000 Kč</a>, <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">Herní PC do 30 000 Kč</a>
 
 ### 20 000 – 35 000 Kč – High-end pro 1440p/4K
 

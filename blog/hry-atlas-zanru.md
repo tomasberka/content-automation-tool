@@ -66,7 +66,7 @@ FPS hry vyžadují **vysoké FPS** (144+ je standard) pro konkurenceschopnost.
 * **RAM:** 16 GB
 * **Monitor:** 144 Hz Full HD
 
-**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a>
+**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">Herní PC do 20 000 Kč</a>
 
 **High-end konfigurace (240+ FPS):**
 * **GPU:** RTX 4070 Ti / RX 7900 XT
@@ -199,7 +199,7 @@ FPS hry vyžadují **vysoké FPS** (144+ je standard) pro konkurenceschopnost.
 
 **Guild Wars 2** – Žádné předplatné, dynamický svět, skvělé pro solo hráče.
 
-**Hardware pro MMORPG:** Střední nároky. <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">PC do 25 000 Kč</a> pro komfortní hraní.
+**Hardware pro MMORPG:** Střední nároky. <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">PC do 20 000 Kč</a> pro komfortní hraní.
 
 ---
 
@@ -298,7 +298,7 @@ FPS hry vyžadují **vysoké FPS** (144+ je standard) pro konkurenceschopnost.
 
 **Call of Duty: Warzone** – COD gunplay v battle royale. Gulag systém.
 
-**Hardware pro BR:** Velké mapy vyžadují dobrý CPU a GPU. <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">PC do 25 000 Kč</a> pro 1080p 100+ FPS.
+**Hardware pro BR:** Velké mapy vyžadují dobrý CPU a GPU. <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">PC do 30 000 Kč</a> pro 1080p 100+ FPS.
 
 ---
 
@@ -371,7 +371,7 @@ FPS hry vyžadují **vysoké FPS** (144+ je standard) pro konkurenceschopnost.
 **Alien: Isolation** – Útěk před nepředvídatelným xenomorfem
 **Outlast** – První osobní horor bez možnosti obrany
 
-**Hardware:** Moderní horror hry mohou být náročné na GPU díky atmosférickému lighting. <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">PC do 25 000 Kč</a> pro komfortní hraní.
+**Hardware:** Moderní horror hry mohou být náročné na GPU díky atmosférickému lighting. <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">PC do 30 000 Kč</a> pro komfortní hraní.
 
 ---
 
@@ -474,9 +474,9 @@ FPS hry vyžadují **vysoké FPS** (144+ je standard) pro konkurenceschopnost.
 | Žánr | Minimální PC | Doporučené PC |
 |------|-------------|---------------|
 | **FPS (kompetitivní)** | <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">do 20K</a> | <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">do 30K</a> |
-| **AAA RPG/Action** | <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">do 25K</a> | <a href="https://www.hellocomp.cz/herni-pocitace-do-40000/">do 40K</a> |
+| **AAA RPG/Action** | <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">do 30K</a> | <a href="https://www.hellocomp.cz/herni-pocitace-do-40000/">do 40K</a> |
 | **Strategické hry** | <a href="https://www.hellocomp.cz/herni-pocitace-do-15000/">do 15K</a> | <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">do 20K</a> |
-| **Závodní simulátory** | <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">do 25K</a> | <a href="https://www.hellocomp.cz/herni-pocitace-do-40000/">do 40K</a> |
+| **Závodní simulátory** | <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">do 30K</a> | <a href="https://www.hellocomp.cz/herni-pocitace-do-40000/">do 40K</a> |
 | **Flight Simulators** | <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">do 30K</a> | <a href="https://www.hellocomp.cz/herni-pocitace-do-60000/">do 60K</a> |
 | **MOBA/Indie** | <a href="https://www.hellocomp.cz/herni-pocitace-do-15000/">do 15K</a> | <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">do 20K</a> |
 

@@ -141,7 +141,6 @@ Successfully created **19 comprehensive blog articles** for HelloComp.cz gaming 
 ### Price Categories
 - Herní PC do 15k: https://www.hellocomp.cz/herni-pocitace-do-15000/
 - Herní PC do 20k: https://www.hellocomp.cz/herni-pocitace-do-20000/
-- Herní PC do 25k: https://www.hellocomp.cz/herni-pocitace-do-25000/
 - Herní PC do 30k: https://www.hellocomp.cz/herni-pocitace-do-30000/
 - Herní PC do 40k: https://www.hellocomp.cz/herni-pocitace-do-40000/
 - Herní PC do 60k: https://www.hellocomp.cz/herni-pocitace-do-60000/

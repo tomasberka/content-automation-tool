@@ -66,7 +66,7 @@
 
 **Monetizace:** Battle Pass, kosmetické skiny.
 
-**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a> pro plynulý zážitek.
+**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">Herní PC do 30 000 Kč</a> pro plynulý zážitek.
 
 **Proč hrát:** Nejzábavnější BR, skvělý gunplay, rychlý pace.
 
@@ -279,7 +279,7 @@
 
 **Nevýhody:** Občasné problémy s optimalizací a cheaty.
 
-**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a>.
+**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">Herní PC do 30 000 Kč</a>.
 
 ---
 
@@ -355,7 +355,7 @@ Fotbal s auty. **Velmi zatažlivé, kompetitivní, jednoduché na pochopení, t�
 
 **Monetizace:** Gacha (placení za šanci na nové postavy) – kontroverzní.
 
-**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a>.
+**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">Herní PC do 20 000 Kč</a>.
 
 ### Destiny 2 – Sci-fi looter shooter
 
@@ -410,7 +410,7 @@ Fotbal s auty. **Velmi zatažlivé, kompetitivní, jednoduché na pochopení, t�
 * **CPU:** Intel Core i5 / AMD Ryzen 5
 * **RAM:** 16 GB
 
-**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a>
+**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">Herní PC do 20 000 Kč</a>
 
 **Výsledek:** 80-120 FPS na vysoké detaily.
 
@@ -503,7 +503,7 @@ Záleží na žánru. Pro **taktické FPS** je to **Valorant** (nejlepší gunpl
 
 ### Jaký PC potřebuji pro hraní her zdarma?
 
-Pro **e-sport F2P hry** (LoL, Dota, CS2, Valorant) stačí **PC do 15 000 Kč** s GTX 1650 nebo integrovanou grafikou pro 100+ FPS. Pro **AAA F2P** (Apex, Warzone, Destiny 2) doporučujeme **PC do 25 000 Kč** s RTX 3060/4060. F2P hry jsou často dobře optimalizované (chtějí velkou hráčskou základnu), takže běží i na slabších PC než placené AAA hry.
+Pro **e-sport F2P hry** (LoL, Dota, CS2, Valorant) stačí **PC do 15 000 Kč** s GTX 1650 nebo integrovanou grafikou pro 100+ FPS. Pro **AAA F2P** (Apex, Warzone, Destiny 2) doporučujeme **PC do 30 000 Kč** s RTX 3060/4060. F2P hry jsou často dobře optimalizované (chtějí velkou hráčskou základnu), takže běží i na slabších PC než placené AAA hry.
 
 ### Jak Epic Games Store může dávat hry zdarma každý týden?
 

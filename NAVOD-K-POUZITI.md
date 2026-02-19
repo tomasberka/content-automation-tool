@@ -32,7 +32,7 @@ Každý soubor `*-spodni-sekce.md` obsahuje sekci "Související kategorie", kte
 * [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
 * [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
 * [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
-* [Herní PC do 25 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-25000/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
 [... další odkazy ...]
 ```
 
@@ -42,19 +42,13 @@ Každý soubor `*-spodni-sekce.md` obsahuje sekci "Související kategorie", kte
 
 Stejný postup jako výše.
 
-#### 3. Herní počítače do 25 000 Kč
-**Soubor:** `herni-pocitac-do-25000-spodni-sekce.md`  
-**Cílová stránka:** https://www.hellocomp.cz/herni-pocitace-do-25000/
-
-Stejný postup jako výše.
-
-#### 4. Herní počítače do 30 000 Kč
+#### 3. Herní počítače do 30 000 Kč
 **Soubor:** `herni-pocitac-do-30000-spodni-sekce.md`  
 **Cílová stránka:** https://www.hellocomp.cz/herni-pocitace-do-30000/
 
 Stejný postup jako výše.
 
-#### 5. Herní počítače do 40 000 Kč
+#### 4. Herní počítače do 40 000 Kč
 **Soubor:** `herni-pocitac-do-40000-spodni-sekce.md`  
 **Cílová stránka:** https://www.hellocomp.cz/herni-pocitace-do-40000/
 
