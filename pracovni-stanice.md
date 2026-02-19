@@ -121,3 +121,22 @@ U nás nejde jen o prodej hardware. Každá **pracovní stanice** prochází pe�
 Prozkoumejte nabídku **pracovních stanic** a najděte řešení přesně pro vaše profesionální potřeby. Využijte možnost konfigurace na míru a získejte **pracovní PC**, který odpovídá nárokům vašich aplikací.
 
 Nevíte, která **pracovní stanice** je pro vás ideální? [Napište nám](https://www.hellocomp.cz/kontakt/) s popisem vašeho workflow a aplikací, které používáte – rádi poradíme a navrhneme optimální konfiguraci. U nás najdete [**počítače**](https://www.hellocomp.cz/pocitace/) pro každé odvětví, od kompaktních **pracovních stanic** pro CAD až po výkonné stroje pro 3D rendering a střih videa.
+
+---
+
+## Související kategorie
+
+* [Počítače](https://www.hellocomp.cz/pocitace/)
+* [Kancelářské počítače](https://www.hellocomp.cz/kancelarske-pocitace/)
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Grafické karty NVIDIA](https://www.hellocomp.cz/graficke-karty-nvidia/)
+* [Grafické karty AMD](https://www.hellocomp.cz/graficke-karty-amd/)
+* [Procesory Intel](https://www.hellocomp.cz/procesory-intel/)
+* [Procesory AMD](https://www.hellocomp.cz/procesory-amd/)
+* [Operační paměti](https://www.hellocomp.cz/operacni-pameti/)
+* [Interní disky](https://www.hellocomp.cz/interni-disky/)
+* [PC komponenty](https://www.hellocomp.cz/pc-komponenty/)
+* [Monitory](https://www.hellocomp.cz/monitory/)
