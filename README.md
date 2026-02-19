@@ -13,6 +13,18 @@ Automatický nástroj pro tvorbu, validaci a správu SEO-optimalizovaného obsah
 > - ✅ [Denní checklist](DENNI-CHECKLIST.md) - Tisknutelná verze (1 stránka)
 > - 📊 [Měsíční hodnocení](MESICNI-HODNOCENI.md) - Tracking pokroku a self-assessment
 
+> 🎯 **NOVÉ! HelloComp Dashboard** - Centralizovaný systém správy a sledování
+> 
+> **📊 [HelloComp Dashboard - Rychlý start](DASHBOARD-QUICKSTART.md)** - Kompletní správa www.hellcomp.cz a všech sociálních sítí na jednom místě!
+> 
+> Klíčové funkce:
+> - 🌐 Sledování výkonnosti webu (Google Analytics 4)
+> - 📱 Správa všech sociálních sítí (Facebook, Instagram, TikTok, YouTube)
+> - 📈 Automatické reporty (denní, týdenní, měsíční)
+> - 📊 Všechna data centralizovaně na jednom místě
+> 
+> **Dokumentace:** [HELLCOMP-DASHBOARD.md](HELLCOMP-DASHBOARD.md)
+
 ## 🚀 Co tento nástroj umí
 
 - ✅ **Automatická validace** kategoriálního obsahu podle SEO pravidel
@@ -22,6 +34,7 @@ Automatický nástroj pro tvorbu, validaci a správu SEO-optimalizovaného obsah
 - ✅ **Batch operace** pro hromadné zpracování
 - ✅ **Python API** pro integraci do redakčních systémů
 - ✅ **Quality reporting** pro monitoring kvality obsahu
+- ✅ **Centralizovaný dashboard** pro správu webu a sociálních sítí
 
 ## 📁 Obsah repozitáře
 

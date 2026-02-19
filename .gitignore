@@ -49,3 +49,11 @@ htmlcov/
 # OS
 .DS_Store
 Thumbs.db
+
+# Dashboard and Analytics
+dashboard_config.json
+ga4_credentials.json
+*_token.json
+*_credentials.json
+reports/
+*.csv
