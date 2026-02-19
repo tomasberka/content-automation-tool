@@ -2,14 +2,16 @@
 
 * [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
 * [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
-* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+
+* [Jak si vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+
 * [Herní PC do 15 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-15000/)
 * [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
 * [Herní PC do 25 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-25000/)
 * [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
 * [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
 * [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
-* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+
 * [Intel herní počítače](https://www.hellocomp.cz/intel-herni-pocitace/)
 * [AMD herní počítače](https://www.hellocomp.cz/amd-herni-pocitace/)
 * [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
