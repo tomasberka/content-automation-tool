@@ -4,6 +4,8 @@
 
 Automatický nástroj pro tvorbu, validaci a správu SEO-optimalizovaného obsahu pro HelloComp.cz e-shop.
 
+> 🌟 **NOVÉ!** [Denní průvodce prací](DENNI-PRUVODCE-PRACI.md) - Kompletní průvodce pro SEO specialistu, content creatora, copywritera a správce sociálních sítí. Naučí tě jak být TOP člověk na svém místě!
+
 ## 🚀 Co tento nástroj umí
 
 - ✅ **Automatická validace** kategoriálního obsahu podle SEO pravidel
@@ -62,7 +64,8 @@ python category_template_generator.py input.md -o output.html -f html
 - **[SHOPTET-SPODNI-SEKCE-SEZNAM.md](SHOPTET-SPODNI-SEKCE-SEZNAM.md)** - Rychlý seznam souborů se spodními sekcemi
 - **[NAVOD-K-POUZITI.md](NAVOD-K-POUZITI.md)** - Návod k použití souvisejících kategorií
 
-### Social Media Strategie
+### Pracovní návody a strategie
+- **[DENNÍ PRŮVODCE PRACÍ](DENNI-PRUVODCE-PRACI.md)** - 🌟 **NOVÉ!** Kompletní denní průvodce pro SEO specialistu, content creatora, copywritera a správce sociálních sítí
 - **[Facebook & Instagram Strategie 2026](docs/facebook-instagram-strategie-2026.md)** - Kompletní strategie pro FB & IG včetně Master Research Promptu
 - **[Social Media Quick Reference](docs/social-media-quick-reference.md)** - Rychlá referenční příručka pro denní práci
 
