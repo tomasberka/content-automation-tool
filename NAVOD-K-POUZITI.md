@@ -67,7 +67,7 @@ Stejný postup jako výše.
 Stejný postup jako výše.
 
 #### 8. Kancelářské počítače
-**Soubor:** `kancelarskе-pocitace.md` (již obsahuje sekci na konci)  
+**Soubor:** `kancelarske-pocitace.md` (již obsahuje sekci na konci)  
 **Cílová stránka:** https://www.hellocomp.cz/kancelarske-pocitace/
 
 Sekce je již přidána v souboru, stačí zkopírovat poslední část (od "## Související kategorie").
