@@ -24,6 +24,8 @@ content-automation-tool/
 ├── example_integration.py          # 📚 Příklady použití
 ├── QUICKSTART.md                   # 🚀 Rychlý start
 ├── README_GENERATOR.md             # 📖 Detailní dokumentace
+├── SHOPTET-KATEGORIE-SPODNI-POPIS.md  # 🛒 Shoptet spodní popisy kategorií
+├── SHOPTET-SPODNI-SEKCE-SEZNAM.md     # 📋 Shoptet rychlý seznam
 ├── requirements.txt                # 📦 Python závislosti
 └── docs/
     ├── hellocomp-category-structure.md         # Struktura kategorií
@@ -54,6 +56,11 @@ python category_template_generator.py input.md -o output.html -f html
 - **[QUICKSTART.md](QUICKSTART.md)** - Rychlý start pro začátečníky
 - **[README_GENERATOR.md](README_GENERATOR.md)** - Kompletní dokumentace a API reference
 - **[example_integration.py](example_integration.py)** - Ukázky integrace do workflow
+
+### Shoptet - Spodní popisy kategorií
+- **[SHOPTET-KATEGORIE-SPODNI-POPIS.md](SHOPTET-KATEGORIE-SPODNI-POPIS.md)** - Kompletní přehled všech spodních popisů kategorií pro Shoptet (12 kategorií)
+- **[SHOPTET-SPODNI-SEKCE-SEZNAM.md](SHOPTET-SPODNI-SEKCE-SEZNAM.md)** - Rychlý seznam souborů se spodními sekcemi
+- **[NAVOD-K-POUZITI.md](NAVOD-K-POUZITI.md)** - Návod k použití souvisejících kategorií
 
 ### Social Media Strategie
 - **[Facebook & Instagram Strategie 2026](docs/facebook-instagram-strategie-2026.md)** - Kompletní strategie pro FB & IG včetně Master Research Promptu

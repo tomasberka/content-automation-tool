@@ -138,3 +138,19 @@ Pokud nechcete stavět PC sami, podívejte se na naše hotové [herní počíta�
 ---
 
 **Máte otázky?** Náš tým vám rád poradí s výběrem správné **PC skříně** pro vaši sestavu. Kontaktujte nás nebo si prohlédněte naši nabídku [PC komponent](https://www.hellocomp.cz/pc-komponenty/).
+
+---
+
+## Související kategorie
+
+* [PC komponenty](https://www.hellocomp.cz/pc-komponenty/)
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
+* [Kancelářské počítače](https://www.hellocomp.cz/kancelarske-pocitace/)
+* [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
+* [Základní desky](https://www.hellocomp.cz/zakladni-desky/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Operační paměti](https://www.hellocomp.cz/operacni-pameti/)
+* [Zdroje do PC](https://www.hellocomp.cz/zdroje-do-pc/)
+* [Chlazení PC](https://www.hellocomp.cz/chlazeni-pc/)
