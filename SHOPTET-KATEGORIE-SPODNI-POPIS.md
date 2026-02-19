@@ -32,7 +32,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 | 15 | Grafické karty | `graficke-karty-spodni-sekce.md` | ✅ Připraveno |
 | 16 | Procesory | `procesory-spodni-sekce.md` | ✅ Připraveno |
 | 17 | Monitory | `monitory-spodni-sekce.md` | ✅ Připraveno |
-| 18 | Kancelářské počítače | `kancelarskе-pocitace.md` (spodní část) | ✅ Připraveno |
+| 18 | Kancelářské počítače | `kancelarske-pocitace.md` (spodní část) | ✅ Připraveno |
 | 19 | Pracovní stanice | `pracovni-stanice.md` (spodní část) | ✅ Připraveno |
 | 20 | PC bazar | `pc-bazar.md` (spodní část) | ✅ Připraveno |
 | 21 | PC skříně (PC case) | `pc-skrine--case.md` (spodní část) | ✅ Připraveno |
@@ -605,7 +605,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 ### 19. Kancelářské počítače
 
 **URL kategorie:** https://www.hellocomp.cz/kancelarske-pocitace/  
-**Soubor:** `kancelarskе-pocitace.md` (využít spodní část dokumentu)  
+**Soubor:** `kancelarske-pocitace.md` (využít spodní část dokumentu)  
 **Typ:** Hlavní produktová kategorie
 
 **Obsah spodního popisu (poslední sekce dokumentu):**
@@ -856,7 +856,7 @@ Všechny soubory se nachází v kořenovém adresáři:
 /herni-pocitac-do-60000-spodni-sekce.md
 /herni-pocitace-obecna-spodni-sekce.md
 /repasovane-herni-pc-spodni-sekce.md
-/kancelarskе-pocitace.md
+/kancelarske-pocitace.md
 /pracovni-stanice.md
 /pc-bazar.md
 /pc-skrine--case.md
