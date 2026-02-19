@@ -161,7 +161,7 @@ Nejpopulárnější otázka: **AMD Ryzen 7 vs Intel i7** – Který vybrat?
 * **Intel Core i5-15600K** – Skvělý výkon, dobrá cena
 * **AMD Ryzen 5 9600X** – Levnější alternativa
 
-**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a>
+**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">Herní PC do 20 000 Kč</a>
 
 ### Pro AAA hry a streaming
 

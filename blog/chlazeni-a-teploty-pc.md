@@ -78,7 +78,7 @@
 
 **Pro koho:** Většina uživatelů, střední třída CPU (i5/Ryzen 5, i7/Ryzen 7).
 
-**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a> běžně používá kvalitní tower cooler.
+**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">Herní PC do 30 000 Kč</a> běžně používá kvalitní tower cooler.
 
 ### AIO vodní chlazení – All-in-One Liquid Cooler
 

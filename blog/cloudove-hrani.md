@@ -174,7 +174,7 @@
 * **84 měsíců** (7 let) = 25 200 Kč
 * Po 7 letech je vlastní PC levnější a můžete ho upgradovat
 
-Prozkoumejte naši nabídku <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">herních PC do 25 000 Kč</a>.
+Prozkoumejte naši nabídku <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">herních PC do 30 000 Kč</a>.
 
 ---
 
@@ -322,7 +322,7 @@ Cloud gaming je ideální pro single-player AAA hry (Cyberpunk, Starfield, Baldu
 
 ### Je cloud gaming levnější než vlastní herní PC?
 
-Krátkodobě ano, dlouhodobě ne. Xbox Cloud Gaming (13 EUR/měsíc = 312 Kč) nebo GeForce NOW Priority (10 EUR/měsíc = 240 Kč) jsou levné na začátku, ale po 7 letech zaplatíte 20 000-26 000 Kč a nic nevlastníte. Herní PC do 25 000 Kč se vyplatí po 7 letech používání cloud služeb a navíc ho můžete upgradovat, vlastníte hry, máte nulový input lag a hrajete offline. Cloud gaming má smysl pro příležitostné hráče (pár hodin měsíčně) nebo testování. Pro pravidelné hraní (5+ hodin týdně) je vlastní PC jednoznačně levnější a lepší investice.
+Krátkodobě ano, dlouhodobě ne. Xbox Cloud Gaming (13 EUR/měsíc = 312 Kč) nebo GeForce NOW Priority (10 EUR/měsíc = 240 Kč) jsou levné na začátku, ale po 7 letech zaplatíte 20 000-26 000 Kč a nic nevlastníte. Herní PC do 30 000 Kč se vyplatí po 7 letech používání cloud služeb a navíc ho můžete upgradovat, vlastníte hry, máte nulový input lag a hrajete offline. Cloud gaming má smysl pro příležitostné hráče (pár hodin měsíčně) nebo testování. Pro pravidelné hraní (5+ hodin týdně) je vlastní PC jednoznačně levnější a lepší investice.
 
 ---
 

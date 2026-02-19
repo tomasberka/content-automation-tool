@@ -163,4 +163,22 @@ Na rozdíl od nákupu od neznámého prodejce získáte u HelloComp jistotu – 
 
 Prozkoumejte nabídku **herních PC bazar** a najděte sestavu přesně podle svých potřeb a rozpočtu. Využijte **FPS kalkulačku** pro ověření výkonu v konkrétních hrách a možnost **upgradu** pro vyladění sestavy na míru.
 
-Každý **herní počítač bazar** od HelloComp je důkladně otestovaný, vyčištěný a připravený k okamžitému použití. Se zárukou a českým servisem máte jistotu, že váš nákup je bezpečný. Hledáte **levné herní PC bazar** bez kompromisů na kvalitě? V HelloComp ho najdete.  
+Každý **herní počítač bazar** od HelloComp je důkladně otestovaný, vyčištěný a připravený k okamžitému použití. Se zárukou a českým servisem máte jistotu, že váš nákup je bezpečný. Hledáte **levné herní PC bazar** bez kompromisů na kvalitě? V HelloComp ho najdete.
+
+---
+
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Repasované herní PC](https://www.hellocomp.cz/repasovane-herni-pc/)
+* [Kancelářské počítače](https://www.hellocomp.cz/kancelarske-pocitace/)
+* [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
+* [Herní PC do 15 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-15000/)
+* [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
+* [Výkup elektroniky a IT](https://www.hellocomp.cz/vykup-elektroniky-a-it/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Operační paměti](https://www.hellocomp.cz/operacni-pameti/)
+* [Interní disky](https://www.hellocomp.cz/interni-disky/)
+* [PC komponenty](https://www.hellocomp.cz/pc-komponenty/)  
