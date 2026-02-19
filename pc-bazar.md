@@ -125,35 +125,29 @@ Na rozdíl od nákupu od neznámého prodejce získáte u HelloComp jistotu – 
 
 ## Výhody bazaru HelloComp oproti klasickým inzerátům
 
-**Testování** 🔎:
+<h3>Testování 🛠️</h3>
+<p>✅ <strong>HelloComp bazar:</strong> Vždy kompletní diagnostika a zátěžové testy.</p>
+<p>❌ <strong>Běžný inzerát:</strong> Žádné ověření, kupujete „zajíce v pytli".</p>
 
-* **HelloComp bazar:** Kompletní diagnostika ✅  
-* **Běžný inzerát:** Obvykle žádné ❌
+<h3>Záruka 🛡️</h3>
+<p>✅ <strong>HelloComp bazar:</strong> Ano, s českým servisem a podporou.</p>
+<p>❌ <strong>Běžný inzerát:</strong> Většinou žádná záruka, žádný servis.</p>
 
-**Záruka** 🛡️:
+<h3>Stav ✨</h3>
+<p>✅ <strong>HelloComp bazar:</strong> Vyčištěno, připraveno k okamžitému použití.</p>
+<p>⚠️ <strong>Běžný inzerát:</strong> Neznámý stav, často zanedbaný a zaprášený.</p>
 
-* **HelloComp bazar:** Ano, s českým servisem 👍  
-* **Běžný inzerát:** Většinou ne 👎
+<h3>Systém 💻</h3>
+<p>✅ <strong>HelloComp bazar:</strong> Čistá instalace Windows bez bloatwaru.</p>
+<p>⚠️ <strong>Běžný inzerát:</strong> Často plný virů nebo nefunkčního software.</p>
 
-**Stav** ✨:
+<h3>Možnost upgradu 🚀</h3>
+<p>✅ <strong>HelloComp bazar:</strong> Ano, přizpůsobíme před odesláním podle vašich potřeb.</p>
+<p>❌ <strong>Běžný inzerát:</strong> Žádná možnost, pouze co vidíte.</p>
 
-* **HelloComp bazar:** Vyčištěno, připraveno 🧼  
-* **Běžný inzerát:** Neznámý ❓
-
-**Systém** 💻:
-
-* **HelloComp bazar:** Čistá instalace Windows 🔒  
-* **Běžný inzerát:** Často plný virů 🦠
-
-**Možnost upgradu** 🚀:
-
-* **HelloComp bazar:** Ano, před odesláním  
-* **Běžný inzerát:** Ne ⛔
-
-**Podpora** 🧑‍🔧:
-
-* **HelloComp bazar:** Poradíme s výběrem  
-* **Běžný inzerát:** Žádná
+<h3>Podpora 🧑‍🔧</h3>
+<p>✅ <strong>HelloComp bazar:</strong> Odborné poradenství při výběru i po nákupu.</p>
+<p>❌ <strong>Běžný inzerát:</strong> Žádná podpora ani poradenství.</p>
 
 **Prodej PC** z HelloComp je bezpečný a transparentní. Žádná překvapení, žádné skryté vady.
 
