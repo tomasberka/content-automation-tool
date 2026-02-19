@@ -1,0 +1,15 @@
+## Související kategorie
+
+* [Počítače](https://www.hellocomp.cz/pocitace/)
+* [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Procesory Intel](https://www.hellocomp.cz/procesory-intel/)
+* [Procesory AMD](https://www.hellocomp.cz/procesory-amd/)
+* [Operační paměti](https://www.hellocomp.cz/operacni-pameti/)
+* [Interní disky](https://www.hellocomp.cz/interni-disky/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [PC komponenty](https://www.hellocomp.cz/pc-komponenty/)
+* [Monitory](https://www.hellocomp.cz/monitory/)
+* [Klávesnice](https://www.hellocomp.cz/klavesnice/)
+* [Myši](https://www.hellocomp.cz/mysi/)
