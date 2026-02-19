@@ -42,6 +42,8 @@ htmlcov/
 
 # Generated HTML files
 *.html
+# Exception: SEO text files should be committed
+!herni-pocitace-seo-text.html
 
 # OS
 .DS_Store

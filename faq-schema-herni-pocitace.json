@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Jak dlouho vydrží herní počítač?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kvalitní herní PC od HelloComp vydrží minimálně 4–5 let na vysoké úrovni výkonu. Díky možnosti upgradu jednotlivých komponent (RAM, SSD, grafická karta) lze životnost prodloužit na 6–8 let."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kolik musím investovat do herního počítače?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Záleží na tom, co a v jakém rozlišení chcete hrát. Pro e-sport stačí sestava do 15–20 000 Kč. Pro moderní AAA tituly počítejte s 25–30 000 Kč. Pro 1440p ultra je ideální 40 000 Kč a pro 4K gaming potřebujete herní PC do 60 000 Kč."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Herní počítač nebo herní notebook?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stolní herní počítač nabízí výrazně vyšší výkon za stejnou cenu, lepší chlazení, tišší provoz a jednoduchou možnost budoucího upgradu. Notebook zvolte pouze tehdy, pokud skutečně potřebujete mobilitu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Jak zjistím, jestli herní PC rozjede konkrétní hru?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Využijte FPS kalkulačku dostupnou u každého gaming PC v nabídce HelloComp. Zadáte název hry a okamžitě uvidíte, kolik FPS můžete očekávat v různých rozlišeních."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Můžu si herní PC později upgradovat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ano. Každou herní sestavu od HelloComp lze v budoucnu rozšířit – přidání RAM, výměna SSD za větší, nebo upgrade grafické karty. Sestavy jsou navrženy s ohledem na budoucí rozšiřitelnost."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Nabízíte herní PC na splátky?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ano. U HelloComp si můžete pořídit herní PC na splátky – schválení online do 15 minut, u vybraných produktů s 0% navýšením."
+      }
+    }
+  ]
+}
