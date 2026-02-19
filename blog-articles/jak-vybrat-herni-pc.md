@@ -192,7 +192,7 @@ Doufáme, že tento článek vám pomohl lépe pochopit rozdíly mezi našimi he
 Stále nevíte, **jaký herní počítač** zvolit? Orientujte se podle svého profilu:
 
 * **Začínající hráč / e-sport** → Herní PC do 15 000 Kč nebo do 20 000 Kč
-* **Pokročilý hráč / Full HD ultra** → Herní PC do 25 000 Kč nebo do 30 000 Kč
+* **Pokročilý hráč / Full HD ultra** → Herní PC do 30 000 Kč
 * **Náročný hráč / 1440p** → Herní PC do 40 000 Kč
 * **Hardcore hráč / 4K / streaming** → Herní PC do 60 000 Kč
 

@@ -20,7 +20,7 @@
 - Herní počítače (hlavní)
 - Herní PC do 15 000 Kč
 - Herní PC do 20 000 Kč
-- Herní PC do 25 000 Kč
+- Herní PC do 30 000 Kč
 - Repasované herní PC
 - Kancelářské počítače (jako alternativa)
 

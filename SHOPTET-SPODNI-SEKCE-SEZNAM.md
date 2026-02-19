@@ -16,24 +16,19 @@ Tento dokument obsahuje přehled všech souborů se spodními sekcemi kategorií
 ### 2. Herní PC do 20 000 Kč
 - **Soubor:** `herni-pocitac-do-20000-spodni-sekce.md`
 - **URL:** https://www.hellocomp.cz/herni-pocitace-do-20000/
-- **Obsah:** Související kategorie (14 odkazů)
-
-### 3. Herní PC do 25 000 Kč
-- **Soubor:** `herni-pocitac-do-25000-spodni-sekce.md`
-- **URL:** https://www.hellocomp.cz/herni-pocitace-do-25000/
 - **Obsah:** Související kategorie (13 odkazů)
 
-### 4. Herní PC do 30 000 Kč
+### 3. Herní PC do 30 000 Kč
 - **Soubor:** `herni-pocitac-do-30000-spodni-sekce.md`
 - **URL:** https://www.hellocomp.cz/herni-pocitace-do-30000/
 - **Obsah:** Související kategorie (13 odkazů)
 
-### 5. Herní PC do 40 000 Kč
+### 4. Herní PC do 40 000 Kč
 - **Soubor:** `herni-pocitac-do-40000-spodni-sekce.md`
 - **URL:** https://www.hellocomp.cz/herni-pocitace-do-40000/
 - **Obsah:** Související kategorie (13 odkazů)
 
-### 6. Herní PC do 60 000 Kč
+### 5. Herní PC do 60 000 Kč
 - **Soubor:** `herni-pocitac-do-60000-spodni-sekce.md`
 - **URL:** https://www.hellocomp.cz/herni-pocitace-do-60000/
 - **Obsah:** Související kategorie (12 odkazů)
@@ -105,8 +100,8 @@ Pro podrobný návod s HTML příklady, kontrolním seznamem a kompletním popis
 
 ## ✅ Status
 
-- **Připraveno:** 12 kategorií
-- **Celkem odkazů:** ~155 interních odkazů
+- **Připraveno:** 11 kategorií
+- **Celkem odkazů:** ~140 interních odkazů
 - **Formát:** Markdown (připraveno k převodu do HTML)
 - **Jazyk:** Čeština
 - **Platforma:** Shoptet

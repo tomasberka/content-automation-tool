@@ -3,7 +3,7 @@
 * [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
 * [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
 * [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
-* [Herní PC do 25 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-25000/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
 * [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
 * [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
 * [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)

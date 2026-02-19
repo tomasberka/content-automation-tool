@@ -257,7 +257,7 @@ Majitelé **AMD Radeon** grafik mají k dispozici **AMD Software: Adrenalin Edit
 * **Zoom/Teams vestavěné nahrávání** – Nejjednodušší řešení
 * **ShareX** – Pro rychlé záznamy
 
-**Tip:** Pro home office a video konference doporučujeme <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">PC do 25 000 Kč</a> s kvalitní webkamerou a mikrofonem.
+**Tip:** Pro home office a video konference doporučujeme <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">PC do 20 000 Kč</a> s kvalitní webkamerou a mikrofonem.
 
 ---
 
@@ -354,7 +354,7 @@ Používejte overlay (MSI Afterburner, Rivatuner) pro sledování:
 * **RAM:** 16 GB
 * **Storage:** NVMe SSD 500 GB+
 
-**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a>
+**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">Herní PC do 20 000 Kč</a>
 
 ### High-end konfigurace (1440p/4K 60 FPS)
 

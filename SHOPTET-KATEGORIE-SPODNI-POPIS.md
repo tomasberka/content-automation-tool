@@ -17,16 +17,15 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 |----|-----------|--------|------|
 | 1  | Herní PC do 15 000 Kč | `herni-pocitac-do-15000-spodni-sekce.md` | ✅ Připraveno |
 | 2  | Herní PC do 20 000 Kč | `herni-pocitac-do-20000-spodni-sekce.md` | ✅ Připraveno |
-| 3  | Herní PC do 25 000 Kč | `herni-pocitac-do-25000-spodni-sekce.md` | ✅ Připraveno |
-| 4  | Herní PC do 30 000 Kč | `herni-pocitac-do-30000-spodni-sekce.md` | ✅ Připraveno |
-| 5  | Herní PC do 40 000 Kč | `herni-pocitac-do-40000-spodni-sekce.md` | ✅ Připraveno |
-| 6  | Herní PC do 60 000 Kč | `herni-pocitac-do-60000-spodni-sekce.md` | ✅ Připraveno |
-| 7  | Herní počítače (obecná) | `herni-pocitace-obecna-spodni-sekce.md` | ✅ Připraveno |
-| 8  | Repasované herní PC | `repasovane-herni-pc-spodni-sekce.md` | ✅ Připraveno |
-| 9  | Kancelářské počítače | `kancelarskе-pocitace.md` (spodní část) | ✅ Připraveno |
-| 10 | Pracovní stanice | `pracovni-stanice.md` (spodní část) | ✅ Připraveno |
-| 11 | PC bazar | `pc-bazar.md` (spodní část) | ✅ Připraveno |
-| 12 | PC skříně (PC case) | `pc-skrine--case.md` (spodní část) | ✅ Připraveno |
+| 3  | Herní PC do 30 000 Kč | `herni-pocitac-do-30000-spodni-sekce.md` | ✅ Připraveno |
+| 4  | Herní PC do 40 000 Kč | `herni-pocitac-do-40000-spodni-sekce.md` | ✅ Připraveno |
+| 5  | Herní PC do 60 000 Kč | `herni-pocitac-do-60000-spodni-sekce.md` | ✅ Připraveno |
+| 6  | Herní počítače (obecná) | `herni-pocitace-obecna-spodni-sekce.md` | ✅ Připraveno |
+| 7  | Repasované herní PC | `repasovane-herni-pc-spodni-sekce.md` | ✅ Připraveno |
+| 8  | Kancelářské počítače | `kancelarskе-pocitace.md` (spodní část) | ✅ Připraveno |
+| 9  | Pracovní stanice | `pracovni-stanice.md` (spodní část) | ✅ Připraveno |
+| 10 | PC bazar | `pc-bazar.md` (spodní část) | ✅ Připraveno |
+| 11 | PC skříně (PC case) | `pc-skrine--case.md` (spodní část) | ✅ Připraveno |
 
 **Celkem:** 12 kategorií připravených k nasazení
 
@@ -47,7 +46,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 * [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
 * [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
 * [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
-* [Herní PC do 25 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-25000/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
 * [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
 * [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
 * [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
@@ -79,7 +78,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 * [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
 * [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
 * [Herní PC do 15 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-15000/)
-* [Herní PC do 25 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-25000/)
+
 * [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
 * [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
 * [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
@@ -93,43 +92,12 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 ```
 
 **Poznámky:**
-- Odkazuje na sousední cenové hladiny (15k, 25k, 30k)
-- Obsahuje 14 interních odkazů
+- Odkazuje na sousední cenové hladiny (15k, 30k)
+- Obsahuje 13 odkazů
 
 ---
 
-### 3. Herní PC do 25 000 Kč
-
-**URL kategorie:** https://www.hellocomp.cz/herni-pocitace-do-25000/  
-**Soubor:** `herni-pocitac-do-25000-spodni-sekce.md`  
-**Typ:** Cenová kategorie - střední úroveň
-
-**Obsah spodního popisu:**
-```markdown
-## Související kategorie
-
-* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
-* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
-* [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
-* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
-* [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
-* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
-* [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
-* [Herní PC na splátky](https://www.hellocomp.cz/herni-pc-na-splatky/)
-* [Intel herní počítače](https://www.hellocomp.cz/herni-pc-s-intel/)
-* [AMD herní počítače](https://www.hellocomp.cz/herni-pc-s-amd/)
-* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
-* [Procesory](https://www.hellocomp.cz/procesory/)
-* [Monitory](https://www.hellocomp.cz/monitory/)
-```
-
-**Poznámky:**
-- Odkazuje na sousední cenové hladiny (20k, 30k)
-- Obsahuje 13 interních odkazů
-
----
-
-### 4. Herní PC do 30 000 Kč
+### 3. Herní PC do 30 000 Kč
 
 **URL kategorie:** https://www.hellocomp.cz/herni-pocitace-do-30000/  
 **Soubor:** `herni-pocitac-do-30000-spodni-sekce.md`  
@@ -141,7 +109,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 
 * [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
 * [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
-* [Herní PC do 25 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-25000/)
+* [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
 * [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
 * [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
 * [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
@@ -155,12 +123,12 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 ```
 
 **Poznámky:**
-- Odkazuje na sousední cenové hladiny (25k, 40k)
+- Odkazuje na sousední cenové hladiny (20k, 40k)
 - Obsahuje 13 interních odkazů
 
 ---
 
-### 5. Herní PC do 40 000 Kč
+### 4. Herní PC do 40 000 Kč
 
 **URL kategorie:** https://www.hellocomp.cz/herni-pocitace-do-40000/  
 **Soubor:** `herni-pocitac-do-40000-spodni-sekce.md`  
@@ -191,7 +159,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 
 ---
 
-### 6. Herní PC do 60 000 Kč
+### 5. Herní PC do 60 000 Kč
 
 **URL kategorie:** https://www.hellocomp.cz/herni-pocitace-do-60000/  
 **Soubor:** `herni-pocitac-do-60000-spodni-sekce.md`  
@@ -235,7 +203,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 * [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
 * [Herní PC do 15 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-15000/)
 * [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
-* [Herní PC do 25 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-25000/)
+
 * [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
 * [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
 * [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
@@ -273,7 +241,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 
 * [Herní PC do 15 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-15000/)
 * [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
-* [Herní PC do 25 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-25000/)
+
 * [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
 * [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
 * [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
@@ -374,7 +342,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 * [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
 * [Herní PC do 15 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-15000/)
 * [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
-* [Herní PC do 25 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-25000/)
+
 * [Výkup elektroniky a IT](https://www.hellocomp.cz/vykup-elektroniky-a-it/)
 * [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
 * [Procesory](https://www.hellocomp.cz/procesory/)
@@ -541,7 +509,7 @@ Všechny soubory se nachází v kořenovém adresáři:
 ```
 /herni-pocitac-do-15000-spodni-sekce.md
 /herni-pocitac-do-20000-spodni-sekce.md
-/herni-pocitac-do-25000-spodni-sekce.md
+
 /herni-pocitac-do-30000-spodni-sekce.md
 /herni-pocitac-do-40000-spodni-sekce.md
 /herni-pocitac-do-60000-spodni-sekce.md

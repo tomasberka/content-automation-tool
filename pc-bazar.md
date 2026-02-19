@@ -175,7 +175,7 @@ Každý **herní počítač bazar** od HelloComp je důkladně otestovaný, vyč
 * [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
 * [Herní PC do 15 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-15000/)
 * [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
-* [Herní PC do 25 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-25000/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
 * [Výkup elektroniky a IT](https://www.hellocomp.cz/vykup-elektroniky-a-it/)
 * [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
 * [Procesory](https://www.hellocomp.cz/procesory/)

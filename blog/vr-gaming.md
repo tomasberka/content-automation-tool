@@ -171,7 +171,7 @@ Apple Vision Pro nabízí nejlepší hardware na trhu, ale za astronomickou cenu
 * **RAM:** 16 GB
 * **USB:** USB 3.0 port (pro Link Cable) nebo Wi-Fi 6 (Air Link)
 
-**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a>
+**Doporučené PC:** <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">Herní PC do 30 000 Kč</a>
 
 ### Doporučená konfigurace (high detaily, plynulý zážitek)
 

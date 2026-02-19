@@ -204,7 +204,7 @@ Tyto hry jsou dobře optimalizované a běží i na slabších sestavách. Prior
 Tady už potřebujete výkon. Moderní AAA hry vyžadují silnou GPU a dostatek RAM.
 
 **Doporučené sestavy:**
-* <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">Herní PC do 25 000 Kč</a> – Full HD na vysoké detaily
+* <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">Herní PC do 20 000 Kč</a> – Full HD na vysoké detaily
 * <a href="https://www.hellocomp.cz/herni-pocitace-do-30000/">Herní PC do 30 000 Kč</a> – Full HD ultra / 1440p vysoké
 * <a href="https://www.hellocomp.cz/herni-pocitace-do-40000/">Herní PC do 40 000 Kč</a> – 1440p ultra s ray tracingem
 
@@ -285,7 +285,7 @@ I starší tituly z roku 2024 stále patří mezi **dobré hry na PC**:
 * **Tekken 8** – Nejlepší bojovka roku 2024
 * **Dragon's Dogma 2** – RPG s unikátní gameplay
 
-Tyto hry jsou dobře optimalizované a běží na <a href="https://www.hellocomp.cz/herni-pocitace-do-25000/">PC do 25 000 Kč</a> bez problémů.
+Tyto hry jsou dobře optimalizované a běží na <a href="https://www.hellocomp.cz/herni-pocitace-do-20000/">PC do 20 000 Kč</a> bez problémů.
 
 ---
 

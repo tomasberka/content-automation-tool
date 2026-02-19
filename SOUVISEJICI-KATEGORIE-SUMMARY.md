@@ -9,33 +9,29 @@ This document summarizes the implementation of "Související kategorie" (Relate
 All gaming PC category files follow a consistent format and link to adjacent price tiers without linking to themselves:
 
 1. **herni-pocitac-do-15000-spodni-sekce.md** - Gaming PCs up to 15,000 CZK
-   - Links to: 20k, 25k (adjacent higher tiers)
+   - Links to: 20k, 30k (adjacent higher tiers)
    - Context: Entry-level, e-sports, basic Full HD
 
 2. **herni-pocitac-do-20000-spodni-sekce.md** - Gaming PCs up to 20,000 CZK
-   - Links to: 15k, 25k, 30k (adjacent tiers)
+   - Links to: 15k, 30k (adjacent tiers)
    - Context: Mid-range, solid Full HD
 
-3. **herni-pocitac-do-25000-spodni-sekce.md** - Gaming PCs up to 25,000 CZK
-   - Links to: 20k, 30k (adjacent tiers)
-   - Context: Full HD ultra / entry 1440p
-
-4. **herni-pocitac-do-30000-spodni-sekce.md** - Gaming PCs up to 30,000 CZK
-   - Links to: 25k, 40k (adjacent tiers)
+3. **herni-pocitac-do-30000-spodni-sekce.md** - Gaming PCs up to 30,000 CZK
+   - Links to: 20k, 40k (adjacent tiers)
    - Context: Solid 1440p, modern AAA games
 
-5. **herni-pocitac-do-40000-spodni-sekce.md** - Gaming PCs up to 40,000 CZK
+4. **herni-pocitac-do-40000-spodni-sekce.md** - Gaming PCs up to 40,000 CZK
    - Links to: 30k, 60k (adjacent tiers)
    - Context: High-end 1440p, streaming
 
-6. **herni-pocitac-do-60000-spodni-sekce.md** - Gaming PCs up to 60,000 CZK
+5. **herni-pocitac-do-60000-spodni-sekce.md** - Gaming PCs up to 60,000 CZK
    - Links to: 40k (adjacent lower tier)
    - Context: 4K gaming, high-end, ultimate
 
 ### General Category Files
 
 7. **herni-pocitace-obecna-spodni-sekce.md** - General Gaming PCs category
-   - Links to: ALL price categories (15k, 20k, 25k, 30k, 40k, 60k)
+   - Links to: ALL price categories (15k, 20k, 30k, 40k, 60k)
    - Links to: Key subcategories
 
 ### Modified Existing Files
@@ -105,10 +101,9 @@ For the "Gaming PC up to 15,000 CZK" category page:
 
 | File Name | Category | Self-Link Check | Adjacent Links | Status |
 |-----------|----------|----------------|----------------|---------|
-| herni-pocitac-do-15000-spodni-sekce.md | Gaming PC ≤15k CZK | ✅ No self-link | 20k, 25k | ✅ Complete |
-| herni-pocitac-do-20000-spodni-sekce.md | Gaming PC ≤20k CZK | ✅ No self-link | 15k, 25k, 30k | ✅ Complete |
-| herni-pocitac-do-25000-spodni-sekce.md | Gaming PC ≤25k CZK | ✅ No self-link | 20k, 30k | ✅ Complete |
-| herni-pocitac-do-30000-spodni-sekce.md | Gaming PC ≤30k CZK | ✅ No self-link | 25k, 40k | ✅ Complete |
+| herni-pocitac-do-15000-spodni-sekce.md | Gaming PC ≤15k CZK | ✅ No self-link | 20k, 30k | ✅ Complete |
+| herni-pocitac-do-20000-spodni-sekce.md | Gaming PC ≤20k CZK | ✅ No self-link | 15k, 30k | ✅ Complete |
+| herni-pocitac-do-30000-spodni-sekce.md | Gaming PC ≤30k CZK | ✅ No self-link | 20k, 40k | ✅ Complete |
 | herni-pocitac-do-40000-spodni-sekce.md | Gaming PC ≤40k CZK | ✅ No self-link | 30k, 60k | ✅ Complete |
 | herni-pocitac-do-60000-spodni-sekce.md | Gaming PC ≤60k CZK | ✅ No self-link | 40k | ✅ Complete |
 | herni-pocitace-obecna-spodni-sekce.md | Gaming PCs (General) | ✅ No self-link | All price tiers | ✅ Complete |
