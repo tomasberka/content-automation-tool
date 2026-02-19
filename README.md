@@ -26,8 +26,10 @@ content-automation-tool/
 ├── README_GENERATOR.md             # 📖 Detailní dokumentace
 ├── requirements.txt                # 📦 Python závislosti
 └── docs/
-    ├── hellocomp-category-structure.md  # Struktura kategorií
-    └── seo-texty/                       # 32 SEO textů (hotovo)
+    ├── hellocomp-category-structure.md         # Struktura kategorií
+    ├── facebook-instagram-strategie-2026.md    # 📱 FB & IG Strategie
+    ├── social-media-quick-reference.md         # ⚡ Social Media Quick Ref
+    └── seo-texty/                              # 32 SEO textů (hotovo)
 ```
 
 ## ⚡ Quick Start
@@ -48,9 +50,14 @@ python category_template_generator.py input.md -o output.html -f html
 
 ## 📚 Dokumentace
 
+### Hlavní dokumentace
 - **[QUICKSTART.md](QUICKSTART.md)** - Rychlý start pro začátečníky
 - **[README_GENERATOR.md](README_GENERATOR.md)** - Kompletní dokumentace a API reference
 - **[example_integration.py](example_integration.py)** - Ukázky integrace do workflow
+
+### Social Media Strategie
+- **[Facebook & Instagram Strategie 2026](docs/facebook-instagram-strategie-2026.md)** - Kompletní strategie pro FB & IG včetně Master Research Promptu
+- **[Social Media Quick Reference](docs/social-media-quick-reference.md)** - Rychlá referenční příručka pro denní práci
 
 ## 🎯 Hlavní funkce
 
@@ -102,6 +109,23 @@ if not errors:
 - ✅ **Validační systém** funkční
 - ✅ **HTML/Markdown export** připraven
 - ✅ **Příklady a dokumentace** hotovo
+- ✅ **FB & IG Strategie 2026** - Kompletní social media plán
+
+## 📱 Social Media Management
+
+### Nová funkce: Facebook & Instagram Strategie
+
+Kompletní strategie pro správu sociálních sítí v režimu "One-Man Show":
+
+- 📋 **Analýza trendů** - Co funguje v gamingu na FB/IG (2025/2026)
+- 🎯 **Akční kroky** - Konkrétní strategie pro one-man team
+- 🤖 **Master Research Prompt** - AI-powered výzkum konkurence a trendů
+- 📅 **Content plánování** - Týdenní a měsíční plány
+- 📊 **Metriky a KPI** - Co sledovat a jak měřit úspěch
+
+**Dokumenty:**
+- [Facebook & Instagram Strategie 2026](docs/facebook-instagram-strategie-2026.md) - Detailní 10-sekční strategie
+- [Social Media Quick Reference](docs/social-media-quick-reference.md) - Denní checklist a rychlé šablony
 
 ## 🤝 Pro redaktory
 
