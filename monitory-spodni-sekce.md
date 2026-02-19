@@ -1,0 +1,17 @@
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Jak vybrat monitor](https://www.hellocomp.cz/blog/jak-vybrat-monitor/)
+* [Jak zapojit monitor](https://www.hellocomp.cz/blog/jak-zapojit-monitor/)
+* [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
+* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
+* [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
+* [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
+* [Intel herní počítače](https://www.hellocomp.cz/herni-pc-s-intel/)
+* [AMD herní počítače](https://www.hellocomp.cz/herni-pc-s-amd/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
+* [Kancelářské počítače](https://www.hellocomp.cz/kancelarske-pocitace/)
