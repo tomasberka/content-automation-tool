@@ -4,7 +4,14 @@
 
 Automatický nástroj pro tvorbu, validaci a správu SEO-optimalizovaného obsahu pro HelloComp.cz e-shop.
 
-> 🌟 **NOVÉ!** [Denní průvodce prací](DENNI-PRUVODCE-PRACI.md) - Kompletní průvodce pro SEO specialistu, content creatora, copywritera a správce sociálních sítí. Naučí tě jak být TOP člověk na svém místě!
+> 🌟 **NOVÉ!** Kompletní systém denních průvodců prací pro multi-role pozici!
+> 
+> **🚀 [START TADY: Quick Start Průvodce](QUICK-START-PRUVODCE.md)** - Začni zde, pokud jsi SEO specialist, content creator, copywriter nebo správce sociálních sítí!
+> 
+> Kompletní sada nástrojů:
+> - 📖 [Denní průvodce prací](DENNI-PRUVODCE-PRACI.md) - Hodina po hodině návod (1093 řádků)
+> - ✅ [Denní checklist](DENNI-CHECKLIST.md) - Tisknutelná verze (1 stránka)
+> - 📊 [Měsíční hodnocení](MESICNI-HODNOCENI.md) - Tracking pokroku a self-assessment
 
 ## 🚀 Co tento nástroj umí
 
@@ -65,8 +72,9 @@ python category_template_generator.py input.md -o output.html -f html
 - **[NAVOD-K-POUZITI.md](NAVOD-K-POUZITI.md)** - Návod k použití souvisejících kategorií
 
 ### Pracovní návody a strategie
-- **[DENNÍ PRŮVODCE PRACÍ](DENNI-PRUVODCE-PRACI.md)** - 🌟 **NOVÉ!** Kompletní denní průvodce pro SEO specialistu, content creatora, copywritera a správce sociálních sítí
-- **[DENNÍ CHECKLIST](DENNI-CHECKLIST.md)** - ⚡ Tisknutelná verze denního plánu (one-page)
+- **[🚀 QUICK START PRŮVODCE](QUICK-START-PRUVODCE.md)** - ⭐ **ZAČNI TADY!** První kroky pro nové uživatele
+- **[DENNÍ PRŮVODCE PRACÍ](DENNI-PRUVODCE-PRACI.md)** - 📖 Kompletní denní průvodce (1093 řádků) pro multi-role pozici
+- **[DENNÍ CHECKLIST](DENNI-CHECKLIST.md)** - ✅ Tisknutelná verze denního plánu (1 stránka)
 - **[MĚSÍČNÍ HODNOCENÍ](MESICNI-HODNOCENI.md)** - 📊 Template pro měsíční review a self-assessment
 - **[Facebook & Instagram Strategie 2026](docs/facebook-instagram-strategie-2026.md)** - Kompletní strategie pro FB & IG včetně Master Research Promptu
 - **[Social Media Quick Reference](docs/social-media-quick-reference.md)** - Rychlá referenční příručka pro denní práci
