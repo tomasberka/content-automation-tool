@@ -361,14 +361,10 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 ### 11. PC bazar
 
 **URL kategorie:** https://www.hellocomp.cz/pc-bazar/  
-**Soubor:** `pc-bazar.md` (pokud obsahuje spodní sekci)  
+**Soubor:** `pc-bazar.md` (využít spodní část dokumentu)  
 **Typ:** Specializovaná kategorie
 
-**Poznámky:**
-- Dokument obsahuje informace o výkupu a bazarových PC
-- Pokud nemá samostatnou sekci "Související kategorie", doporučujeme vytvořit podle vzoru ostatních kategorií
-
-**Doporučený spodní popis:**
+**Obsah spodního popisu (poslední sekce dokumentu):**
 ```markdown
 ## Související kategorie
 
@@ -376,31 +372,39 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 * [Repasované herní PC](https://www.hellocomp.cz/repasovane-herni-pc/)
 * [Kancelářské počítače](https://www.hellocomp.cz/kancelarske-pocitace/)
 * [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
-* [Výkup elektroniky](https://www.hellocomp.cz/vykup-elektroniky-a-it/)
+* [Herní PC do 15 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-15000/)
+* [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
+* [Herní PC do 25 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-25000/)
+* [Výkup elektroniky a IT](https://www.hellocomp.cz/vykup-elektroniky-a-it/)
 * [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
 * [Procesory](https://www.hellocomp.cz/procesory/)
+* [Operační paměti](https://www.hellocomp.cz/operacni-pameti/)
+* [Interní disky](https://www.hellocomp.cz/interni-disky/)
 * [PC komponenty](https://www.hellocomp.cz/pc-komponenty/)
 ```
+
+**Poznámky:**
+- Cross-sell na bazarové a cenově dostupné kategorie
+- Obsahuje 13 interních odkazů
+- Sekce přidána na konec dokumentu
 
 ---
 
 ### 12. PC skříně (PC case)
 
 **URL kategorie:** https://www.hellocomp.cz/pc-skrine--case/  
-**Soubor:** `pc-skrine--case.md` (pokud obsahuje spodní sekci)  
+**Soubor:** `pc-skrine--case.md` (využít spodní část dokumentu)  
 **Typ:** Komponentová kategorie
 
-**Poznámky:**
-- Dokument obsahuje kompletní popis kategorie PC skříní
-- Pokud nemá samostatnou sekci "Související kategorie", doporučujeme vytvořit
-
-**Doporučený spodní popis:**
+**Obsah spodního popisu (poslední sekce dokumentu):**
 ```markdown
 ## Související kategorie
 
 * [PC komponenty](https://www.hellocomp.cz/pc-komponenty/)
 * [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
 * [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
+* [Kancelářské počítače](https://www.hellocomp.cz/kancelarske-pocitace/)
+* [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
 * [Základní desky](https://www.hellocomp.cz/zakladni-desky/)
 * [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
 * [Procesory](https://www.hellocomp.cz/procesory/)
@@ -408,6 +412,11 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 * [Zdroje do PC](https://www.hellocomp.cz/zdroje-do-pc/)
 * [Chlazení PC](https://www.hellocomp.cz/chlazeni-pc/)
 ```
+
+**Poznámky:**
+- Cross-sell na PC sestavy a související komponenty
+- Obsahuje 11 interních odkazů
+- Sekce přidána na konec dokumentu
 
 ---
 
