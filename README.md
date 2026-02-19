@@ -66,6 +66,8 @@ python category_template_generator.py input.md -o output.html -f html
 
 ### Pracovní návody a strategie
 - **[DENNÍ PRŮVODCE PRACÍ](DENNI-PRUVODCE-PRACI.md)** - 🌟 **NOVÉ!** Kompletní denní průvodce pro SEO specialistu, content creatora, copywritera a správce sociálních sítí
+- **[DENNÍ CHECKLIST](DENNI-CHECKLIST.md)** - ⚡ Tisknutelná verze denního plánu (one-page)
+- **[MĚSÍČNÍ HODNOCENÍ](MESICNI-HODNOCENI.md)** - 📊 Template pro měsíční review a self-assessment
 - **[Facebook & Instagram Strategie 2026](docs/facebook-instagram-strategie-2026.md)** - Kompletní strategie pro FB & IG včetně Master Research Promptu
 - **[Social Media Quick Reference](docs/social-media-quick-reference.md)** - Rychlá referenční příručka pro denní práci
 
