@@ -22,12 +22,22 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 | 5  | Herní PC do 60 000 Kč | `herni-pocitac-do-60000-spodni-sekce.md` | ✅ Připraveno |
 | 6  | Herní počítače (obecná) | `herni-pocitace-obecna-spodni-sekce.md` | ✅ Připraveno |
 | 7  | Repasované herní PC | `repasovane-herni-pc-spodni-sekce.md` | ✅ Připraveno |
-| 8  | Kancelářské počítače | `kancelarskе-pocitace.md` (spodní část) | ✅ Připraveno |
-| 9  | Pracovní stanice | `pracovni-stanice.md` (spodní část) | ✅ Připraveno |
-| 10 | PC bazar | `pc-bazar.md` (spodní část) | ✅ Připraveno |
-| 11 | PC skříně (PC case) | `pc-skrine--case.md` (spodní část) | ✅ Připraveno |
+| 8  | Jak vybrat herní PC | `jak-vybrat-herni-pc-spodni-sekce.md` | ✅ Připraveno |
+| 9  | Nejlepší herní PC | `nejlepsi-herni-pc-spodni-sekce.md` | ✅ Připraveno |
+| 10 | Výkonné herní PC | `vykonne-herni-pc-spodni-sekce.md` | ✅ Připraveno |
+| 11 | Herní PC na míru | `herni-pc-na-miru-spodni-sekce.md` | ✅ Připraveno |
+| 12 | Herní PC na splátky | `herni-pc-na-splatky-spodni-sekce.md` | ✅ Připraveno |
+| 13 | Intel herní počítače | `intel-herni-pc-spodni-sekce.md` | ✅ Připraveno |
+| 14 | AMD herní počítače | `amd-herni-pc-spodni-sekce.md` | ✅ Připraveno |
+| 15 | Grafické karty | `graficke-karty-spodni-sekce.md` | ✅ Připraveno |
+| 16 | Procesory | `procesory-spodni-sekce.md` | ✅ Připraveno |
+| 17 | Monitory | `monitory-spodni-sekce.md` | ✅ Připraveno |
+| 18 | Kancelářské počítače | `kancelarskе-pocitace.md` (spodní část) | ✅ Připraveno |
+| 19 | Pracovní stanice | `pracovni-stanice.md` (spodní část) | ✅ Připraveno |
+| 20 | PC bazar | `pc-bazar.md` (spodní část) | ✅ Připraveno |
+| 21 | PC skříně (PC case) | `pc-skrine--case.md` (spodní část) | ✅ Připraveno |
 
-**Celkem:** 12 kategorií připravených k nasazení
+**Celkem:** 21 kategorií připravených k nasazení
 
 ---
 
@@ -261,7 +271,338 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 
 ---
 
-### 9. Kancelářské počítače
+### 9. Jak vybrat herní PC
+
+**URL kategorie:** https://www.hellocomp.cz/jak-si-vybrat-herni-pc/  
+**Soubor:** `jak-vybrat-herni-pc-spodni-sekce.md`  
+**Typ:** Informační/průvodcovská stránka
+
+**Obsah spodního popisu:**
+```markdown
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
+* [Herní PC do 15 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-15000/)
+* [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
+* [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
+* [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
+* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+* [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
+* [Herní PC na splátky](https://www.hellocomp.cz/herni-pc-na-splatky/)
+* [Intel herní počítače](https://www.hellocomp.cz/herni-pc-s-intel/)
+* [AMD herní počítače](https://www.hellocomp.cz/herni-pc-s-amd/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Monitory](https://www.hellocomp.cz/monitory/)
+```
+
+**Poznámky:**
+- Průvodce pro výběr herního PC
+- Obsahuje 15 interních odkazů
+- Důležitá informační stránka pro SEO
+
+---
+
+### 10. Nejlepší herní PC
+
+**URL kategorie:** https://www.hellocomp.cz/nejlepsi-herni-pc/  
+**Soubor:** `nejlepsi-herni-pc-spodni-sekce.md`  
+**Typ:** Prémiová produktová kategorie
+
+**Obsah spodního popisu:**
+```markdown
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
+* [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
+* [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
+* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+* [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
+* [Herní PC na splátky](https://www.hellocomp.cz/herni-pc-na-splatky/)
+* [Intel herní počítače](https://www.hellocomp.cz/herni-pc-s-intel/)
+* [AMD herní počítače](https://www.hellocomp.cz/herni-pc-s-amd/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Monitory](https://www.hellocomp.cz/monitory/)
+```
+
+**Poznámky:**
+- Zaměřeno na top-tier produkty
+- Obsahuje 12 interních odkazů
+- Neodkazuje na sebe sama
+
+---
+
+### 11. Výkonné herní PC
+
+**URL kategorie:** https://www.hellocomp.cz/vykonne-herni-pocitace/  
+**Soubor:** `vykonne-herni-pc-spodni-sekce.md`  
+**Typ:** High-end produktová kategorie
+
+**Obsah spodního popisu:**
+```markdown
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
+* [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
+* [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
+* [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
+* [Herní PC na splátky](https://www.hellocomp.cz/herni-pc-na-splatky/)
+* [Intel herní počítače](https://www.hellocomp.cz/herni-pc-s-intel/)
+* [AMD herní počítače](https://www.hellocomp.cz/herni-pc-s-amd/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Monitory](https://www.hellocomp.cz/monitory/)
+```
+
+**Poznámky:**
+- High-end gaming PC
+- Obsahuje 12 interních odkazů
+- Cross-sell na pracovní stanice přidán pro profesionální uživatele
+
+---
+
+### 12. Herní PC na míru
+
+**URL kategorie:** https://www.hellocomp.cz/herni-pc-na-miru/  
+**Soubor:** `herni-pc-na-miru-spodni-sekce.md`  
+**Typ:** Konfigurátor/custom build kategorie
+
+**Obsah spodního popisu:**
+```markdown
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
+* [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
+* [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
+* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+* [Herní PC na splátky](https://www.hellocomp.cz/herni-pc-na-splatky/)
+* [Intel herní počítače](https://www.hellocomp.cz/herni-pc-s-intel/)
+* [AMD herní počítače](https://www.hellocomp.cz/herni-pc-s-amd/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Monitory](https://www.hellocomp.cz/monitory/)
+* [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
+```
+
+**Poznámky:**
+- Konfigurátor pro custom sestavy
+- Obsahuje 13 interních odkazů
+- Cross-sell i na pracovní stanice
+
+---
+
+### 13. Herní PC na splátky
+
+**URL kategorie:** https://www.hellocomp.cz/herni-pc-na-splatky/  
+**Soubor:** `herni-pc-na-splatky-spodni-sekce.md`  
+**Typ:** Finanční/prodejní kategorie
+
+**Obsah spodního popisu:**
+```markdown
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
+* [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
+* [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
+* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+* [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
+* [Intel herní počítače](https://www.hellocomp.cz/herni-pc-s-intel/)
+* [AMD herní počítače](https://www.hellocomp.cz/herni-pc-s-amd/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Monitory](https://www.hellocomp.cz/monitory/)
+```
+
+**Poznámky:**
+- Zaměřeno na financování
+- Obsahuje 12 interních odkazů
+- Důležité pro konverzi
+
+---
+
+### 14. Intel herní počítače
+
+**URL kategorie:** https://www.hellocomp.cz/herni-pc-s-intel/  
+**Soubor:** `intel-herni-pc-spodni-sekce.md`  
+**Typ:** Brandová/procesorová kategorie
+
+**Obsah spodního popisu:**
+```markdown
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
+* [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
+* [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
+* [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
+* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+* [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
+* [Herní PC na splátky](https://www.hellocomp.cz/herni-pc-na-splatky/)
+* [AMD herní počítače](https://www.hellocomp.cz/herni-pc-s-amd/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Monitory](https://www.hellocomp.cz/monitory/)
+```
+
+**Poznámky:**
+- Intel-specifická kategorie
+- Obsahuje 13 interních odkazů
+- Neodkazuje na sebe, ale odkazuje na AMD (alternativa)
+
+---
+
+### 15. AMD herní počítače
+
+**URL kategorie:** https://www.hellocomp.cz/herni-pc-s-amd/  
+**Soubor:** `amd-herni-pc-spodni-sekce.md`  
+**Typ:** Brandová/procesorová kategorie
+
+**Obsah spodního popisu:**
+```markdown
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
+* [Herní PC do 20 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-20000/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
+* [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
+* [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
+* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+* [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
+* [Herní PC na splátky](https://www.hellocomp.cz/herni-pc-na-splatky/)
+* [Intel herní počítače](https://www.hellocomp.cz/herni-pc-s-intel/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Monitory](https://www.hellocomp.cz/monitory/)
+```
+
+**Poznámky:**
+- AMD-specifická kategorie
+- Obsahuje 13 interních odkazů
+- Neodkazuje na sebe, ale odkazuje na Intel (alternativa)
+
+---
+
+### 16. Grafické karty
+
+**URL kategorie:** https://www.hellocomp.cz/graficke-karty-do-pc/  
+**Soubor:** `graficke-karty-spodni-sekce.md`  
+**Typ:** Komponentová kategorie
+
+**Obsah spodního popisu:**
+```markdown
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Jak vybrat grafickou kartu](https://www.hellocomp.cz/blog/jak-vybrat-grafickou-kartu/)
+* [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
+* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
+* [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
+* [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
+* [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
+* [Intel herní počítače](https://www.hellocomp.cz/herni-pc-s-intel/)
+* [AMD herní počítače](https://www.hellocomp.cz/herni-pc-s-amd/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Monitory](https://www.hellocomp.cz/monitory/)
+* [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
+```
+
+**Poznámky:**
+- Komponenty - grafické karty
+- Obsahuje 13 interních odkazů
+- Zahrnuje odkaz na průvodce výběrem GPU
+- Cross-sell na pracovní stanice
+
+---
+
+### 17. Procesory
+
+**URL kategorie:** https://www.hellocomp.cz/procesory/  
+**Soubor:** `procesory-spodni-sekce.md`  
+**Typ:** Komponentová kategorie
+
+**Obsah spodního popisu:**
+```markdown
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Jak vybrat procesor](https://www.hellocomp.cz/blog/jak-vybrat-procesor/)
+* [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
+* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
+* [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
+* [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
+* [Herní PC na míru](https://www.hellocomp.cz/herni-pc-na-miru/)
+* [Intel herní počítače](https://www.hellocomp.cz/herni-pc-s-intel/)
+* [AMD herní počítače](https://www.hellocomp.cz/herni-pc-s-amd/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
+* [Kancelářské počítače](https://www.hellocomp.cz/kancelarske-pocitace/)
+```
+
+**Poznámky:**
+- Komponenty - procesory
+- Obsahuje 13 interních odkazů
+- Zahrnuje odkaz na průvodce výběrem CPU
+- Cross-sell na pracovní stanice i kancelářské PC
+
+---
+
+### 18. Monitory
+
+**URL kategorie:** https://www.hellocomp.cz/monitory/  
+**Soubor:** `monitory-spodni-sekce.md`  
+**Typ:** Periferní kategorie
+
+**Obsah spodního popisu:**
+```markdown
+## Související kategorie
+
+* [Herní počítače](https://www.hellocomp.cz/herni-pocitace--gaming/)
+* [Jak vybrat herní PC](https://www.hellocomp.cz/jak-si-vybrat-herni-pc/)
+* [Jak vybrat monitor](https://www.hellocomp.cz/blog/jak-vybrat-monitor/)
+* [Jak zapojit monitor](https://www.hellocomp.cz/blog/jak-zapojit-monitor/)
+* [Nejlepší herní PC](https://www.hellocomp.cz/nejlepsi-herni-pc/)
+* [Výkonné herní PC](https://www.hellocomp.cz/vykonne-herni-pocitace/)
+* [Herní PC do 30 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-30000/)
+* [Herní PC do 40 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-40000/)
+* [Herní PC do 60 000 Kč](https://www.hellocomp.cz/herni-pocitace-do-60000/)
+* [Intel herní počítače](https://www.hellocomp.cz/herni-pc-s-intel/)
+* [AMD herní počítače](https://www.hellocomp.cz/herni-pc-s-amd/)
+* [Grafické karty](https://www.hellocomp.cz/graficke-karty-do-pc/)
+* [Procesory](https://www.hellocomp.cz/procesory/)
+* [Pracovní stanice](https://www.hellocomp.cz/pracovni-stanice--workstation-pc/)
+* [Kancelářské počítače](https://www.hellocomp.cz/kancelarske-pocitace/)
+```
+
+**Poznámky:**
+- Periférie - monitory
+- Obsahuje 14 interních odkazů
+- Zahrnuje odkazy na průvodce výběrem a zapojením monitoru
+- Cross-sell na všechny typy PC
+
+---
+
+### 19. Kancelářské počítače
 
 **URL kategorie:** https://www.hellocomp.cz/kancelarske-pocitace/  
 **Soubor:** `kancelarskе-pocitace.md` (využít spodní část dokumentu)  
@@ -293,7 +634,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 
 ---
 
-### 10. Pracovní stanice
+### 20. Pracovní stanice
 
 **URL kategorie:** https://www.hellocomp.cz/pracovni-stanice--workstation-pc/  
 **Soubor:** `pracovni-stanice.md` (využít spodní část dokumentu)  
@@ -326,7 +667,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 
 ---
 
-### 11. PC bazar
+### 21. PC bazar
 
 **URL kategorie:** https://www.hellocomp.cz/pc-bazar/  
 **Soubor:** `pc-bazar.md` (využít spodní část dokumentu)  
@@ -358,7 +699,7 @@ Tento dokument obsahuje **kompletní přehled všech spodních popisů kategori�
 
 ---
 
-### 12. PC skříně (PC case)
+### 22. PC skříně (PC case)
 
 **URL kategorie:** https://www.hellocomp.cz/pc-skrine--case/  
 **Soubor:** `pc-skrine--case.md` (využít spodní část dokumentu)  

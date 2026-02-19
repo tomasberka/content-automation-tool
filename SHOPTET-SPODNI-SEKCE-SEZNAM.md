@@ -47,17 +47,71 @@ Tento dokument obsahuje přehled všech souborů se spodními sekcemi kategorií
 - **URL:** https://www.hellocomp.cz/repasovane-herni-pc/
 - **Obsah:** Související kategorie (16 odkazů)
 
+### 9. Jak vybrat herní PC
+- **Soubor:** `jak-vybrat-herni-pc-spodni-sekce.md`
+- **URL:** https://www.hellocomp.cz/jak-si-vybrat-herni-pc/
+- **Obsah:** Související kategorie (15 odkazů)
+
+### 10. Nejlepší herní PC
+- **Soubor:** `nejlepsi-herni-pc-spodni-sekce.md`
+- **URL:** https://www.hellocomp.cz/nejlepsi-herni-pc/
+- **Obsah:** Související kategorie (12 odkazů)
+
+### 11. Výkonné herní PC
+- **Soubor:** `vykonne-herni-pc-spodni-sekce.md`
+- **URL:** https://www.hellocomp.cz/vykonne-herni-pocitace/
+- **Obsah:** Související kategorie (13 odkazů)
+
+### 12. Herní PC na míru
+- **Soubor:** `herni-pc-na-miru-spodni-sekce.md`
+- **URL:** https://www.hellocomp.cz/herni-pc-na-miru/
+- **Obsah:** Související kategorie (13 odkazů)
+
+### 13. Herní PC na splátky
+- **Soubor:** `herni-pc-na-splatky-spodni-sekce.md`
+- **URL:** https://www.hellocomp.cz/herni-pc-na-splatky/
+- **Obsah:** Související kategorie (12 odkazů)
+
+### 14. Intel herní počítače
+- **Soubor:** `intel-herni-pc-spodni-sekce.md`
+- **URL:** https://www.hellocomp.cz/herni-pc-s-intel/
+- **Obsah:** Související kategorie (13 odkazů)
+
+### 15. AMD herní počítače
+- **Soubor:** `amd-herni-pc-spodni-sekce.md`
+- **URL:** https://www.hellocomp.cz/herni-pc-s-amd/
+- **Obsah:** Související kategorie (13 odkazů)
+
+---
+
+## Komponenty
+
+### 16. Grafické karty
+- **Soubor:** `graficke-karty-spodni-sekce.md`
+- **URL:** https://www.hellocomp.cz/graficke-karty-do-pc/
+- **Obsah:** Související kategorie (13 odkazů)
+
+### 17. Procesory
+- **Soubor:** `procesory-spodni-sekce.md`
+- **URL:** https://www.hellocomp.cz/procesory/
+- **Obsah:** Související kategorie (13 odkazů)
+
+### 18. Monitory
+- **Soubor:** `monitory-spodni-sekce.md`
+- **URL:** https://www.hellocomp.cz/monitory/
+- **Obsah:** Související kategorie (14 odkazů)
+
 ---
 
 ## Pracovní počítače
 
-### 9. Kancelářské počítače
+### 19. Kancelářské počítače
 - **Soubor:** `kancelarskе-pocitace.md` **(použít spodní část)**
 - **URL:** https://www.hellocomp.cz/kancelarske-pocitace/
 - **Obsah:** Související kategorie na konci dokumentu (13 odkazů)
 - **Poznámka:** Využít pouze sekci "Související kategorie" z konce souboru
 
-### 10. Pracovní stanice
+### 20. Pracovní stanice
 - **Soubor:** `pracovni-stanice.md` **(použít spodní část)**
 - **URL:** https://www.hellocomp.cz/pracovni-stanice--workstation-pc/
 - **Obsah:** Související kategorie na konci dokumentu (14 odkazů)
@@ -67,13 +121,13 @@ Tento dokument obsahuje přehled všech souborů se spodními sekcemi kategorií
 
 ## Ostatní kategorie
 
-### 11. PC bazar
+### 21. PC bazar
 - **Soubor:** `pc-bazar.md` **(použít spodní část)**
 - **URL:** https://www.hellocomp.cz/pc-bazar/
 - **Obsah:** Související kategorie na konci dokumentu (13 odkazů)
 - **Poznámka:** Využít pouze sekci "Související kategorie" z konce souboru
 
-### 12. PC skříně (PC case)
+### 22. PC skříně (PC case)
 - **Soubor:** `pc-skrine--case.md` **(použít spodní část)**
 - **URL:** https://www.hellocomp.cz/pc-skrine--case/
 - **Obsah:** Související kategorie na konci dokumentu (11 odkazů)
@@ -100,8 +154,8 @@ Pro podrobný návod s HTML příklady, kontrolním seznamem a kompletním popis
 
 ## ✅ Status
 
-- **Připraveno:** 11 kategorií
-- **Celkem odkazů:** ~140 interních odkazů
+- **Připraveno:** 22 kategorií
+- **Celkem odkazů:** ~280+ interních odkazů
 - **Formát:** Markdown (připraveno k převodu do HTML)
 - **Jazyk:** Čeština
 - **Platforma:** Shoptet
