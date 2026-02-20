@@ -258,3 +258,10 @@ Výstup: Konkrétní data, ne teorie.
 **Poslední update:** 2026-02-19  
 **Verze:** 1.0  
 **Next Review:** Každý měsíc
+
+---
+
+## 🔗 Související dokumenty
+
+- [FB & IG Strategie 2026](facebook-instagram-strategie-2026.md) – Kompletní strategie a kontext
+- [🗓️ 30denní plán příspěvků + AI prompty](social-media-content-plan-gaming-pc.md) – Konkrétní obsahový kalendář s AI prompty
