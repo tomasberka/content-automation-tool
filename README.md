@@ -53,6 +53,7 @@ content-automation-tool/
     ├── hellocomp-category-structure.md         # Struktura kategorií
     ├── facebook-instagram-strategie-2026.md    # 📱 FB & IG Strategie
     ├── social-media-quick-reference.md         # ⚡ Social Media Quick Ref
+    ├── social-media-content-plan-gaming-pc.md  # 🗓️ 30denní obsahový kalendář + AI prompty
     └── seo-texty/                              # 32 SEO textů (hotovo)
 ```
 
@@ -91,6 +92,7 @@ python category_template_generator.py input.md -o output.html -f html
 - **[MĚSÍČNÍ HODNOCENÍ](MESICNI-HODNOCENI.md)** - 📊 Template pro měsíční review a self-assessment
 - **[Facebook & Instagram Strategie 2026](docs/facebook-instagram-strategie-2026.md)** - Kompletní strategie pro FB & IG včetně Master Research Promptu
 - **[Social Media Quick Reference](docs/social-media-quick-reference.md)** - Rychlá referenční příručka pro denní práci
+- **[🗓️ 30denní obsahový kalendář + AI prompty](docs/social-media-content-plan-gaming-pc.md)** - ⭐ **Konkrétní plán příspěvků** pro gaming PC obsah s hotovými AI prompty pro generování textů
 
 ## 🎯 Hlavní funkce
 
