@@ -78,8 +78,16 @@ output_formats:
   - html
   - markdown
 
+# HTML structure requirements
+html_structure:
+  must_start_with_p: true  # Content must start with <p> tag
+  description: "Backend creates buttons and sliding blocks after first <p> tag"
+  allowed_first_tags:
+    - p  # Paragraph - required first tag
+
 # Validation levels
 validation:
   strict: true  # Enforce all rules strictly
   warn_on_missing: true  # Warn when optional sections are missing
   error_on_required: true  # Error when required sections are missing
+  validate_html_structure: true  # Validate HTML tag structure
