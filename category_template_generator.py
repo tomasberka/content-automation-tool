@@ -24,6 +24,7 @@ from enum import Enum
 class OutputFormat(Enum):
     """Podporované výstupní formáty"""
     HTML = "html"
+    HTML_FRAGMENT = "html_fragment"
     MARKDOWN = "markdown"
 
 
@@ -86,6 +87,7 @@ class ContentParser:
     def parse_markdown(content: str) -> CategoryContent:
         """
         Parsuje Markdown obsah do strukturované podoby
+        Podporuje čistý Markdown i HTML obsah v Markdown souborech
         
         Args:
             content: Markdown text kategorie
@@ -105,78 +107,113 @@ class ContentParser:
         if meta_match:
             parsed.meta_description = meta_match.group(1).strip()
         
-        # Parsování H1 (## nadpis)
-        h1_match = re.search(r'^##\s+(.+?)$', content, re.MULTILINE)
-        if h1_match:
-            parsed.h1 = h1_match.group(1).strip()
-            
-            # Úvodní text je první odstavec po H1
-            h1_pos = h1_match.end()
-            next_h2_match = re.search(r'^##\s+', content[h1_pos:], re.MULTILINE)
-            if next_h2_match:
-                intro_text = content[h1_pos:h1_pos + next_h2_match.start()].strip()
-            else:
-                intro_text = content[h1_pos:].strip()
-            
-            # Odstranit prázdné řádky a vzít první odstavec
-            intro_paragraphs = [p.strip() for p in intro_text.split('\n\n') if p.strip()]
-            if intro_paragraphs:
-                parsed.introduction = intro_paragraphs[0]
+        # Zkontrolovat, zda obsah obsahuje HTML strukturu (h2, p tagy)
+        has_html_structure = ('<h2' in content.lower() or '<p>' in content)
         
-        # Parsování H2 sekcí
-        h2_pattern = re.compile(r'^##\s+(.+?)$', re.MULTILINE)
-        h2_matches = list(h2_pattern.finditer(content))
-        
-        for i, match in enumerate(h2_matches[1:], 1):  # Skip first H1
-            heading = match.group(1).strip()
-            start = match.end()
-            end = h2_matches[i + 1].start() if i < len(h2_matches) - 1 else len(content)
-            section_content = content[start:end].strip()
+        if has_html_structure:
+            # Obsah má HTML strukturu - použít HTML parser pro zbytek
+            # Najít začátek HTML obsahu (po metadata)
+            html_start = 0
+            if meta_match:
+                html_start = meta_match.end()
+            elif title_match:
+                html_start = title_match.end()
             
-            parsed.h2_sections.append(ContentSection(
-                type='h2',
-                heading=heading,
-                content=section_content
-            ))
+            html_content = content[html_start:].strip()
+            
+            # Použít parse_html_fragment pro zbytek
+            html_parsed = ContentParser.parse_html_fragment(html_content)
+            parsed.h1 = html_parsed.h1
+            parsed.introduction = html_parsed.introduction
+            parsed.h2_sections = html_parsed.h2_sections
+            
+        else:
+            # Čistý Markdown - parsovat běžným způsobem
+            # Parsování H1 (## nadpis)
+            h1_match = re.search(r'^##\s+(.+?)$', content, re.MULTILINE)
+            if h1_match:
+                parsed.h1 = h1_match.group(1).strip()
+                
+                # Úvodní text je první odstavec po H1
+                h1_pos = h1_match.end()
+                next_h2_match = re.search(r'^##\s+', content[h1_pos:], re.MULTILINE)
+                if next_h2_match:
+                    intro_text = content[h1_pos:h1_pos + next_h2_match.start()].strip()
+                else:
+                    intro_text = content[h1_pos:].strip()
+                
+                # Odstranit prázdné řádky a vzít první odstavec
+                intro_paragraphs = [p.strip() for p in intro_text.split('\n\n') if p.strip()]
+                if intro_paragraphs:
+                    parsed.introduction = intro_paragraphs[0]
+            
+            # Parsování H2 sekcí
+            h2_pattern = re.compile(r'^##\s+(.+?)$', re.MULTILINE)
+            h2_matches = list(h2_pattern.finditer(content))
+            
+            for i, match in enumerate(h2_matches[1:], 1):  # Skip first H1
+                heading = match.group(1).strip()
+                start = match.end()
+                end = h2_matches[i + 1].start() if i < len(h2_matches) - 1 else len(content)
+                section_content = content[start:end].strip()
+                
+                parsed.h2_sections.append(ContentSection(
+                    type='h2',
+                    heading=heading,
+                    content=section_content
+                ))
         
         return parsed
     
     @staticmethod
-    def extract_html_content(content: str) -> CategoryContent:
+    def parse_html_fragment(content: str) -> CategoryContent:
         """
-        Extrahuje obsah z HTML
+        Parsuje HTML fragment (obsah bez <html>, <head>, <body> struktury)
         
         Args:
-            content: HTML text kategorie
+            content: HTML fragment s kategoriálním obsahem
             
         Returns:
-            CategoryContent objekt
+            CategoryContent objekt se strukturovaným obsahem
         """
         parsed = CategoryContent(raw_content=content)
         
-        # Základní HTML parsing
-        title_match = re.search(r'<title>(.+?)</title>', content, re.IGNORECASE)
-        if title_match:
-            parsed.title = title_match.group(1).strip()
+        # Pro fragmenty předpokládáme, že první paragraf(y) před H2 je úvod
+        first_h2_match = re.search(r'<h2[^>]*>', content, re.IGNORECASE)
         
-        meta_match = re.search(r'<meta\s+name=["\']description["\']\s+content=["\'](.+?)["\']', 
-                              content, re.IGNORECASE)
-        if meta_match:
-            parsed.meta_description = meta_match.group(1).strip()
+        if first_h2_match:
+            intro_html = content[:first_h2_match.start()].strip()
+            parsed.introduction = intro_html
+            
+            # Parsovat zbytek od prvního H2
+            remaining_content = content[first_h2_match.start():]
+        else:
+            # Žádné H2, celý obsah je úvod
+            parsed.introduction = content.strip()
+            remaining_content = ""
         
-        h1_match = re.search(r'<h1[^>]*>(.+?)</h1>', content, re.IGNORECASE | re.DOTALL)
-        if h1_match:
-            parsed.h1 = re.sub(r'<[^>]+>', '', h1_match.group(1)).strip()
-        
-        # H2 sekce
-        h2_pattern = re.compile(r'<h2[^>]*>(.+?)</h2>', re.IGNORECASE | re.DOTALL)
-        for match in h2_pattern.finditer(content):
-            heading = re.sub(r'<[^>]+>', '', match.group(1)).strip()
-            parsed.h2_sections.append(ContentSection(
-                type='h2',
-                heading=heading,
-                content=""
-            ))
+        # H2 sekce s obsahem
+        if remaining_content:
+            h2_pattern = re.compile(r'<h2[^>]*>(.+?)</h2>', re.IGNORECASE | re.DOTALL)
+            h2_matches = list(h2_pattern.finditer(remaining_content))
+            
+            for i, match in enumerate(h2_matches):
+                heading = re.sub(r'<[^>]+>', '', match.group(1)).strip()
+                
+                # Extrahovat obsah mezi tímto H2 a dalším H2 (nebo koncem)
+                start = match.end()
+                if i + 1 < len(h2_matches):
+                    end = h2_matches[i + 1].start()
+                else:
+                    end = len(remaining_content)
+                
+                section_content = remaining_content[start:end].strip()
+                
+                parsed.h2_sections.append(ContentSection(
+                    type='h2',
+                    heading=heading,
+                    content=section_content
+                ))
         
         return parsed
 
@@ -355,6 +392,18 @@ class ContentValidator:
 class ContentFormatter:
     """Formátování obsahu do různých výstupních formátů"""
     
+    # Strukturální HTML tagy používané pro detekci HTML obsahu
+    STRUCTURAL_HTML_TAGS = [
+        '<p>', '<p ', '</p>', 
+        '<ul>', '<ul ', '</ul>', 
+        '<ol>', '<ol ', '</ol>', 
+        '<li>', '<li ', '</li>', 
+        '<h2>', '<h2 ', '</h2>', 
+        '<h3>', '<h3 ', '</h3>',
+        '<div>', '<div ', '</div>', 
+        '<section>', '<section ', '</section>'
+    ]
+    
     @staticmethod
     def to_html(content: CategoryContent) -> str:
         """
@@ -384,7 +433,12 @@ class ContentFormatter:
             html_parts.append(f'        <h1>{ContentFormatter._escape_html(content.h1)}</h1>')
         
         if content.introduction:
-            html_parts.append(f'        <p class="introduction">{ContentFormatter._format_html_content(content.introduction)}</p>')
+            intro_html = ContentFormatter._format_html_content(content.introduction)
+            # Pokud intro už má strukturované HTML, nepřidávat další wrapping
+            if ContentFormatter._has_structural_html(intro_html):
+                html_parts.append(f'        {intro_html}')
+            else:
+                html_parts.append(f'        <p class="introduction">{intro_html}</p>')
         
         for section in content.h2_sections:
             html_parts.append(f'        <section class="content-section">')
@@ -398,6 +452,34 @@ class ContentFormatter:
         html_parts.append('    </article>')
         html_parts.append('</body>')
         html_parts.append('</html>')
+        
+        return '\n'.join(html_parts)
+    
+    @staticmethod
+    def to_html_fragment(content: CategoryContent) -> str:
+        """
+        Převede obsah do HTML fragmentu (bez <html>, <head>, <body> struktury)
+        Tento formát je vhodný pro vložení do CMS nebo jako součást stránky.
+        
+        Args:
+            content: Strukturovaný obsah
+            
+        Returns:
+            HTML fragment string
+        """
+        html_parts = []
+        
+        # Úvodní text
+        if content.introduction:
+            intro_html = ContentFormatter._format_html_content(content.introduction)
+            html_parts.append(intro_html)
+        
+        # H2 sekce
+        for section in content.h2_sections:
+            if section.heading:
+                html_parts.append(f'<h2>{section.heading}</h2>')
+            section_html = ContentFormatter._format_html_content(section.content)
+            html_parts.append(section_html)
         
         return '\n'.join(html_parts)
     
@@ -451,13 +533,42 @@ class ContentFormatter:
                    .replace("'", '&#39;'))
     
     @staticmethod
+    def _convert_inline_markdown(text: str) -> str:
+        """
+        Převede inline Markdown formátování na HTML
+        (bold, italic, odkazy)
+        """
+        # Bold **text** nebo __text__ -> <strong>text</strong>
+        # Musí být před italic, aby se nezpracovaly jednotlivé * z **
+        text = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
+        text = re.sub(r'__(.+?)__', r'<strong>\1</strong>', text)
+        
+        # Italic *text* nebo _text_ -> <em>text</em>
+        # Nepoužívat na již zpracované <strong> tagy
+        text = re.sub(r'(?<!\*)\*([^*]+?)\*(?!\*)', r'<em>\1</em>', text)
+        text = re.sub(r'(?<!_)_([^_]+?)_(?!_)', r'<em>\1</em>', text)
+        
+        # Odkazy [text](url) -> <a href="url">text</a>
+        text = re.sub(r'\[([^\]]+)\]\(([^\)]+)\)', r'<a href="\2">\1</a>', text)
+        
+        return text
+    
+    @staticmethod
+    def _has_structural_html(content: str) -> bool:
+        """Zkontroluje, zda obsah obsahuje strukturované HTML tagy"""
+        return any(tag in content.lower() for tag in ContentFormatter.STRUCTURAL_HTML_TAGS)
+    
+    @staticmethod
     def _format_html_content(content: str) -> str:
         """Formátuje Markdown-like obsah do HTML"""
-        # Zachovat existující HTML tagy
-        if '<' in content and '>' in content:
-            return content
+        # Zkontrolovat, zda obsah již obsahuje strukturované HTML tagy
+        has_structural_html = ContentFormatter._has_structural_html(content)
         
-        # Převod Markdown seznamů
+        # Pokud obsah už má strukturované HTML, vrátit ho beze změny
+        if has_structural_html:
+            return content.strip()
+        
+        # Převod Markdown seznamů a odstavců na HTML
         lines = content.split('\n')
         html_lines = []
         in_list = False
@@ -465,19 +576,32 @@ class ContentFormatter:
         for line in lines:
             stripped = line.strip()
             
+            # Prázdný řádek - ignorovat, ale uzavřít seznam pokud je otevřený
+            if not stripped:
+                if in_list:
+                    html_lines.append('</ul>')
+                    in_list = False
+                continue
+            
             # Odrážkové seznamy
             if stripped.startswith('- ') or stripped.startswith('* '):
                 if not in_list:
                     html_lines.append('<ul>')
                     in_list = True
-                html_lines.append(f'    <li>{stripped[2:]}</li>')
+                # Převést inline markdown ve výčtu
+                list_item_text = ContentFormatter._convert_inline_markdown(stripped[2:])
+                html_lines.append(f'    <li>{list_item_text}</li>')
             else:
                 if in_list:
                     html_lines.append('</ul>')
                     in_list = False
-                if stripped:
-                    html_lines.append(f'<p>{stripped}</p>')
+                
+                # Běžný řádek textu - převést na HTML s inline formátováním
+                if not stripped.startswith('#'):
+                    line_html = ContentFormatter._convert_inline_markdown(stripped)
+                    html_lines.append(f'<p>{line_html}</p>')
         
+        # Uzavřít seznam pokud zůstal otevřený
         if in_list:
             html_lines.append('</ul>')
         
@@ -679,8 +803,13 @@ class CategoryTemplateGenerator:
         # Parsování podle typu souboru
         if input_path.endswith('.md'):
             parsed_content = self.parser.parse_markdown(content)
-        elif input_path.endswith('.html'):
-            parsed_content = self.parser.extract_html_content(content)
+        elif input_path.endswith('.html') or input_path.endswith('.txt'):
+            # Zkontrolovat, zda jde o plný HTML dokument nebo fragment
+            if '<!DOCTYPE' in content or '<html' in content.lower():
+                parsed_content = self.parser.extract_html_content(content)
+            else:
+                # HTML fragment (obsah bez <html>, <head>, <body>)
+                parsed_content = self.parser.parse_html_fragment(content)
         else:
             raise ValueError(f"Nepodporovaný formát souboru: {input_path}")
         
@@ -695,6 +824,8 @@ class CategoryTemplateGenerator:
         if output_path:
             if output_format == OutputFormat.HTML:
                 output = self.formatter.to_html(parsed_content)
+            elif output_format == OutputFormat.HTML_FRAGMENT:
+                output = self.formatter.to_html_fragment(parsed_content)
             else:
                 output = self.formatter.to_markdown(parsed_content)
             
@@ -721,6 +852,8 @@ class CategoryTemplateGenerator:
         if output_path:
             if output_format == OutputFormat.HTML:
                 output = self.formatter.to_html(sample_content)
+            elif output_format == OutputFormat.HTML_FRAGMENT:
+                output = self.formatter.to_html_fragment(sample_content)
             else:
                 output = self.formatter.to_markdown(sample_content)
             
@@ -753,7 +886,7 @@ Příklady použití:
     
     parser.add_argument('input', nargs='?', help='Vstupní soubor (Markdown nebo HTML)')
     parser.add_argument('-o', '--output', help='Výstupní soubor')
-    parser.add_argument('-f', '--format', choices=['html', 'markdown'], default='html',
+    parser.add_argument('-f', '--format', choices=['html', 'html_fragment', 'markdown'], default='html',
                        help='Výstupní formát (default: html)')
     parser.add_argument('-v', '--validate', action='store_true',
                        help='Pouze validovat obsah, negenerovat výstup')
@@ -769,7 +902,12 @@ Příklady použití:
     
     # Generování vzorového textu
     if args.generate_sample:
-        output_format = OutputFormat.HTML if args.format == 'html' else OutputFormat.MARKDOWN
+        if args.format == 'html':
+            output_format = OutputFormat.HTML
+        elif args.format == 'html_fragment':
+            output_format = OutputFormat.HTML_FRAGMENT
+        else:
+            output_format = OutputFormat.MARKDOWN
         sample = generator.generate_sample(args.generate_sample, args.output, output_format)
         
         print(f"\n✅ Vzorový text pro '{args.generate_sample}' byl vygenerován")
@@ -792,7 +930,14 @@ Příklady použití:
         print(f"❌ Chyba: Soubor '{args.input}' neexistuje")
         return
     
-    output_format = OutputFormat.HTML if args.format == 'html' else OutputFormat.MARKDOWN
+    # Určit výstupní formát
+    if args.format == 'html':
+        output_format = OutputFormat.HTML
+    elif args.format == 'html_fragment':
+        output_format = OutputFormat.HTML_FRAGMENT
+    else:
+        output_format = OutputFormat.MARKDOWN
+        
     content, validation_results = generator.process_file(
         args.input,
         args.output,
