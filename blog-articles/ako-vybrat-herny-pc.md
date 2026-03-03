@@ -53,25 +53,25 @@ Pri rozhodovaní, **ako vybrať PC**, sa sústreďte na štyri kľúčové kompo
 
 ### Grafická karta (GPU)
 
-<a href="https://www.hellocomp.sk/graficke-karty-do-pc/">Grafická karta</a> je najdôležitejšia komponenta pre hranie. Určuje, v akom rozlíšení a na akých detailoch budete hrať. Pri výbere sa zamerajte na:
+<a href="https://www.hellocomp.cz/sk/graficke-karty-do-pc/">Grafická karta</a> je najdôležitejšia komponenta pre hranie. Určuje, v akom rozlíšení a na akých detailoch budete hrať. Pri výbere sa zamerajte na:
 
 * **Výkon vo vašom cieľovom rozlíšení** – iná GPU stačí pre Full HD, iná pre 4K
 * **Veľkosť VRAM** – moderné hry vyžadujú čím ďalej viac video pamäte
 * **Podpora moderných technológií** – Ray Tracing, DLSS (NVIDIA) alebo FSR (AMD)
 
-<a href="https://www.hellocomp.sk/graficke-karty-nvidia/">NVIDIA GeForce</a> a <a href="https://www.hellocomp.sk/graficke-karty-amd/">AMD Radeon</a> sú dve hlavné voľby. Obe značky ponúkajú kvalitné produkty v rôznych cenových kategóriách.
+<a href="https://www.hellocomp.cz/sk/graficke-karty-nvidia/">NVIDIA GeForce</a> a <a href="https://www.hellocomp.cz/sk/graficke-karty-amd/">AMD Radeon</a> sú dve hlavné voľby. Obe značky ponúkajú kvalitné produkty v rôznych cenových kategóriách.
 
 ### Procesor (CPU)
 
-<a href="https://www.hellocomp.sk/procesory/">Procesor</a> je mozog počítača. Pre hranie je dôležitý jednojádrový výkon i počet jadier. Základné pravidlo:
+<a href="https://www.hellocomp.cz/sk/procesory/">Procesor</a> je mozog počítača. Pre hranie je dôležitý jednojádrový výkon i počet jadier. Základné pravidlo:
 
-* **E-sport a Full HD** – stačí <a href="https://www.hellocomp.sk/procesory-intel-core-i5/">Intel Core i5</a> alebo <a href="https://www.hellocomp.sk/procesory-amd-ryzen-5/">AMD Ryzen 5</a>
-* **1440p a streaming** – <a href="https://www.hellocomp.sk/procesory-intel-core-i7/">Intel Core i7</a> alebo <a href="https://www.hellocomp.sk/procesory-amd-ryzen-7/">AMD Ryzen 7</a>
-* **4K a profesionálna práca** – <a href="https://www.hellocomp.sk/procesory-intel-core-i9/">Intel Core i9</a> alebo <a href="https://www.hellocomp.sk/procesory-amd-ryzen-9/">AMD Ryzen 9</a>
+* **E-sport a Full HD** – stačí <a href="https://www.hellocomp.cz/sk/procesory-intel-core-i5/">Intel Core i5</a> alebo <a href="https://www.hellocomp.cz/sk/procesory-amd-ryzen-5/">AMD Ryzen 5</a>
+* **1440p a streaming** – <a href="https://www.hellocomp.cz/sk/procesory-intel-core-i7/">Intel Core i7</a> alebo <a href="https://www.hellocomp.cz/sk/procesory-amd-ryzen-7/">AMD Ryzen 7</a>
+* **4K a profesionálna práca** – <a href="https://www.hellocomp.cz/sk/procesory-intel-core-i9/">Intel Core i9</a> alebo <a href="https://www.hellocomp.cz/sk/procesory-amd-ryzen-9/">AMD Ryzen 9</a>
 
 ### Operačná pamäť (RAM)
 
-<a href="https://www.hellocomp.sk/operacni-pameti/">Operačná pamäť</a> ovplyvňuje plynulosť pri multitaskingu. Pre hranie platí:
+<a href="https://www.hellocomp.cz/sk/operacne-pamate/">Operačná pamäť</a> ovplyvňuje plynulosť pri multitaskingu. Pre hranie platí:
 
 * **16 GB** – minimum pre moderné hry
 * **32 GB** – ideálne pre náročnejších hráčov, streamerov a tvorcov obsahu
@@ -81,7 +81,7 @@ DDR5 ponúka vyšší výkon, DDR4 lepší pomer cena/výkon. Typ pamäte (DDR4 
 
 ### Úložisko (SSD)
 
-<a href="https://www.hellocomp.sk/interni-disky/">SSD disk</a> je dnes štandardom. Zabezpečuje rýchly štart systému i načítavanie hier. Moderné hry zaberajú desiatky až stovky GB, preto voľte:
+<a href="https://www.hellocomp.cz/sk/interne-disky/">SSD disk</a> je dnes štandardom. Zabezpečuje rýchly štart systému i načítavanie hier. Moderné hry zaberajú desiatky až stovky GB, preto voľte:
 
 * **512 GB** – absolútne minimum
 * **1 TB** – rozumný základ
@@ -158,7 +158,7 @@ Naše rady herných PC sú navrhnuté tak, aby vyhovovali rôznym úrovniam hrá
 
 ## Vyberte si najlepšie herné PC
 
-Preskúmajte našu kompletnú ponuku <a href="https://www.hellocomp.sk/herni-pocitace/">herných počítačov</a> a nájdite riešenie presne pre váš herný štýl a rozpočet. Využite možnosť konfigurácie na mieru a pri všetkých modeloch si overte výkon pomocou **FPS kalkulačky**.
+Preskúmajte našu kompletnú ponuku <a href="https://www.hellocomp.cz/sk/herne-pocitace--gaming/">herných počítačov</a> a nájdite riešenie presne pre váš herný štýl a rozpočet. Využite možnosť konfigurácie na mieru a pri všetkých modeloch si overte výkon pomocou **FPS kalkulačky**.
 
 **Odporúčané herné PC zostavy** od HelloComp sú pripravené na okamžité použitie – stačí zapojiť a hrať. Chcete **kúpiť herný počítač** a neviete, kde začať? Kontaktujte nás – radi poradíme do 24 hodín. U nás nájdete **herný PC** riešenie pre každý typ gamingu.
 
